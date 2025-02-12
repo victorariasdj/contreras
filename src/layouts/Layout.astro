@@ -9,7 +9,6 @@ interface Props {
 const {title, description, image, keywords} = Astro.props;
 
 import { ClientRouter } from "astro:transitions";
-import "../style/Layout.css"
 import NavBar from "../components/Navbar.astro"
 import Footer from "../components/Footer.astro"
 
@@ -39,4 +38,29 @@ import Footer from "../components/Footer.astro"
 	</body>
 </html>
 
+<style is:global>
+	* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
 
+	h2 {
+    font-size: 51px;
+    font-weight:600;
+}
+
+	body {
+    background: #061647;
+    color: #fff;
+    font-family: 'roboto', sans-serif;
+    
+}
+
+
+
+	.text-long {
+    font-family: 'Nunito Sans Variable', sans-serif;
+}
+</style>
