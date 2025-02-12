@@ -1,0 +1,151 @@
+---
+import Layout from "../Layouts/Layout.astro";
+import BotonContactame from "../components/BotonContactame.astro";
+---
+
+<Layout title="Servicios Juridicos">
+    <h1>Servicios Jurídicos</h1>
+    <div class="cards">
+        <div class="card blue">
+            <img src="/mdi--contract.svg" alt="">
+            <div class="texts">
+              <p class="tip">Legalización de Predios a través de Procesos de Declaración de Pertenencia</p>
+              <p class="second-text">Asesoramiento integral en el proceso de legalización de propiedades por posesión, Preparación y presentación de documentos ante los Juzgados Civiles Municipales, Representación legal para garantizar la legitimidad y seguridad jurídica de la propiedad.</p>
+            </div>
+        </div>
+      
+        <div class="card blue">
+            <img src="/mdi--newspaper-check.svg" alt="">
+            <div class="texts">
+              <p class="tip">Resolución de Conflictos</p>
+              <p class="second-text">Mediación y conciliación en disputas legales inmobiliarias, Representación legal en procesos de resolución de conflictos, Estrategias para evitar litigios innecesarios y buscar soluciones amigables.</p>
+            </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--shield-check-outline.svg" alt="">
+          <div class="texts">
+            <p class="tip">Liquidación de Sucesiones</p>
+            <p class="second-text">Asesoría en el manejo legal de sucesiones y herencias, Evaluación y elaboración de inventarios y particiones de bienes, Gestión de trámites legales para la transferencia de propiedades a herederos.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--newspaper-plus.svg" alt="">
+          <div class="texts">
+            <p class="tip">Derecho Urbanístico</p>
+            <p class="second-text">Asesoría en normativas y regulaciones urbanísticas locales, Tramitación de licencias y autorizaciones para proyectos inmobiliarios, Resolución de problemas legales relacionados con el uso del suelo y la planificación urbana.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--folder-house.svg" alt="">
+          <div class="texts">
+            <p class="tip">Divorcios y Cesación de Efectos Civiles</p>
+            <p class="second-text">Representación legal en casos de divorcio y separación de bienes, Negociación y redacción de acuerdos de divorcio., Asesoramiento en procesos de cesación de efectos civiles para parejas no casadas.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--house-find.svg" alt="">
+          <div class="texts">
+            <p class="tip">Due Diligence Inmobiliario</p>
+            <p class="second-text">Investigación exhaustiva de la situación legal de propiedades, Evaluación de posibles contingencias legales, Informes detallados para respaldar decisiones de inversión inmobiliaria.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--person-multiple-check-outline.svg" alt="">
+          <div class="texts">
+            <p class="tip">Contratos Inmobiliarios</p>
+            <p class="second-text">Redacción y revisión de contratos de compraventa, arrendamiento y promesa de compraventa, Asesoramiento en la negociación de condiciones contractuales, Garantía de cumplimiento normativo y protección de los derechos de las partes involucradas.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--vector-square.svg" alt="">
+          <div class="texts">
+            <p class="tip">Asesoramiento Legal Integral para Inversiones Inmobiliarias</p>
+            <p class="second-text">Evaluación de riesgos legales asociados a inversiones inmobiliarias, Asesoría en la estructuración legal de transacciones y financiamientos, Gestión de aspectos legales en proyectos de desarrollo inmobiliario.</p>
+          </div>
+        </div>
+    </div>
+    <BotonContactame />
+</Layout>
+
+<style>
+    h1 {
+        text-align: center;
+        padding-bottom: 12px;
+    }
+
+    img {
+    width: 40px;
+  }
+  
+  .texts {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    background-color: #fff;
+    padding: 12px;
+  }
+  
+  .cards .blue {
+    display: flex;
+    border: 1px solid #00bbff88;
+    padding: 12px;
+    gap: 8px;
+    width: 545px;
+    max-height: fit-content;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+      0 0 0 2px rgb(255, 255, 255),
+      0.3em 0.3em 1em rgba(0, 187, 255, 0.5333);
+  }
+
+  .cards .blue img {
+  width: 58px;;
+  height: 58px;
+}
+  
+  .card:nth-child(2n) {
+    margin-top: 20px;
+  }
+  
+  .cards .card {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    /* flex-direction: column; */
+    /* text-align: center; */
+    border-radius: 10px;
+    color: #061647;
+    /* cursor: pointer; */
+    transition: 400ms;
+  }
+  
+  .cards .card p.tip {
+    font-size: 1.2em;
+    font-weight: 700;
+  }
+  
+  .cards .card p.second-text {
+    font-size: 1em;
+  }
+  
+  .cards .card:hover {
+    transform: scale(1.1, 1.1);
+  }
+  
+  .cards:hover > .card:not(:hover) {
+    /* filter: blur(1px); */
+    transform: scale(0.9, 0.9);
+  }
+</style>

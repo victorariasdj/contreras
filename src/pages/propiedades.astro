@@ -1,0 +1,284 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const propertys = (await getCollection("property")).sort(
+  (a, b) => new Date(b.data.date) - new Date(a.data.date)
+);
+// const sortedPosts = propertys.reverse();
+
+// console.log(propertys)
+---
+
+<Layout title="Propiedades" description="Poner descripcion aqui" image=https://y5ih62hxaulu7bpydf2d7rqm5kdw3ic7w3d6w5aqjcmyjpx4bnqa.arweave.net/x1B_aPcFF0-F-Bl0P8YM6odtoF-2x-t0EEiZhL78C2A keywords="propiedades, venta, casa, casa campestre correguir ortografia aqui">
+  <section>
+    <div id="contenedor">
+      <div class="contenido"><h1>Propiedades</h1></div>
+      {propertys.map((property) => {
+        const { slug, data } = property;
+        const {title,
+          img,
+          ubicacion,
+          precio,
+          tipoPropiedad,
+          areaPropiedad,
+          estado,
+          habitaciones,
+          baños,
+          parqueadero} = data;
+
+        return (
+                
+        <div class="card">
+        <a class="image" href={`/property/${slug}`}>
+          <img src={img} alt={title} />
+          <div class="text-overlay">
+            {areaPropiedad && <p>{areaPropiedad} - mt2</p>}
+            <p>${precio}/COP</p>
+            <p><strong>{tipoPropiedad}</strong></p>
+          </div>
+        </a>
+        <div class="content">
+          <a href="#">
+            <span class="title">
+              {title}
+            </span>
+          </a>
+          <div>
+            <div id="ubicacion">
+              <img src="gridicons--location.svg" alt="bed" />
+              <p class="desc">{ubicacion}</p>
+            </div>
+          </div> 
+
+          <div>
+            <div class="texto-content">
+              <div class="habitaciones">
+                <p>Habitaciones</p>
+                <div class="características">
+                  <img src="material-symbols--bed-outline.svg" alt="bed" />
+                  <p>{habitaciones}</p>
+                </div>
+              </div>
+              <div class="habitaciones">
+                <p>Baños</p>
+                <div class="características">
+                  <img src="mdi--bathroom.svg" alt="bed" />
+                  <p>{baños}</p>
+                </div>
+              </div>
+              <div class="habitaciones">
+                <p>Parqueadero</p>
+                <div class="características">
+                  <img src="mdi--car-back.svg" alt="bed" />
+                  <p>{parqueadero}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+          
+          // <article>
+          //   <a href=""><h4>{title}</h4></a>
+          //   <a href={`/property/${slug}`}><img src={img} alt={title} /></a>
+          //   <p>Ubicación: {ubicacion}</p>
+          //   <p>Tipo de Propiedad: {tipoPropiedad}</p>
+          //   <p>Estado: {estado}</p>
+          //   <p>Habitaciones: {habitaciones}</p>
+          //   <p>Baños: {baños}</p>
+          //   <p>Parqueaderos: {parqueadero}</p>
+          // </article>
+        );
+      })}
+    </div>
+  </section>
+</Layout>
+
+
+<style>
+
+  h1 {
+    margin: 12px;
+    color: #111827;
+    font-size: 46px
+  }
+
+  .contenido {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  section {
+    background-color: #fff;
+  }
+
+  a {
+    color: #fff;
+    
+  }
+
+   article {
+    width: 500px;
+    height: 600px;
+   
+  }
+  img {
+    width: 100%;
+    object-fit: cover;
+    height: 230px;
+    transition: all 0.3s ease;
+
+  }
+
+  img:hover {
+    transform: scale(1.1);
+  }
+
+  #ubicacion {
+    display: flex;
+  }
+
+  #ubicacion img {
+    width: auto;
+    height: 18px;
+  }
+
+  .habitaciones {
+    width: 107px;
+    text-align: center;
+    outline: 2px dashed rgb(72 12 168 / 16%);
+    padding: 5px 0;
+
+  }
+
+  .características {
+    display: flex;
+    justify-content: center;
+    gap: 4px
+  }
+
+  #contenedor {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background: #ecf0f1;
+  }
+
+  .texto-content img {
+    width: auto;
+    height: 18px;
+  }
+
+  .texto-content {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    /* outline: 2px dashed rgb(72 12 168 / 16%); */
+    /* padding: 0 10px; */
+    justify-content: space-around;
+  }
+
+  .texto-content p {
+    color: #000;
+  }
+
+   /* From Uiverse.io by Yaya12085 */ 
+.card {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  width: 357px;
+  margin: 16px 0;
+  transition: all 0.3s ease;
+  /* height: 428px; */
+  border-radius: 0.5rem;
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  border: 1px solid transparent;
+  box-shadow: 0px 0px 4px rgba(72 12 168 / 16%);
+}
+
+.card:hover {
+  box-shadow: 12px 12px 50px rgba(0, 0, 0, 0.4);
+}
+.card a {
+  
+  /* text-decoration: none */
+
+}
+
+.content {
+  display: block;
+  margin: 5px 15px 0 15px;
+}
+
+.image {
+  object-fit: cover;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 10px;
+  /* width: 100%; */
+  /* height: 150px; */
+  /* background-color: rgb(239, 205, 255); */
+}
+
+.text-overlay {
+  position: absolute;
+  top: 176px;
+  width: 100%;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  background: linear-gradient(to bottom, rgba(6, 22, 71, 0.3), rgba(6, 22, 71, 1));
+  color: #fff; /* Texto en blanco */
+  opacity: 1; /* Ocultar inicialmente */
+  transition: opacity 0.3s ease; /* Transición suave */
+}
+
+.text-overlay p {
+  margin: 0 16px;
+  font-size: 1rem;
+  /* font-weight: bold; */
+}
+
+.title {
+  color: #111827;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+
+.desc {
+  /* margin-top: 0.5rem; */
+  color: #6B7280;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.action {
+  display: inline-flex;
+  margin-top: 1rem;
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  align-items: center;
+  gap: 0.25rem;
+  background-color: #2563EB;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.action span {
+  transition: .3s ease;
+}
+
+.action:hover span {
+  transform: translateX(4px);
+}
+
+</style>

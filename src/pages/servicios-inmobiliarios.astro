@@ -1,0 +1,185 @@
+---
+import BotonContactame from "../components/BotonContactame.astro";
+import Layout from "../Layouts/Layout.astro";
+
+---
+
+<Layout title="Servicios Inmobiliarios">
+    <h1>Servicios Inmobiliarios</h1>
+    <div class="cards">
+        <div class="card blue">
+            <img src="/mdi--contract.svg" alt="">
+            <div class="texts">
+              <p class="tip">Acompañamiento de visitas a los predios objeto de compraventa.</p>
+              <p class="second-text">(lotes, casas, fincas). Estamos a su entera disposición con el fin de hacer el acompañamiento previamente programado.</p>
+            </div>
+        </div>
+      
+        <div class="card blue">
+            <img src="/mdi--newspaper-check.svg" alt="">
+            <div class="texts">
+              <p class="tip">Diligenciamiento en la solicitud del paz y salvo municipal.</p>
+              <p class="second-text">De igual manera se realiza el trámite de paz y salvo municipal ante Catastro multipropósito.</p>
+            </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--shield-check-outline.svg" alt="">
+          <div class="texts">
+            <p class="tip">Estudio de títulos.</p>
+            <p class="second-text">Para mayor seguridad en su inversión se realiza un estudio de títulos por parte del área jurídica de la inmobiliaria, que le da garantía de su inversión.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--newspaper-plus.svg" alt="">
+          <div class="texts">
+            <p class="tip">Diligenciamiento en la solicitud del paz y salvo departamental.</p>
+            <p class="second-text">Contamos con personal idóneo en el trámite del paz y salvo departamental en la sede de la Gobernación del Valle.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--folder-house.svg" alt="">
+          <div class="texts">
+            <p class="tip">Expedición de certificados de tradición.</p>
+            <p class="second-text">Este documento público se expide en línea con el fin de darle celeridad al proceso de compraventa.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--house-find.svg" alt="">
+          <div class="texts">
+            <p class="tip">Asesoramiento en la promesa de compraventa.</p>
+            <p class="second-text">El área jurídica una vez tenga toda la documentación requerida, procede a realizar la respectiva promesa de compraventa, que garantice la seguridad jurídica del objeto de compraventa.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--approval.svg" alt="">
+          <div class="texts">
+            <p class="tip">Avalúos catastrales.</p>
+            <p class="second-text">Contamos con vasta experiencia en avalúos de bienes inmuebles, con un grupo capacitado con los últimos avances tecnológicos, quienes cuentan con el Registro Nacional de Avaluadores (RNA), adscritos a la Lonja Colombiana.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--person-multiple-check-outline.svg" alt="">
+          <div class="texts">
+            <p class="tip">Acompañamiento en el proceso de escrituración.</p>
+            <p class="second-text">Nos trasladamos a la notaría de confianza de las partes, o en su defecto en las notarías de entera confianza de la región calima.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--vector-square.svg" alt="">
+          <div class="texts">
+            <p class="tip">Topografía</p>
+            <p class="second-text">(medición de áreas y rectificación de límites). Contamos con personal profesional Agrimensores, quienes alimentan y actualiza la información del predio, actualizando asi el registro catastral del predio.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--paper-check.svg" alt="">
+          <div class="texts">
+            <p class="tip">Acompañamiento en el trámite registral de las escrituras.</p>
+            <p class="second-text">Se radica ante la Oficina de Registro competente.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--town-hall.svg" alt="">
+          <div class="texts">
+            <p class="tip">Diligenciamiento en el pago del impuesto predial.</p>
+            <p class="second-text">Como quiera que nos encontramos en la región calima, nos encargamos de diligenciar y pagar los impuestos adeudados por el contribuyente, respecto del predio objeto de compraventa.</p>
+          </div>
+        </div>
+      
+        <div class="card blue">
+          <img src="/mdi--house-circle.svg" alt="">
+          <div class="texts">
+            <p class="tip">Entrega de escrituras registradas.</p>
+            <p class="second-text">Una vez quede registrada la escritura, se le hace entrega al comprador de la misma con el respectivo Certificado de Tradición.</p>
+          </div>
+        </div>
+      
+      </div>
+      <BotonContactame />
+</Layout>
+
+<style>
+    h1 {
+        text-align: center;
+        padding-bottom: 12px;
+    }
+
+    img {
+  width: 40px;
+}
+
+.texts {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  background-color: #fff;
+  padding: 12px;
+}
+
+.cards .blue {
+  display: flex;
+  border: 1px solid #00bbff88;
+  padding: 12px;
+  gap: 8px;
+  width: 545px;
+  max-height: fit-content;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+    0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 187, 255, 0.5333);
+}
+
+.cards .blue img {
+  width: 58px;;
+  height: 58px;
+}
+
+.card:nth-child(2n) {
+  margin-top: 20px;
+}
+
+.cards .card {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  /* flex-direction: column; */
+  /* text-align: center; */
+  border-radius: 10px;
+  color: #061647;
+  /* cursor: pointer; */
+  transition: 400ms;
+}
+
+.cards .card p.tip {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.cards .card p.second-text {
+  font-size: 1em;
+}
+
+.cards .card:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.cards:hover > .card:not(:hover) {
+  /* filter: blur(1px); */
+  transform: scale(0.9, 0.9);
+}
+</style>

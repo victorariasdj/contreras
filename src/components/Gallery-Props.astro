@@ -1,0 +1,261 @@
+---
+// Recibe un array de imágenes como prop
+const { images } = Astro.props;
+
+---
+
+<div class="gallery">
+  {images.map((image, index) => (
+    <img src={image.src} alt={image.alt || `Imagen ${index + 1}`} class="gallery-item" data-index={index} />
+  ))}
+</div>
+
+<div class="lightbox" id="lightbox">
+  <img src="" alt="Imagen ampliada" id="lightbox-img" />
+  <button id="prev-btn" class="lightbox-btn prev-btn">&lt;</button>
+  <button id="next-btn" class="lightbox-btn next-btn">&gt;</button>
+</div>
+
+<style>
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.gallery {
+  columns: 3 320px;
+  padding: 12px 0;
+  /* margin: 14px; */
+}
+
+.gallery-item {
+  max-width: 100%;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover {
+  transform: scale(1.05);
+}
+
+.lightbox {
+  position: fixed;
+  top: 32px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 1001;
+}
+
+.lightbox.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.lightbox img {
+  cursor: zoom-in;
+  max-width: 90%;
+  max-height: 90%;
+  transition: transform 0.3s ease;
+}
+
+.lightbox img.zoomed {
+  cursor: zoom-out;
+}
+
+.lightbox-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.699);
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  z-index: 1002;
+}
+
+.prev-btn {
+  height: 60%;
+  left: 20px;
+}
+
+.next-btn {
+  height: 60%;
+
+  right: 20px;
+}
+
+.lightbox-btn:hover {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .lightbox img {
+    max-width: 100%;
+    max-height: 80%;
+  }
+
+  .lightbox-btn {
+    font-size: 1.5rem;
+    padding: 0.3rem;
+  }
+
+  .prev-btn {
+    height: 10%;
+    left: 10px;
+  }
+
+  .next-btn {
+    height: 10%;
+    right: 10px;
+  }
+}
+
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const galleryItems = document.querySelectorAll(".gallery-item");
+  const lightbox = document.querySelector(".lightbox");
+  const lightboxImg = lightbox.querySelector("img");
+  const prevBtn = document.querySelector(".prev-btn");
+  const nextBtn = document.querySelector(".next-btn");
+
+  let currentIndex = 0;
+  let isZooming = false; // Control del estado del zoom
+  let tooltipShown = false; // Asegura que el tooltip solo se muestre una vez
+  const isTouchDevice = "ontouchstart" in window || navigator.maxTouchPoints > 0;
+
+  const openImage = (index) => {
+    const imgSrc = galleryItems[index].src;
+    lightboxImg.src = imgSrc;
+    lightbox.classList.add("show");
+    currentIndex = index;
+
+    // Mostrar el mensaje de doble clic solo en dispositivos no táctiles
+    if (!tooltipShown && !isTouchDevice) {
+      showTooltip();
+      tooltipShown = true;
+    }
+  };
+
+  const closeLightbox = () => {
+    lightbox.classList.remove("show");
+    isZooming = false;
+    lightboxImg.style.transformOrigin = ""; // Restablece el zoom
+    lightboxImg.style.transform = ""; 
+  };
+
+  const showNextImage = () => {
+    currentIndex = (currentIndex + 1) % galleryItems.length;
+    openImage(currentIndex);
+  };
+
+  const showPrevImage = () => {
+    currentIndex = (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+    openImage(currentIndex);
+  };
+
+  // Activar/desactivar zoom con doble clic
+  lightboxImg.addEventListener("dblclick", (e) => {
+    isZooming = !isZooming;
+
+    if (isZooming) {
+      if (!isTouchDevice) {
+        // Calcular el origen del zoom para dispositivos no táctiles
+        const rect = lightboxImg.getBoundingClientRect();
+        const clickX = e.clientX - rect.left;
+        const clickY = e.clientY - rect.top;
+
+        const xPercent = (clickX / rect.width) * 100;
+        const yPercent = (clickY / rect.height) * 100;
+
+        lightboxImg.style.transformOrigin = `${xPercent}% ${yPercent}%`;
+      }
+      lightboxImg.style.transform = "scale(2)";
+    } else {
+      lightboxImg.style.transform = "";
+    }
+  });
+
+  // Mover la imagen con el cursor al hacer zoom (solo para dispositivos no táctiles)
+  if (!isTouchDevice) {
+    lightboxImg.addEventListener("mousemove", (e) => {
+      if (!isZooming) return;
+
+      const rect = lightboxImg.getBoundingClientRect();
+      const offsetX = e.clientX - rect.left;
+      const offsetY = e.clientY - rect.top;
+
+      const xPercent = (offsetX / rect.width) * 100;
+      const yPercent = (offsetY / rect.height) * 100;
+
+      lightboxImg.style.transformOrigin = `${xPercent}% ${yPercent}%`;
+    });
+  }
+
+  galleryItems.forEach((item, index) => {
+    item.addEventListener("click", () => {
+      openImage(index);
+    });
+  });
+
+  lightbox.addEventListener("click", (e) => {
+    if (
+      e.target !== lightboxImg &&
+      e.target !== prevBtn &&
+      e.target !== nextBtn
+    ) {
+      closeLightbox();
+    }
+  });
+
+  prevBtn.addEventListener("click", showPrevImage);
+  nextBtn.addEventListener("click", showNextImage);
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeLightbox();
+    if (e.key === "ArrowRight") showNextImage();
+    if (e.key === "ArrowLeft") showPrevImage();
+  });
+
+  const showTooltip = () => {
+    const tooltip = document.createElement("div");
+    tooltip.textContent = "Doble clic para ampliar la imagen.";
+    tooltip.style.position = "fixed";
+    tooltip.style.bottom = "40%";
+    tooltip.style.left = "50%";
+    tooltip.style.transform = "translateX(-50%)";
+    tooltip.style.backgroundColor = "rgba(0, 0, 0, 0.7)";
+    tooltip.style.color = "#fff";
+    tooltip.style.padding = "10px 15px";
+    tooltip.style.borderRadius = "5px";
+    tooltip.style.fontSize = "16px";
+    tooltip.style.zIndex = "1003";
+    tooltip.style.transition = "opacity 0.3s ease";
+    tooltip.style.opacity = "1";
+
+    document.body.appendChild(tooltip);
+
+    setTimeout(() => {
+      tooltip.style.opacity = "0";
+      setTimeout(() => tooltip.remove(), 300);
+    }, 3000);
+  };
+});
+
+</script>

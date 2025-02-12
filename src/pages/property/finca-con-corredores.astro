@@ -1,0 +1,251 @@
+---
+import GalleryProps from "../../components/Gallery-Props.astro";
+import Layout from "../../layouts/Layout.astro";
+
+const title = "Finca El Sésamo";
+const description = "con una extensión aproximada de cuatro plazas y medio, que equivalen a unos 27.000 metros cuadrados, ofrece un oasis de tranquilidad y comodidad en medio de la naturaleza. Perfecta para aquellos que buscan escapar del bullicio de la ciudad y disfrutar de la serenidad del campo.";
+const imgPrincipal = "/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo21.webp";
+const ubicacion = "Yotoco, Valle del Cauca"
+const keywords = "Finca El Sésamo, tranquilidad, naturaleza"
+
+
+const images = [
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo20.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo1.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo2.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo3.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo4.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo5.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo11.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo18.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo19.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo21.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo26.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo30.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo32.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo34.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo35.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo36.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo37.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo38.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo41.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo43.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo45.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo47.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo48.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo49.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo51.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo53.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo54.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo55.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo56.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo58.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo60.webp', alt: 'Descripción de la imagen 1' },
+  { src: '/propiedades/finca-con-corredores/inmobiliaria-calima-el-sesamo66.webp', alt: 'Descripción de la imagen 1' },
+  
+  
+];
+
+---
+<Layout title={title} description={description} image={imgPrincipal} keywords={keywords}>
+    <div class="contenedor">
+        <div class="titulo">
+            <h1>{title}</h1>
+            <p>{ubicacion}</p>
+        </div>
+        <lite-youtube videoid="izznSNcqeWs"></lite-youtube>
+        <div class="descripcion">
+            <p >Finca con una extensión aproximada de cuatro plazas y media, que equivalen a unos 27.000 metros cuadrados.</p>
+            <p>ofrece un oasis de tranquilidad y comodidad en medio de la naturaleza.</p>
+            <p>Perfecta para aquellos que buscan escapar del bullicio de la ciudad y disfrutar de la serenidad del campo</p>
+            <ul>
+                <li><strong>Acueducto Propio: </strong>Garantizando un suministro constante de agua fresca y limpia, esta propiedad cuenta con un acueducto propio, asegurando la autonomía y comodidad de sus residentes.</li>
+                <li><strong>Cocina y Sala Comedor Independientes: </strong>Espacios amplios y luminosos, diseñados para ofrecer comodidad y funcionalidad, ideales para compartir momentos inolvidables con familiares y amigos.</li>
+                <li><strong>Siete Habitaciones en Material: </strong>Espacios amplios y luminosos, diseñados para ofrecer comodidad y funcionalidad, ideales para compartir momentos inolvidables con familiares y amigos.</li>
+                <li><strong>Casa de Mayordomo Independiente: </strong>Para aquellos que buscan una atención personalizada, esta propiedad incluye una casa de mayordomo independiente, garantizando el cuidado y mantenimiento de la finca en todo momento.</li>
+                <li><strong>Corredores: </strong>Espacios exteriores cubiertos, perfectos para disfrutar de las vistas panorámicas del entorno natural circundante o simplemente para relajarse al aire libre.</li>
+                <li><strong>En Muy Buen Estado: </strong>Esta propiedad se encuentra en excelentes condiciones, listo para habitar, lo que garantiza una experiencia de vida cómoda y sin preocupaciones.</li>
+                <li><strong>Documentos al Día y Buena Tradición: </strong>Con todos los documentos en regla y una excelente reputación, esta propiedad ofrece tranquilidad y seguridad a sus futuros propietarios.</li>
+                <li><strong>Libre de Impuestos: </strong>Una propiedad libre de impuestos, lo que significa que no hay cargas fiscales adicionales que deban ser consideradas.</li>
+            </ul>
+            <div class="contactame">
+                <p>No dejes pasar esta oportunidad única. Contáctanos hoy mismo, programar una visita.</p>
+                <a href="">
+                    <button>
+                    <span class="box">
+                        <img src="/square-whatsapp.svg" alt="">
+                        Contáctame
+                    </span>
+                    </button>
+                </a>
+            </div>
+        </div>
+        <GalleryProps {images} />
+        <div class="contactame">
+            <p>No dejes pasar esta oportunidad única. Contáctanos hoy mismo, programar una visita.</p>
+            <a href="">
+                <button>
+                <span class="box">
+                    <img src="/square-whatsapp.svg" alt="">
+                    Contáctame
+                </span>
+                </button>
+            </a>
+        </div>
+    </div>
+</Layout>
+
+<style>
+
+    .contenedor {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        gap: 12px;
+        font-size: 20px;
+        justify-content:center;
+        align-items: center;
+        margin: 14px;
+        /* text-align: center; */
+
+    }
+
+    .titulo {
+        text-align: center;
+    }
+
+    .descripcion{
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 100%;
+        /* padding: 16px 14px; */
+        background-color: #fff;
+        color: #061647;
+        justify-content: center;
+
+    }
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+        justify-content: space-around;
+    }
+
+    li {
+        margin: 8px 14px;
+        max-width: 330px;
+    }
+
+    p {
+        margin: 8px 14px;
+    }
+
+    .contactame {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    lite-youtube {
+        width: 50%;
+    }
+
+    /* inicio boton */
+    .box {
+  width: 140px;
+  height: auto;
+  float: left;
+  transition: .5s linear;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  padding: 15px;
+  text-align: center;
+  margin: 0 5px;
+  background: #061647;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+  margin: 8px;
+}
+
+.box img {
+    width: 50px;
+}
+
+.box:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  width: 100%;
+  border-bottom: 3px solid transparent;
+  border-left: 3px solid transparent;
+  box-sizing: border-box;
+  transform: translateX(100%);
+}
+
+.box:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  border-top: 4px solid transparent;
+  border-right: 4px solid transparent;
+  box-sizing: border-box;
+  transform: translateX(-100%);
+}
+
+.box:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.box:hover:before {
+  border-color: #00bbff;
+  height: 100%;
+  transform: translateX(0);
+  transition: .3s transform linear, .3s height linear .3s;
+}
+
+.box:hover:after {
+  /* border-color: #00bbff; */
+  height: 100%;
+  transform: translateX(0);
+  transition: .3s transform linear, .3s height linear .5s;
+}
+
+button {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background: transparent;
+}
+/* fin boton */
+    
+    @media screen and (max-width: 767px) {
+        
+        .descripcion{
+        max-width: 100%;
+
+    }
+
+    .contactame {
+        justify-content: center;
+    }
+
+    lite-youtube {
+        width: 100%;
+    }
+
+}
+    
+    
+</style>
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1/lite-youtube.min.js"></script>

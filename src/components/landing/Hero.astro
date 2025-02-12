@@ -1,0 +1,76 @@
+---
+import BotonContactame from "../BotonContactame.astro";
+---
+
+<section>
+    <div class="foto-nombre">
+        <img transition:name="fotoCarlos" src="/carlosSinFondo.png" alt="">
+        <p class="text-long ">Carlos Arturo Contreras C.</p>
+        <BotonContactame />
+    </div>
+
+    <div>
+        <h2>Abogado<br><span>Corredor de Bienes Raices</span></h2>
+        <p class="text-long" >Abogado conciliador con una destacada trayectoria y credibilidad en la Región.</p>
+        <p>Con 10 años de experiencia en el sector inmobiliario del Municipio de <strong>Calima el Darién.</strong></p>
+    </div>
+    
+
+</section>
+
+<style>
+
+section {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    text-align:justify;
+    position: relative;
+    z-index: 1;
+    gap: 4px;
+    height: 100vh;
+    }
+
+    section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/IMG_1029.webp');
+    background-size: cover;
+    background-position:center;
+    opacity: 0.8; /* Ajusta este valor para la opacidad */
+    z-index: -1; /* Coloca el fondo detrás del contenido */
+    }
+
+    section p {
+    font-size: 20px;
+    max-width: 800px;
+}
+
+    img {
+        max-height: 250px;
+    }
+
+    span {
+       color: #00bbff;
+    }
+
+    @media screen and (max-width: 1270px) {
+
+        section {
+            flex-direction: column;
+            text-align: center;
+        }
+
+        div p {
+          margin: 0 8px;
+        }
+
+        h2 {
+            font-size: 45px;
+        }        
+    }
+</style>

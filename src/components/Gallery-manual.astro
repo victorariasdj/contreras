@@ -1,0 +1,202 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+<div class="contenedor">
+  <div class="gallery">
+    <img src="/inmobiliara-calima-abogado.jpg" alt="Imagen 1" class="gallery-item">
+    <img src="/inmobiliara-calima-corredor.jpg" alt="Imagen 2" class="gallery-item">
+    <img src="/inmobiliariacalima.png" alt="Imagen 2" class="gallery-item">
+    <img src="/carlosSinFondo.png" alt="Imagen 2" class="gallery-item">
+    <img src="/inmobiliara-calima-abogado.jpg" alt="Imagen 1" class="gallery-item">
+    <img src="/inmobiliara-calima-corredor.jpg" alt="Imagen 2" class="gallery-item">
+    <img src="/inmobiliariacalima.png" alt="Imagen 2" class="gallery-item">
+    <img src="/carlosSinFondo.png" alt="Imagen 2" class="gallery-item">
+    <img src="/inmobiliara-calima-abogado.jpg" alt="Imagen 1" class="gallery-item">
+    <img src="/inmobiliara-calima-corredor.jpg" alt="Imagen 2" class="gallery-item">
+    <img src="/inmobiliariacalima.png" alt="Imagen 2" class="gallery-item">
+    <img src="carlosSinFondo.png" alt="Imagen 2" class="gallery-item"><img src="/inmobiliara-calima-abogado.jpg" alt="Imagen 1" class="gallery-item">
+    <img src="inmobiliara-calima-corredor.jpg" alt="Imagen 2" class="gallery-item">
+    <img src="inmobiliariacalima.png" alt="Imagen 2" class="gallery-item">
+    <img src="carlosSinFondo.png" alt="Imagen 2" class="gallery-item">
+    <!-- Agrega más imágenes según sea necesario -->
+  </div>
+
+<!-- Contenedor para el lightbox -->
+  <div class="lightbox" id="lightbox">
+    <!-- Imagen ampliada -->
+    <img src="" alt="Imagen ampliada" id="lightbox-img">
+
+    <!-- Botones de navegación -->
+    <button id="prev-btn" class="lightbox-btn prev-btn">&lt;</button>
+    <button id="next-btn" class="lightbox-btn next-btn">&gt;</button>
+  </div>
+</div>
+
+<style>
+
+.contenedor {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    margin: 0;
+    /* background-color: #f0f0f0; */
+}
+
+.gallery {
+  columns: 3 320px;
+  padding: 12px 0;
+}
+
+.gallery-item {
+    max-width: 100%;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.gallery-item:hover {
+    transform: scale(1.05);
+}
+
+.lightbox {
+  position: fixed;
+  top: 48px;
+  left: 0;
+  width: 100%;
+  height: 94%;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 1001;
+}
+
+.lightbox.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.lightbox img {
+  /* max-width: 50%; */
+  max-height: 88%;
+  transition: transform 0.3s ease;
+}
+
+.lightbox-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.699);
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  z-index: 1002;
+}
+
+.prev-btn {
+  left: 20px;
+}
+
+.next-btn {
+  right: 20px;
+}
+
+.lightbox-btn:hover {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+</style>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+  const galleryItems = document.querySelectorAll(".gallery-item");
+  const lightbox = document.getElementById("lightbox");
+  const lightboxImg = document.getElementById("lightbox-img");
+  const prevBtn = document.getElementById("prev-btn");
+  const nextBtn = document.getElementById("next-btn");
+
+  let currentIndex = 0; // Índice de la imagen actual
+
+  // Función para abrir la imagen seleccionada
+  const openImage = (index) => {
+    const imgSrc = galleryItems[index].src;
+    lightboxImg.src = imgSrc;
+    lightbox.classList.add("show");
+    currentIndex = index;
+
+    // Aplicar efecto de zoom desde el origen
+    const rect = galleryItems[index].getBoundingClientRect();
+    const originalWidth = rect.width;
+    const originalHeight = rect.height;
+    const originalX = rect.left;
+    const originalY = rect.top;
+
+    const scaleX = window.innerWidth / originalWidth;
+    const scaleY = window.innerHeight / originalHeight;
+    const scale = Math.min(scaleX, scaleY) * 0.9;
+
+    const translateX = window.innerWidth / 2 - (originalX + originalWidth / 2);
+    const translateY = window.innerHeight / 2 - (originalY + originalHeight / 2);
+
+    lightboxImg.style.transform = `
+            translate(${translateX}px, ${translateY}px)
+            scale(${scale})
+        `;
+
+    // Restablecer la transformación para activar la transición
+    requestAnimationFrame(() => {
+      lightboxImg.style.transform = "";
+    });
+  };
+
+  // Función para cerrar el lightbox
+  const closeLightbox = () => {
+    lightbox.classList.remove("show");
+  };
+
+  // Funciones para cambiar la imagen
+  const showNextImage = () => {
+    currentIndex = (currentIndex + 1) % galleryItems.length;
+    openImage(currentIndex);
+  };
+
+  const showPrevImage = () => {
+    currentIndex =
+      (currentIndex - 1 + galleryItems.length) % galleryItems.length;
+    openImage(currentIndex);
+  };
+
+  // Event Listeners
+  galleryItems.forEach((item, index) => {
+    item.addEventListener("click", () => openImage(index));
+  });
+
+  lightbox.addEventListener("click", (e) => {
+    // Evita cerrar el lightbox si se hace clic en las flechas o la imagen
+    if (
+      e.target !== lightboxImg &&
+      e.target !== prevBtn &&
+      e.target !== nextBtn
+    ) {
+      closeLightbox();
+    }
+  });
+
+  nextBtn.addEventListener("click", showNextImage);
+  prevBtn.addEventListener("click", showPrevImage);
+
+  // Cerrar el lightbox con la tecla "Escape"
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeLightbox();
+    if (e.key === "ArrowRight") showNextImage();
+    if (e.key === "ArrowLeft") showPrevImage();
+  });
+});
+
+</script>

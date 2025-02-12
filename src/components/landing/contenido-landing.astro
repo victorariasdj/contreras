@@ -1,0 +1,238 @@
+---
+import BotonContactame from "../BotonContactame.astro";
+
+
+---
+
+<div class="contenedor">
+    <section>
+        <a href="propiedades"><img src="/inmobiliara-calima-corredor2-600x400.jpg" alt=""></a>
+        <div>
+            <a href="propiedades"><h2>Propiedades de primer nivel a la venta</h2></a>
+            <p class="text-long" >Inmobiliaria Calima, su socio confiable en el fascinante mundo de bienes raíces</p>
+            <p class="text-long" >La transparencia, la integridad y la excelencia legal son nuestros pilares. Estamos aquí para guiarlos en cada paso del camino con confianza y certeza legal.</p>
+        </div>
+    </section>
+    <article>
+        <h2>¿Cómo te puedo ayudar?</h2>
+        <BotonContactame />
+    </article>
+    <section>
+        <a href="/servicios-inmobiliarios"><img src="/inmobiliara-calima-corredor.jpg" alt=""></a>
+        <div>
+            <a href="servicios-inmobiliarios"><h2>Como Corredor Inmobiliario</h2></a>
+            <p class="text-long" >Con una sólida formación legal y diez años de experiencia específica en el sector inmobiliario en el Municipio de Calima el Darién, me enorgullezco de ofrecer servicios inigualables en el ámbito de la legalización de predios.</p>
+            <a href="/servicios-inmobiliarios">
+                <button >
+                    <span class="box">
+                        <!-- <img src="/square-whatsapp.svg" alt=""> -->
+                        Ver Servicios
+                    </span>
+                </button>
+            </a>
+        </div>
+    </section>
+
+    <section>
+        <a href="/servicios-juridicos"><img src="/inmobiliara-calima-abogado.jpg" alt=""></a>
+        <div>
+            <a href="servicios-juridicos"><h2>Como Abogado</h2></a>
+            <p class="text-long" >Nuestro equipo legal está aquí para brindarle orientación y soluciones sólidas en cada paso del proceso.</p>
+            <a href="/servicios-juridicos">
+                <button>
+                    <span class="box">
+                        <!-- <img src="/square-whatsapp.svg" alt=""> -->
+                        Ver Servicios
+                    </span>
+                </button>
+            </a>
+        </div>
+    </section>
+</div>
+
+<style>
+    section {
+        display:flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        /* flex-direction: column; */
+        /* text-align: left; */
+        background-color: #fff;
+        color: #061647;
+        padding: 6px;
+        margin: 14px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+        0 0 0 2px rgb(255, 255, 255),
+        0.3em 0.3em 1em rgba(0, 187, 255, 0.5333);
+        /* animation: reveal linear both;
+        animation-timeline: view();
+        animation-range: entry 20% cover 30%; */
+        }
+
+    
+        @keyframes reveal {
+    from {
+        opacity: 0;
+        translate: 0 150px;
+        scale: .5;
+    }
+    to {
+        opacity: 1;
+        translate: 0 0;
+        scale: 1;
+    }
+}
+
+    a {
+        display: inline-block;
+        max-width: fit-content;
+        color:#061647;
+        transition-duration: 0.3s;
+    }
+
+    a:hover {
+        scale: 1.02;
+        cursor: pointer;
+    }
+
+    section div {
+        margin: 0 48px;
+        flex: 2;
+    }
+
+    section p {
+        font-size: 20px;
+    }
+
+    img {
+        width: 450px;
+        object-fit: contain;
+    }
+
+    div {
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        justify-content: center;
+        gap: 14px;
+        /* margin: 12px; */
+        /* max-width: 1080px; */
+
+    }
+
+    .contenedor {
+        display: flex;
+    }
+
+    article {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+/* inicio boton */
+    .box {
+  width: 140px;
+  height: auto;
+  float: left;
+  transition: .5s linear;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  padding: 15px;
+  text-align: center;
+  margin: 0 5px;
+  background: #061647;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+  margin: 8px;
+}
+
+.box img {
+    width: 50px;
+}
+
+.box:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  width: 100%;
+  border-bottom: 3px solid transparent;
+  border-left: 3px solid transparent;
+  box-sizing: border-box;
+  transform: translateX(100%);
+}
+
+.box:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  border-top: 4px solid transparent;
+  border-right: 4px solid transparent;
+  box-sizing: border-box;
+  transform: translateX(-100%);
+}
+
+.box:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.box:hover:before {
+  border-color: #00bbff;
+  height: 100%;
+  transform: translateX(0);
+  transition: .3s transform linear, .3s height linear .3s;
+}
+
+.box:hover:after {
+  /* border-color: #00bbff; */
+  height: 100%;
+  transform: translateX(0);
+  transition: .3s transform linear, .3s height linear .5s;
+}
+
+button {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background: transparent;
+}
+/* fin boton */
+
+@media screen and (max-width: 1270px) {
+
+.contenedor {
+    text-align: center;
+}
+
+/* section {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+} */
+
+section div {
+    align-items: center;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    max-width: 100%;
+}
+}
+</style>

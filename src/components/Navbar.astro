@@ -1,0 +1,301 @@
+<nav>
+  <a href="/"><img src="/Logo-Inmobiliaria-Calima-bh-1.webp" alt=""></a>
+  <label class="burger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </label>
+  <div class="navegacion">
+    <div class="menu-item">
+      <a href="/">
+        <span class="box">Inicio</span>
+      </a>
+    </div>
+
+    <div class="menu-item">
+      <a >
+        <span class="box">Servicios</span>
+      </a>
+      <ul class="submenu">
+        <li><a href="/servicios-inmobiliarios"">Servicios Inmobiliarios</a></li>
+        <li><a href="/servicios-juridicos">Servicios Jurídicos</a></li>
+      </ul>
+    </div>
+
+    <div class="menu-item">
+      <a href="/propiedades">
+        <span class="box">Propiedades</span>
+      </a>
+    </div>
+
+    <div class="menu-item">
+      <a href="/carlos-arturo-contreras-castillo">
+        <span class="box">Perfil Profesional</span>
+      </a>
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<style>
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #061647;
+}
+
+.navegacion {
+  display: flex;
+  gap: 20px;
+}
+
+img {
+  max-width: 190px;
+}
+
+.menu-item {
+  position: relative;
+}
+
+.submenu {
+  position: absolute;
+  top: 100%; 
+  left: 0;
+  background: #fff;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: none; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+}
+
+.submenu li {
+  margin: 0;
+  padding: 0;
+}
+
+.submenu a {
+  display: block;
+  padding: 10px 15px;
+  color: #000;
+  text-decoration: none;
+}
+
+.submenu a:hover {
+  background: #00bbff;
+  color: #fff;
+}
+
+.menu-item:hover .submenu {
+  display: block;
+}
+
+.box {
+  height: auto;
+  float: left;
+  transition: 0.5s linear;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  padding: 15px;
+  font-size: 16px;
+  text-align: center;
+  margin: 0 5px;
+  background: transparent;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+
+.box:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  width: 100%;
+  border-bottom: 2px solid transparent;
+  border-left: 2px solid transparent;
+  box-sizing: border-box;
+  transform: translateX(100%);
+}
+
+.box:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  border-top: 4px solid transparent;
+  border-right: 4px solid transparent;
+  box-sizing: border-box;
+  transform: translateX(-100%);
+}
+
+.box:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.box:hover:before {
+  border-color: #00bbff;
+  height: 100%;
+  transform: translateX(0);
+  transition: 0.3s transform linear, 0.3s height linear 0.3s;
+}
+
+.box:hover:after {
+  /* border-color: #00bbff; */
+  height: 100%;
+  transform: translateX(0);
+  transition: 0.3s transform linear, 0.3s height linear 0.5s;
+}
+
+/* Reset button styles */
+button {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background: transparent;
+}
+
+
+
+
+
+/* Estilos para dispositivos móviles */
+@media screen and (max-width: 1270px) {
+  
+  .navegacion a {
+  color: #061647;
+}
+
+.box {
+  width: 100%;
+}
+
+.burger {
+  position: relative;
+  width: 40px;
+  height: 30px;
+  background: transparent;
+  cursor: pointer;
+  display: block;
+}
+
+.burger span {
+  display: block;
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  background: #fff;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  transform: rotate(0deg);
+  transition: 0.25s ease-in-out;
+}
+
+.burger span:nth-of-type(1) {
+  top: 0px;
+  transform-origin: left center;
+}
+
+.burger span:nth-of-type(2) {
+  top: 50%;
+  transform: translateY(-50%);
+  transform-origin: left center;
+}
+
+.burger span:nth-of-type(3) {
+  top: 100%;
+  transform-origin: left center;
+  transform: translateY(-100%);
+}
+
+.burger.active span:nth-of-type(1) {
+  transform: rotate(45deg);
+  top: 0px;
+  left: 5px;
+}
+
+.burger.active span:nth-of-type(2) {
+  width: 0%;
+  opacity: 0;
+}
+
+.burger.active span:nth-of-type(3) {
+  transform: rotate(-45deg);
+  top: 28px;
+  left: 5px;
+}
+
+.navegacion {
+  display: none;
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 100%;
+  background-color: #061647;
+  text-align: center;
+  flex-direction: column;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navegacion.active {
+  display: flex;
+}
+}
+</style>
+
+<script>
+  const initBurgerMenu = () => {
+    const burger = document.querySelector('.burger');
+    const navegacion = document.querySelector('.navegacion');
+
+    if (!burger || !navegacion) return;
+
+    // Clonar los nodos para eliminar eventos previos y evitar duplicados
+    const newBurger = burger.cloneNode(true);
+    const newNavegacion = navegacion.cloneNode(true);
+
+    burger.replaceWith(newBurger);
+    navegacion.replaceWith(newNavegacion);
+
+    // Función para alternar el menú
+    const toggleMenu = () => {
+      newBurger.classList.toggle('active');
+      newNavegacion.classList.toggle('active');
+    };
+
+    // Función para cerrar el menú si se hace clic fuera de él
+    const closeMenu = (event) => {
+      if (
+        !newBurger.contains(event.target) && 
+        !newNavegacion.contains(event.target)
+      ) {
+        newBurger.classList.remove('active');
+        newNavegacion.classList.remove('active');
+      }
+    };
+
+    // Eventos de clic para abrir/cerrar el menú
+    newBurger.addEventListener('click', toggleMenu);
+    document.addEventListener('click', closeMenu);
+  };
+
+  // Ejecutar en la carga inicial
+  document.addEventListener('DOMContentLoaded', initBurgerMenu);
+
+  // Ejecutar en cada navegación interna usando el Client Router
+  document.addEventListener('astro:page-load', initBurgerMenu);
+</script>

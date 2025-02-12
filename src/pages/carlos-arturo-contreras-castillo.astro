@@ -1,0 +1,108 @@
+---
+import BotonContactame from "../components/BotonContactame.astro";
+import Layout from "../layouts/Layout.astro";
+
+---
+
+<Layout title="Carlos Contreras" description="abogado conciliador con una destacada trayectoria y credibilidad en la Región del Calima Daríen.">
+  <body>
+    <div class="container">
+      <img transition:name="fotoCarlos" src="/carlosSinFondo.png" alt="">
+    <h1>Carlos Arturo Contreras Castillo</h1>
+
+    <div class="contact-info">
+      <p><strong>Teléfono:</strong> +57 316 4423898</p>
+      <p><strong>Correo:</strong> abogado.carloscontreras@hotmail.com</p>
+      <BotonContactame />
+    </div>
+
+      <div class="section">
+        <h2>Sobre Mí</h2>
+        <p>¡Bienvenido al mundo de bienes raíces, donde la excelencia legal y la experiencia se encuentran! Soy Carlos Arturo Contreras Castillo, un abogado conciliador con una destacada trayectoria y credibilidad en la Región del Calima Daríen. Con una sólida formación legal y diez años de experiencia específica en el sector inmobiliario en el Municipio de Calima el Darién, me enorgullezco de ofrecer servicios inigualables en el ámbito de la legalización de predios.</p>
+      </div>
+
+      <div class="section">
+        <h2>Formación y Trayectoria</h2>
+        <p>Soy egresado de la Universidad Santiago de Cali, donde obtuve mi título en Derecho. Mi compromiso con la excelencia académica se refleja en mi desempeño a lo largo de los años y en mi dedicación constante al aprendizaje continuo.</p>
+        <p>Mi experiencia legal se ha forjado en diversos roles de relevancia en la administración pública, donde he desempeñado funciones clave para la comunidad:</p>
+        <ul>
+          <li><strong>Asesor Jurídico del programa Servicios de Tránsito de la Secretaría de Tránsito de Cali</strong>, demostrando mi habilidad para abordar cuestiones legales complejas relacionadas con el tránsito y la movilidad.</li>
+          <li><strong>Secretario de Gobierno en el año 2015</strong>, donde lideré iniciativas y proyectos que contribuyeron al desarrollo y bienestar de la comunidad.</li>
+          <li><strong>Asesor Jurídico en el año 2020</strong>, aportando mi experiencia legal para abordar desafíos específicos y garantizar el cumplimiento de las normativas.</li>
+          <li><strong>Secretario de Gobierno y Alcalde Encargado en el año 2022</strong>, asumiendo responsabilidades ejecutivas cruciales y demostrando mi capacidad para liderar en situaciones críticas.</li>
+          <li><strong>Gerente de Empresas Municipales de Acueducto y Alcantarillado EMCALIMA E.S.P.</strong> en el año 2023, donde gestioné eficazmente recursos y proyectos esenciales para el suministro de servicios básicos.</li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Especialización en Legalización de Predios</h2>
+        <p>Mi enfoque principal se centra en la legalización de predios por posesión, utilizando el proceso de Declaración de Pertenencia ante los Juzgados Civiles Municipales. Mi profundo conocimiento de las leyes y regulaciones locales me permite guiar a mis clientes a través de este proceso de manera eficiente y segura, asegurando la legitimidad y seguridad jurídica de sus propiedades.</p>
+        <p>Mi compromiso con la transparencia, la ética y la eficiencia me convierte en la opción ideal para aquellos que buscan un agente inmobiliario con una perspectiva legal sólida y un historial probado en la Región del Calima Daríen. Estoy aquí para convertir sus sueños inmobiliarios en realidades legales y exitosas. ¡Contácteme y déjeme guiarlo en cada paso del camino!</p>
+      </div>
+    </div>
+
+  </body>
+
+</Layout>
+
+<style>
+  body {
+    /* font-family: Arial, sans-serif; */
+    line-height: 1.3;
+    margin: 0;
+    padding: 0;
+    background-color: #ecf0f1;
+    color: #061647;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    /* box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+    0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 187, 255, 0.5333); */
+  }
+
+  img {
+    height: 200px;
+    display: block;
+    /* margin: auto; */
+  }
+
+  h1, h2 {
+    color: #061647;
+    font-size: 38px;
+  }
+
+  .contact-info {
+    background: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+
+  .section {
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin: 10px 0;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    list-style: none;
+  }
+
+  @media (max-width: 600px) {
+    .container {
+      padding: 15px;
+    }
+  }
+</style>
