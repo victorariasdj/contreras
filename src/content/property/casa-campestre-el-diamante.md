@@ -1,7 +1,7 @@
 ---
 date: "2024-06-20"
 title: Casa Campestre El Diamante
-img: https://kb5nq4w3ofm2um4vr3lix3wlzkacawtl3cx2zuuejki4aolbi3aa.arweave.net/UHrYcttxWaozlY7Wi-7LyoAgWmvYr6zShEqRwDlhRsA
+img: https://wr5kqvnzmxzvt46wr3n7vhr624bjobpl5ruldxlze66w5rldyqla.arweave.net/tHqoVbll81nz1o7b-p4-1wKXBevsaLHdeSe9bsVjxBY
 ubicacion: Calima Darién
 precio: "280.000.000"
 cercaDe: 10 minutos del casco urbano de
