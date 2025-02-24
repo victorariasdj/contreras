@@ -1,9 +1,9 @@
 ---
-date: "2025-02-22"
+date: "2025-02-24"
 title: Casa Predio Tableros
 img: https://r2oi7xpcvpymbnnkjxfjkawosap5il4xe74tpdlbgkfmgeacd7uq.arweave.net/jpyP3eKr8MC1qk3KlQLOkB_UL5cn-TeNYTKKwxACH-k
 ubicacion: Calima Darién
-precio: "1.600.000.000"
+precio: "1.525.000.000"
 cercaDe: Tableros
 tipoPropiedad: Casa Campestre
 estado: Venta
