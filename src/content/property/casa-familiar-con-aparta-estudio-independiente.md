@@ -3,11 +3,11 @@ date: "2024-08-21"
 title: Casa Familiar con Aparta Estudio Independiente
 img: https://d54hyanmjprvf3igj2fcfy5dvvyxkxgzku73glypqpxpmyk36mea.arweave.net/H3h8AaxL41LtBk6KIuOjrXF1XNlVP7MvD4Pu9mFb8wg
 ubicacion: Calima Darién
-precio: "400.000.000"
+precio: "380.000.000"
 cercaDe: A dos Cuadras del Parque
 tipoPropiedad: Casa
 estado: Venta
-areaPropiedad:
+areaPropiedad: 126
 areaConstruida:
 descripcion: A dos cuadras del parque de Calima Darién, excelente ubicación, buena tradición, tres habitaciones, un baño, cuarto de san alejo, un aparta estudio con baño, cocina, techo completamente renovado. 3 Habitaciones, 1 Baño
 habitaciones: 3
