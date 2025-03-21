@@ -3,7 +3,7 @@ date: "2025-03-21"
 title: Lote San Jose
 img: https://kgeq7rzmpigcvucqrdpy42uvlf6pyrpjltxpzhpyqqe2fs4lzsxa.arweave.net/UYkPxyx6DCrQUIjfjmqVWXz8Relc7vyd-IQJosuLzK4
 ubicacion: Calima El Darién
-precio: "444.0000.0000"
+precio: "444.000.000"
 cercaDe: A 10 Minutos del Parque Principal
 tipoPropiedad: Lote
 estado: Venta
