@@ -49,7 +49,4 @@ galeria:
   
 ---
 
-Lote de 3075 mts2, con acueducto, energia, excelente ubicación, con vista al Lago Calima
- <br><br>
-
-Excelentes acabados. <br><br>
+Lote de 3075 mts2, con acueducto, energia, excelente ubicación, con vista al Lago Calima<br><br>
