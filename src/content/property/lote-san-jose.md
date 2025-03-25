@@ -6,7 +6,7 @@ ubicacion: Calima El Darién
 precio: "444.000.000"
 cercaDe: A 10 Minutos del Parque Principal
 tipoPropiedad: Lote
-estado: Venta
+estado: Venta 
 areaPropiedad: 5550
 areaConstruida:
 descripcion: A diez minutos del parque de Calima el Darién, buena carretera, servicio de energía, gas y abundante agua.
@@ -51,6 +51,6 @@ galeria:
 ---
 
 
-**Venta de Lote** Ubicado a 10 minutos del Parque Principal en la zona rural del municipio de Calima El Darien, buena vía de acceso.<br>
+**Se Vende O se Permuta por (casa, apartamento, vehiculo y dinero en efectivo) LOTE** Ubicado a 10 minutos del Parque Principal en la zona rural del municipio de Calima El Darien, buena vía de acceso.<br>
 Cuenta con: servicio de energía, gas y abundante agua<br><br>
 Documentación al día.<br><br>
