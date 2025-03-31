@@ -59,6 +59,6 @@ galeria:
 ---
 
 **Venta de Casa Campestre**, Finca ubicada a 1.5 km del casco urbano en la Vereda San Jose. <br> 
-Vista al lago, terreno semi plano con 45.000mts2 y con 2 aguas naturales. Tiene una casona con 5 Cuartos y 3 baños, casa mayordomo, hangar y establos en estado medio.  <br><br>
+Vista al lago Calima, terreno semi plano con 45.000mts2 y con 2 aguas naturales. Tiene una casona con 5 Cuartos y 3 baños, casa mayordomo, hangar y establos en estado medio.  <br><br>
 
  <br><br>
