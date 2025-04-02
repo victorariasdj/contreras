@@ -3,7 +3,7 @@ date: "2024-09-03"
 title: Vereda la Unión
 img: https://5ne35d24nvdf2ork7bodkpqjoimhrgmkphsqwp2gtwanuak7fsna.arweave.net/60m-j1xtRl06KvhcNT4Jchh4mYp55Qs_Rp2A2gFfLJo
 ubicacion: Calima Darién
-precio: "1.000.000.000"
+precio: "800.000.000"
 cercaDe: 10 minutos del parque central
 tipoPropiedad: Casa Campestre
 estado: Venta
