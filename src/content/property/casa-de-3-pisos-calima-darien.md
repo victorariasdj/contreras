@@ -5,7 +5,7 @@ img: https://tvnhv7yomryl5fbyn2alcduafzxvxwhzwsrfblz67bkjqdprsh4q.arweave.net/nV
 ubicacion: Calima Darién
 precio: "500.000.000"
 cercaDe: A una Cuadra del Parque Central
-tipoPropiedad: Casa, Local Comercial
+tipoPropiedad: casa, local comercial
 estado: Venta
 areaPropiedad: 75
 areaConstruida: 225

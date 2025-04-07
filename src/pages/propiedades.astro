@@ -6,14 +6,31 @@ const propertys = (await getCollection("property")).sort(
   (a, b) => new Date(b.data.date) - new Date(a.data.date)
 );
 // const sortedPosts = propertys.reverse();
-
+const tiposPropiedadUnicos = [...new Set(propertys.map(p => p.data.tipoPropiedad))];
 // console.log(propertys)
 ---
 
 <Layout title="Propiedades" description="Predios disponibles para la compra y venta." image=https://gd32xkqp7siubbfhtlvwairo6m3a4v4ihqfyr7oc4ut7qnulap4q.arweave.net/MPerqg_8kUCEp5rrYCIu8zYOV4g8C4j9wuUn-DaLA_k keywords="propiedades, venta, casa, campestre, finca, lote, compraventa, intercambio, permutas">
   <section>
+    <div class="contenido"><h1>Propiedades</h1></div>
+    <!-- inicio barra de busqueda -->
+    <div id="barra-busqueda">
+      <input 
+      type="text" 
+      id="busqueda" 
+      placeholder="Buscar por título, ubicación, tipo..."
+      />
+      
+      <select id="filtroTipo" style="padding: 10px; margin-left: 10px; border: 1px solid #ccc; border-radius: 4px;">
+        <option value="">Todos los tipos</option>
+        {tiposPropiedadUnicos.map(tipo => (
+          <option value={tipo}>{tipo}</option>
+          ))}
+        </select>
+      </div>
+      <!-- Fin Barra de busqueda -->
+      
     <div id="contenedor">
-      <div class="contenido"><h1>Propiedades</h1></div>
       {propertys.map((property) => {
         const { slug, data } = property;
         const {title,
@@ -103,6 +120,25 @@ const propertys = (await getCollection("property")).sort(
     color: #111827;
     font-size: 46px
   }
+
+  #barra-busqueda {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  padding: 20px;
+  background: #fff;
+}
+
+#barra-busqueda input,
+#barra-busqueda select {
+  width: 90%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
 
   .contenido {
     width: 100%;
@@ -281,4 +317,44 @@ const propertys = (await getCollection("property")).sort(
   transform: translateX(4px);
 }
 
+@media (max-width: 600px) {
+  #barra-busqueda {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #barra-busqueda input,
+  #barra-busqueda select {
+    /* width: auto; */
+    margin: 0;
+  }
+}
+
 </style>
+
+<script type="module">
+  const busqueda = document.getElementById('busqueda');
+  const filtroTipo = document.getElementById('filtroTipo');
+  const cards = document.querySelectorAll('.card');
+
+  function filtrar() {
+    const texto = busqueda.value.toLowerCase();
+    const tipo = filtroTipo.value;
+
+    cards.forEach(card => {
+      const titulo = card.querySelector('.title').textContent.toLowerCase();
+      const ubicacion = card.querySelector('#ubicacion .desc')?.textContent.toLowerCase();
+      const tipoTexto = card.querySelector('.text-overlay strong')?.textContent;
+
+      const coincideTexto = titulo.includes(texto) || ubicacion?.includes(texto);
+      const coincideTipo = !tipo || tipoTexto === tipo;
+
+      card.style.display = coincideTexto && coincideTipo ? '' : 'none';
+    });
+  }
+
+  busqueda.addEventListener('input', filtrar);
+  filtroTipo.addEventListener('change', filtrar);
+</script>

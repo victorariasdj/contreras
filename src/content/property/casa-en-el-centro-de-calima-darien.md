@@ -5,7 +5,7 @@ img: https://vneevb3n2dzk5t5es6cvkm6yxjsbe34lrs6kakwtey72p7w6aqya.arweave.net/q0
 ubicacion: Calima Darién
 precio: "700.000.000"
 cercaDe: a 50 metros del parque principal
-tipoPropiedad: Casa con locales comerciales
+tipoPropiedad: casa, local comercial
 estado: Venta
 areaPropiedad:
 areaConstruida:
