@@ -5,7 +5,7 @@ img: https://q6vqcqlbclppeirclbnax57hptqqek27ji7fd3zjp6zfbrmij22a.arweave.net/h6
 ubicacion: Calima el Darién
 precio: "380.000.000"
 cercaDe: Calima el Darién
-tipoPropiedad: Casa
+tipoPropiedad: Casagitgi
 estado: Venta
 areaPropiedad: 300
 areaConstruida: 
