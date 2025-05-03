@@ -9,7 +9,7 @@ tipoPropiedad: Casa Campestre
 estado: Venta
 areaPropiedad: 1500
 areaConstruida: 
-descripcion: Linda Casa Campestre, excelente ubicación y vista al municipio de Restrepo. Ideal para el descanso
+descripcion: Linda Casa Campestre, excelente ubicación y vista al municipio de Restrepo. Ideal para el descanso.
 habitaciones: 4
 baños: 2
 parqueadero: 2
@@ -58,9 +58,8 @@ galeria:
     alt: Casa Campestre Bosques del Calima
   - src: https://kqihyzfwsrlcsslodqodusb3auakoibfqltkos5p5zr2vly7ibva.arweave.net/VBB8ZLaUVilJbhwcOkg7BQCnICWC5qdLr-5jqq8fQGo
     alt: Casa Campestre Bosques del Calima
- 
- 
- ---
+  
+---
 
 Hermosa Casa Campestre de 1.500 mts2, sala, comedor, cocina, 4 habitaciones, 2 baños, corredores, parqueadero para dos vehículos, pozo séptico de aguas usadas y pozo séptico de aguas lluvias. Documentos e impuestos al día. <br><br>
 
