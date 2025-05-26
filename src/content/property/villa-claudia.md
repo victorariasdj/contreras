@@ -56,9 +56,16 @@ galeria:
     alt: Villa Claudia
   - src: https://3eag7oyzcnzg7iri2u7palpqz5r6jblk52sb2fhzpoyctnj6kknq.arweave.net/2QBvuxkTcm-iKNU-8C3wz2PkhWrupB0U-XuwKbU-Ups
     alt: Villa Claudia
+  - src: https://aoj2fmqqvdh2oexakmkuldpdg6rryr2x2l4r3gt5y3a64gopnjqa.arweave.net/A5OishCoz6cS4FMVRY3jN6McR1fS-R2afcbB7hnPamA
+    alt: Villa Claudia
+  - src: https://xr2ffxdlxjgbgzv3oifeqzixksbbh2wva6geifguzkuc5iejzkea.arweave.net/vHRS3Gu6TBNmu3IKSGUXVIIT6tUHjEQU1MqoLqCJyog
+    alt: Villa Claudia
+  - src: https://vbnosomkmqx4kpw6re63gj2a5jc2s3vr7k5yxlnti5dsafxzjnma.arweave.net/qFrpOYpkL8U-3ok9sydA6kWpbrH6u4uts0dHIBb5S1g
+    alt: Villa Claudia
   
 ---
 
-**Venta de Casa Campestre** ubicada a 10 minutos de la Cabecera Municipal, toda la construcción en Pino. Cuenta con excelente vista, 4 habitaciones, 2 baños, cocina , area social y zona de parqueadero. <br>
+**Se Vende o se Permuta Casa Campestre** ubicada a 10 minutos de la Cabecera Municipal, toda la construcción en Pino. Cuenta con excelente vista, 4 habitaciones, 2 baños, cocina , area social y zona de parqueadero. <br>
 Perfecta para el descanso familiar.  <br><br>
+SE RECIBE VEHICULO, CON LA POSIBILIDAD DE VENDER FRACCIONES DE 1.000 A 3.000 MT2 <br><br>
  
