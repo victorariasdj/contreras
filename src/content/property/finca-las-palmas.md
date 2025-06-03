@@ -3,7 +3,7 @@ date: "2025-02-04"
 title: Finca Las Palmas
 img: https://66cxyriv4lbvpk3mw43rg6vsmp6mespt7whdugn3oevfrhg2i7sq.arweave.net/94V8RRXiw1erbLc3E3qyY_zCSfP9jjoZu3EqWJzaR-U
 ubicacion: Calima Darién
-precio: "370.000.000"
+precio: "240.000.000"
 cercaDe:
 tipoPropiedad: Casa
 estado: Venta

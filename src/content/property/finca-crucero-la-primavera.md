@@ -1,7 +1,7 @@
 ---
 date: "2025-03-12"
 title: Finca Crucero La Primavera
-img: https://mfewbpdotykomcysqv3hyrtlgwkmes3dlp7v6yijpx5x3yow6yra.arweave.net/YUlgvG6eFOYLEoV2fEZrNZTCS2Nb_19hCX37feHW9iI
+img: https://oewanh3igmbit22vi33bqz6l2evmo33ogbf5ztb55qypz6k2u7ja.arweave.net/cSwGn2gzAonrVUb2GGfL0SrHb24wS9zMPeww_Plap9I
 ubicacion: Calima Darién
 precio: "380.000.000"
 cercaDe: Vereda La Primavera
