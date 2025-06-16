@@ -166,4 +166,6 @@ CASA PRINCIPAL.<br>
                 Piso 3: Habitación principal con Balcón.<br>
 CASA AUXILIAR de un solo piso: Baño, cocina, ante sala, tres habitaciones, cuarto de san alejo, cuarto de herramienta y zona de barbecue.<br>
 Parqueadero para 4 autos, Lago de Pesca, Lago para Alevinos y Arboles Frutales.<br><br>
-PAGO SOLO EN EFECTIVO.<br><br>
+PAGO SOLO EN EFECTIVO.<br>
+**¡SE VENDE A PUERTA CERRADA!** <br><br>
+
