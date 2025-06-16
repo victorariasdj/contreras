@@ -126,9 +126,9 @@ galeria:
 ---
 
 
-**Maravillosa Finca Campestre** ubicada en la encantadora vereda de Villaraso, Circasia, Quindío. Con una extensión generosa de 22.078 M2, esta propiedad es ideal para quienes buscan un espacio de acogedor, productivo y rodeado de naturaleza.<br>
+**Maravillosa Finca Campestre** ubicada en la encantadora vereda de Villaraso, Circasia, Quindío a 15 minutos de Armenia. Con una extensión generosa de 22.078 M2, esta propiedad es ideal para quienes buscan un espacio acogedor, productivo y rodeado de naturaleza.<br>
 La casa Cuenta con: cinco (5) amplias habitaciones, seis (6) baños, sala de estudio independiente, cuarto de lavado.<br>
 Ambientes Cálidos y acogedores, ideales para el descanso y la vida en el campo.<br>
-Cultivos en producción de Cacao y Plátano, perfecto para quienes desean generara ingresos o desarrollar un proyecto agrícola.<br>
+Cultivos en producción de Cacao y Plátano, perfecto para quienes desean generar ingresos o desarrollar un proyecto agrícola.<br>
 **¡SE VENDE A PUERTA CERRADA!** <br><br>
 

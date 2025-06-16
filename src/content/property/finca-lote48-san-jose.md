@@ -91,7 +91,7 @@ HERMOSA FINCA EN VENTA CON VISTA AL LAGO CALIMA <br>
 Esta hermosa casa de dos (2) pisos, cuenta con: seis (6) habitaciones cómodas, dos (2) baños grandes bien distribuidos, una cocina funcional, cuarto de lavado independiente y ventanas de madera que le dan ese toque cálido y acogedor que enamora.<br>
 Todo está rodeado de Zonas Verdes  que dan una conexión con la Naturaleza, *agua natural y abundante*. <br> 
 Ubicado a solo 10 Minutos de la cabecera municipal, conjunto cerrado, con vecinos propietarios que cuidan y valoran el entorno.<br>
-*Entorno 100% familiar, seguro y de alta valorización*
+*Entorno 100% familiar, seguro y de alta valorización* <br>
 **IDEAL PARA**
 - Casa de Descanso
 - Proyecto Vacacional o Turístico 
