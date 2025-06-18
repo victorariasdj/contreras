@@ -1,6 +1,6 @@
 ---
 date: "2025-06-13"
-title: Casa Campestre, Circasia Quindío
+title: Casa Campestre, en el "Corazón del Eje Cafetero"
 img: https://bnmren6gwksztxwzwxtzou5gflkt5iffrffggs2rusqrnnhel7cq.arweave.net/C1kSN8aypZne2bXnl1OmKtU-oKWJSmNLUaShFrTkX8U
 ubicacion: Circasia, Quindío
 precio: "1.200.000.000"
@@ -9,7 +9,7 @@ tipoPropiedad: Casa Campestre
 estado: Venta
 areaPropiedad: 22078
 areaConstruida: 
-descripcion: Se Vende Finca Campestre- Vereda Villaraso, Circasia Quindío. Cultivos en producción de Cacao y Platano
+descripcion: Se Vende Finca Campestre- Vereda Villaraso, Circasia Quindío. En el "Corazón del Eje Cafetero". Cultivos en producción de Cacao y Platano
 habitaciones: 5
 baños: 3
 parqueadero: 2
@@ -122,11 +122,25 @@ galeria:
     alt: Casa Campestre, Circasia
   - src: https://ng3pxjl6rskj2jan6fjse54yeide24m5snhcpzec3sbdjlrxjvza.arweave.net/abb7pX6MlJ0kDfFTIneYIgZNcZ2TTifkgtyCNK43TXI
     alt: Casa Campestre, Circasia
+  - src: https://65q4f2wn7ibyampst3cucarsx4enrxngqiadt4bshmppvgicmnnq.arweave.net/92HC6s36A4Ax8p7FQQIyvwjY3aaCADnwMjse-pkCY1s
+    alt: Casa Campestre, Circasia
+  - src: https://46izkvukcia4hh76vdaghiddel65hsgksmhl37p4fk46trju35sa.arweave.net/55GVVooSAcOf_qjAY6BjIv3TyMqTDr39_Cq56cU032Q
+    alt: Casa Campestre, Circasia
+  - src: https://wgyhdfuxd7f3qoibcdqbnbjrekwpilmdo2rorfzo6cx5jrmjxv5a.arweave.net/sbBxlpcfy7g5ARDgFoUxIqz0LYN2ouiXLvCv1MWJvXo
+    alt: Casa Campestre, Circasia
+  - src: https://o4akz4h4ldwjda72twzms5uivx2wbxy3ahdcdfs4pjhlimgcnbsq.arweave.net/dwCs8PxY7JGD-p2yyXaIrfVg3xsBxiGWXHpOtDDCaGU
+    alt: Casa Campestre, Circasia
+  - src: https://fda5a3p3z3354ij6hm2e6rbxxgtkmkiitspwwnlhypg2v32w2wlq.arweave.net/KMHQbfvO994hPjs0T0Q3uaamKQicn2s1Z8PNqu9W1Zc
+    alt: Casa Campestre, Circasia
+  - src: https://soqkbhak5alaf67lh7cpfmryojwi2wcl2j2q5llp77wrwl2ditxq.arweave.net/k6CgnAroFgL76z_E8rI4cmyNWEvSdQ6tb__tGy9DRO8
+    alt: Casa Campestre, Circasia
+  
  
 ---
 
 
-**Maravillosa Finca Campestre** ubicada en la encantadora vereda de Villaraso, Circasia, Quindío a 15 minutos de Armenia. Con una extensión generosa de 22.078 M2, esta propiedad es ideal para quienes buscan un espacio acogedor, productivo y rodeado de naturaleza.<br>
+**Maravillosa Finca Campestre En el "Corazón del Eje Cafetero"**<br><br>
+Finca ubicada en la encantadora vereda de Villaraso, Circasia, Quindío a 15 minutos de Armenia. Con una extensión generosa de 22.078 M2, esta propiedad es ideal para quienes buscan un espacio acogedor, productivo y rodeado de naturaleza.<br>
 La casa Cuenta con: cinco (5) amplias habitaciones, seis (6) baños, sala de estudio independiente, cuarto de lavado.<br>
 Ambientes Cálidos y acogedores, ideales para el descanso y la vida en el campo.<br>
 Cultivos en producción de Cacao y Plátano, perfecto para quienes desean generar ingresos o desarrollar un proyecto agrícola.<br>
