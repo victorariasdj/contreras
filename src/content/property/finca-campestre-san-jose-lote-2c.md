@@ -16,99 +16,99 @@ parqueadero: 2
 keywords: finca, en venta, Calima El Darién, casa campestre, 
 videoId: 
 galeria:
-  - src: https://zslomnhpsxwm2c67vxtwvcudwcicznhotetgpkj5xbt3vr3dhsya.arweave.net/zJbmNO-V7M0L363naoqDsJAstO6ZJmepPbhnusdjPLA
+  - src: https://x26mio4lthfojmv5q2i2ymbed55salpuihin3eool3zoarc26o6q.arweave.net/vrzEO4uZyuSyvYaRrDAkH3sgLfRB0N2Rzl7y4ERa870
     alt: Casa Campestre San Jose
-  - src: https://mxht6swwo7cl2k2ynutoruv7nvbuxspe5fu36q7wxisefls24rmq.arweave.net/Zc8_StZ3xL0rWG0m6NK_bUNLyeTpab9D9rokQq5a5Fk
+  - src: https://gz5wmglbrjwfjrknmylps4tm5d5t5wxxn7rlvyzanday5bjzomma.arweave.net/NntmGWGKbFTFTWYW-XJs6Ps-2vdv4rrjIGjBjoU5cxg
     alt: Casa Campestre San Jose
-  - src: https://ydwovyksni4dhererpdfwd3ikmptjrox7hljyxcsvr5ik5ij4lgq.arweave.net/wOzq4VJqODOSJIvGWw9oUx80xdf51pxcUqx6hXUJ4s0
+  - src: https://5qphghgjftcdmr5qdtwah2muymktndx2zywqz53f5lea54b52jba.arweave.net/7B5zHMksxDZHsBzsA-mUwxU2jvrOLQz3ZerIDvA90kI
     alt: Casa Campestre San Jose
-  - src: https://7ob6qprfxcmtrwjbvjj53pwah3dimiiksnojuwx3dbceaqeizuaa.arweave.net/-4PoPiW4mTjZIapT3b7APsaGIQqTXJpa-xhEQECIzQA
+  - src: https://creh6pqdrtvcog2pnsscbcrtjorrdu4vy3nd4kqwde7abxed4iba.arweave.net/FEh_PgOM6icbT2ykIIozS6MR05XG2j4qFhk-ANyD4gI
     alt: Casa Campestre San Jose
-  - src: https://gstlrpnas6hojoiyykr3fetvkb266kolpxfivqijgymygqyw4t2q.arweave.net/NKa4vaCXjuS5GMKjspJ1UHXvKct9yorBCTYZg0MW5PU
+  - src: https://2qnzxhn2egtrsbuimwziddurlpa2srhpwtat3w3nqfuzbxjfw7ha.arweave.net/1BubnbohpxkGiGWygY6RW8GpRO-0wT3bbYFpkN0lt84
     alt: Casa Campestre San Jose
-  - src: https://gctsejxj4ihgse4w5fsmxhph5flzpawaza54g374rwz3ly6fnkpa.arweave.net/MKciJuniDmkTlulky53n6VeXgsDIO8Nv_I2ztePFap4
+  - src: https://mnzkmohoc5twwwhj5r7bdozddoxx7mrvqr5yn6hajaxvdzr3jhta.arweave.net/Y3KmOO4XZ2tY6ex-EbsjG69_sjWEe4b44EgvUeY7SeY
     alt: Casa Campestre San Jose
-  - src: https://wmkry2kai6ixyilulubjxace57i6zdk3fcjzm33d3l37hgvgd46q.arweave.net/sxUcaUBHkXwhdF0Cm4BE79HsjVsok5ZvY9r385qmHz0
+  - src: https://7zy4k2tzkl3x3ltrp4wp6czwyf2hrf52x3n4pm7zsomraxnmk2ca.arweave.net/_nHFanlS932ucX8s_ws2wXR4l7q-28ez-ZOZEF2sVoQ
     alt: Casa Campestre San Jose
-  - src: https://dqwh4pfukwej36puqmqzjfw2zwww2ki2lffksxlwwabi2va3dwpq.arweave.net/HCx-PLRViJ359IMhlJbaza1tKRpZSqlddrACjVQbHZ8
+  - src: https://x6arrgzykckgh7cqfpdcwuu7blu2q35fcgefcqlpnxvny2h5o2aq.arweave.net/v4EYmzhQlGP8UCvGK1KfCumob6URiFFBb23q3Gj9doE
     alt: Casa Campestre San Jose
-  - src: https://bd2ysfytfpwloratpuju5auyf5xrxmihvafh3oupmz45h4ajakra.arweave.net/CPWJFxMr7LdEE30TToKYL28bsQeoCn26j2Z50_AJAqI
+  - src: https://rbq4hrwfoq7cn2kqrjgq7uxnhekms4ljmyga3kb6ytxver6jjtrq.arweave.net/iGHDxsV0PibpUIpND9LtORTJcWlmDA2oPsTvUkfJTOM
     alt: Casa Campestre San Jose
-  - src: https://gqa5zer6wjwlknep6ed4z67bq5elvqrp3vxhyhmbmrt66qh57kcq.arweave.net/NAHckj6ybLU0j_EHzPvhh0i6wi_dbnwdgWRn70D9-oU
+  - src: https://yeutlspvxedgsovdcwg47x3uzzoirqc6ox33cak6j73oi4evb2fq.arweave.net/wSk1yfW5Bmk6oxWNz990zlyIwF5197EBXk_25HCVDos
     alt: Casa Campestre San Jose
-  - src: https://p6z4r43d447juny4elxgr3kush42mx4jkod6nho7pjaoqbzrvp7q.arweave.net/f7PI82PnPpo3HCLuaO1UkfmmX4lTh-ad33pA6Acxq_8
+  - src: https://h5hr7bjxhhszmfm2detja6hgq2kvncph2ib7izrikwzinqboujga.arweave.net/P08fhTc55ZYVmhkmkHjmhpVWiefSA_RmKFWyhsAuokw
     alt: Casa Campestre San Jose
-  - src: https://z3cdlw3addv6headlmdk2mqmgbw4j4wohiyzcmqbxvydpfejzpha.arweave.net/zsQ122AY6-OQA1sGrTIMMG3E8s46MZEyAb1wN5SJy84
+  - src: https://nzizooy2pkhm7ybgxg2fbgdgxut262dzsghmps7n343t3cbuasza.arweave.net/blGXOxp6js_gJrm0UJhmvSevaHmRjsfL7d83PYg0BLI
     alt: Casa Campestre San Jose
-  - src: https://bxcwur7y7q2hw6szmkldm4ervxl3yoopcfbrdi452wmzvalwlrya.arweave.net/DcVqR_j8NHt6WWKWNnCRrde8Oc8RQxGjndWZmoF2XHA
+  - src: https://s2hax4wxvtroyumkd55mxsc75l4p766n4vljdxxrr4tkpeknuciq.arweave.net/lo4L8tes4uxRih96y8hf6vj_-83lVpHe8Y8mp5FNoJE
     alt: Casa Campestre San Jose
-  - src: https://4w5vynhhh2kzxillwjvk2dbui4wpvbhj2gdlyxrbpod2djwx467a.arweave.net/5btcNOc-lZuha7JqrQw0Ryz6hOnRhrxeIXuHoabX574
+  - src: https://howlgywihw7ywxeassn6ar26lkaowdhlehj6v5vjynn33cifggqa.arweave.net/O6yzYsg9v4tcgJSb4EdeWoDrDOsh0-r2qcNbvYkFMaA
     alt: Casa Campestre San Jose
-  - src: https://ilifwifrqr4buwcbaqsx6yc2creomgtggn2d7fwcbp32xvrla7fq.arweave.net/QtBbILGEeBpYQQQlf2BaFEjmGmYzdD-Wwgv3q9YrB8s
+  - src: https://kdoojzc3oudexqllvoklxmksafemmrkhd5c2ff75dmbhbofupuxq.arweave.net/UNzk5Ft1BkvBa6uUu7FSAUjGRUcfRaKX_RsCcLi0fS8
     alt: Casa Campestre San Jose
-  - src: https://mdhlngmnu5vtsk5kio7sv5rre7v3bn3vfedpxab3rxlayptlqtiq.arweave.net/YM62mY2nazkrqkO_KvYxJ-uwt3UpBvuAO43WDD5rhNE
+  - src: https://pd5wvvi6wkbvjbudnjjvjgsnlkdfaqridqe4gtyqnjr2zutgdtoq.arweave.net/ePtq1R6yg1SGg2pTVJpNWoZQQigcCcNPEGpjrNJmHN0
     alt: Casa Campestre San Jose
-  - src: https://dukwjqs4kopfaxniymwzpxm2dsuyadrrkzrwv4au4ge6jubvdsna.arweave.net/HRVkwlxTnlBdqMMtl92aHKmADjFWY2rwFOGJ5NA1HJo
+  - src: https://xfyg32yff6cbvcjxbmczlnkfyazx25tomgajmb7mwh436xuy23fa.arweave.net/uXBt6wUvhBqJNwsFlbVFwDN9dm5hgJYH7LH5v16Y1so
     alt: Casa Campestre San Jose
-  - src: https://owe5t5u2u7jq7gsejqh46d723oc62rveehlo53opouepnnm5khwa.arweave.net/dYnZ9pqn0w-aREwPzw_624XtRqQh1u7tz3UI9rWdUew
+  - src: https://b4ga5yib6osbnh5lvlctxpt24jnarwc3etpt4twzs6royoq3cc7q.arweave.net/DwwO4QHzpBafq6rFO7564loI2Fsk3z5O2Zei7DobEL8
     alt: Casa Campestre San Jose
-  - src: https://u7gssdto4yp266s6xfbau7zxmjhcjzgnz34sroakcust67mdvkua.arweave.net/p80pDm7mH696XrlCCn83Yk4k5M3O-Si4ChUlP32Dqqg
+  - src: https://r7mo36et2lf6xb2mmhlqho3ljux3ciahbttqwh6rsxhpde33sopq.arweave.net/j9jt-JPSy-uHTGHXA7trTS-xIAcM5wsf0ZXO8ZN7k58
     alt: Casa Campestre San Jose
-  - src: https://th45lvbtarvbsydci4si7rbnapp577it2xaeeqmwjngkgwwtiyna.arweave.net/mfnV1DMEahlgYkckj8QtA9_f_RPVwEJBlktMo1rTRho
+  - src: https://lqz4ye6ksmsnwegkhoylkfyjzxcknhxlp44sfige622bo2ld5oha.arweave.net/XDPME8qTJNsQyjuwtRcJzcSmnut_OSKgxPa0F2lj644
     alt: Casa Campestre San Jose
-  - src: https://ptruf5y7mqbsfb475yolugnfqc5x6xe5c6xh6sugxiyv6epfrwsa.arweave.net/fONC9x9kAyKHn-4cuhmlgLt_XJ0Xrn9KhroxXxHljaQ
+  - src: https://npetb37ejsmllgntad3e3km3zv3n4d6vz3pk3pqlng6l7ebxek2q.arweave.net/a8kw7-RMmLWZswD2TambzXbeD9XO3q2-C2m8v5A3IrU
     alt: Casa Campestre San Jose
-  - src: https://e27ank267ong2uyixalqrnhdmtdoqgeuvqxxokyzjk6a5gxyg7la.arweave.net/Jr4Gq177mm1TCLgXCLTjZMboGJSsL3crGUq8Dpr4N9Y
+  - src: https://lh73dw7fxxl7ahtbqxu3er5ne6w5wt46rothcagrba5ckohoym7a.arweave.net/Wf-x2-W91_AeYYXpsketJ63bT56LpnEA0Qg6JTjuwz4
     alt: Casa Campestre San Jose
-  - src: https://mj6567zu3scsqcvac3dhmcshsxolrg7txcbwgvyrncxrev6sshla.arweave.net/Yn3ffzTchSgKoBbGdgpHldy4m_O4g2NXEWivElfSkdY
+  - src: https://spqcmnstc2srpjzzee6yczcl3mdstijarcqfy3ygs6flz4t77d5a.arweave.net/k-AmNlMWpRenOSE9gWRL2wcpoSCIoFxvBpeKvPJ_-Po
     alt: Casa Campestre San Jose
-  - src: https://ubym2fucqrtd2du7ylsfov3ig5sjxn4zsuliyhwxwppbwp2ei7uq.arweave.net/oHDNFoKEZj0On8LkV1doN2Sbt5mVFowe17PeGz9ER-k
+  - src: https://kvnehv2pey7kp4zdeq7zxespmq7wdrgubfcy4moroz7ymtjr2owa.arweave.net/VVpD108mPqfzIyQ_m5JPZD9hxNQJRY4x0XZ_hk0x06w
     alt: Casa Campestre San Jose
-  - src: https://m5i5zvin42vo45ftpnelvjwgked2v6m2slro5qbrbeddk4cuqsqa.arweave.net/Z1Hc1Q3mqu50s3tIuqbGUQeq-ZqS4u7AMQkGNXBUhKA
+  - src: https://47gq23jen7jgww4255vq4xcwb3vipflw5jtnmn2vupgkgr7nct7q.arweave.net/580NbSRv0mtbmu9rDlxWDuqHlXbqZtY3VaPMo0ftFP8
     alt: Casa Campestre San Jose
-  - src: https://qu3hmv7ovveehu52n22gv7yfpcpzmzdl6hgjy4davyr6boygaqzq.arweave.net/hTZ2V-6tSEPTum60av8FeJ-WZGvxzJxwYK4j4LsGBDM
+  - src: https://uqiqyqeraxqgxr25pzt2ro6asx77geufv7vg644wcl4l3hudxl2q.arweave.net/pBEMQJEF4GvHXX5nqLvAlf_zEoWv6m9zlhL4vZ6DuvU
     alt: Casa Campestre San Jose
-  - src: https://57dnjflk4fwnwoxmbtvgteistgnq6ouwuzvahxx3rjlgxdgucmrq.arweave.net/78bUlWrhbNs67AzqaZESmZsPOpamagPe-4pWa4zUEyM
+  - src: https://4fglt75vulhtnvv3fa4wn4f22c3dccbfxo4u6zrhkrcvdbn52jqa.arweave.net/4Uy5_7WizzbWuyg5ZvC60LYxCCW7uU9mJ1RFUYW90mA
     alt: Casa Campestre San Jose
-  - src: https://bnsewxdpqzebea766rtontpy4rabqne3pwt6uoa22d7sv6bj6vyq.arweave.net/C2RLXG-GSBID_vRm5s345EAYNJt9p-o4GtD_Kvgp9XE
+  - src: https://6hi5wnvxwcuem6yjtly2voan7vda4cfkpr5v7lmfu6weba32tcgq.arweave.net/8dHbNrewqEZ7CZrxqrgN_UYOCKp8e1-thaesQIN6mI0
     alt: Casa Campestre San Jose
-  - src: https://pal2xuudyrzyrb23t53jna2r5mnv7evwbkeebzv5u5744mrdmgoa.arweave.net/eBer0oPEc4iHW592loNR6xtfkrYKiEDmvad_zjIjYZw
+  - src: https://eiy6atckyesu63br5vekrcbz4gctwox25ldfxupo7deck47kxaka.arweave.net/IjHgTErBJU9sMe1IqIg54YU7OvrqxlvR7vjIJXPquBQ
     alt: Casa Campestre San Jose
-  - src: https://5t6stc2ng36hbpgqkleycmbvjwd5wsnx4edxdqa7wew6erzjonvq.arweave.net/7P0pi002_HC80FLJgTA1TYfbSbfhB3HAH7Et4kcpc2s
+  - src: https://4ej2h2ihh4jj4egyb6hps2kotyqf74kswcn5pppma3fzfyuuderq.arweave.net/4ROj6Qc_Ep4Q2A-O-WlOniBf8VKwm9e97AbLkuKUGSM
     alt: Casa Campestre San Jose
-  - src: https://dl55n3buvl5c2zefgvi67balshvrgm6u3trisqjquq7eurjqnlcq.arweave.net/GvvW7DSq-i1khTVR74QLkesTM9Tc4olBMKQ-SkUwasU
+  - src: https://6scuo54gc7xyg2tsg57oggc2d6jrnqmvvcyzit46ldpmq7ik5elq.arweave.net/9IVHd4YX74Nqcjd-4xhaH5MWwZWosZRPnljeyH0K6Rc
     alt: Casa Campestre San Jose
-  - src: https://twf2zllgvoqzuxsm3dfzdcc3qlwgobfsc5k4j5inaik4uhvo7oeq.arweave.net/nYusrWaroZpeTNjLkYhbguxnBLIXVcT1DQIVyh6u-4k
+  - src: https://i54orrgsryop2zfb4i7blddu3wjvtdlhwmzw36mswd6sbqu3vrlq.arweave.net/R3joxNKOHP1koeI-FYx03ZNZjWezM235krD9IMKbrFc
     alt: Casa Campestre San Jose
-  - src: https://geplvzgaoky7mwjqm7vds46tnostar2fmszwrjzwiurs2cfgpj4q.arweave.net/MR665MBysfZZMGfqOXPTa6UwR0Vks2inNkUjLQimenk
+  - src: https://xn46lmbxd7afrblb2aqvb5tr2ide5bg3xbudzjt3t5fj5iavthgq.arweave.net/u3nlsDcfwFiFYdAhUPZx0gZOhNu4aDyme59KnqAVmc0
     alt: Casa Campestre San Jose
-  - src: https://hv2e6irbfsjeukiibmwomwck35os35uoq7qk7eegqthaz4cqerqq.arweave.net/PXRPIiEskkopCAss5lhK310t9o6H4K-QhoTODPBQJGE
+  - src: https://ihjk3frbdgatqrtpfyodvptpjju75etdgyld3fzwdgcd6invvsjq.arweave.net/QdKtliEZgThGby4cOr5vSmn-kmM2Fj2XNhmEPyG1rJM
     alt: Casa Campestre San Jose
-  - src: https://zfhlb6cl5z6h7vn5g765ejt4lro5egnl7sx7d7w7koyepuvevbrq.arweave.net/yU6w-EvufH_VvTf90iZ8XF3SGav8r_H-31OwR9KkqGM
+  - src: https://nleo4agwpkgyghdwibzhietb7w5ch43ikxikl3xrxd3w4yxpiz5q.arweave.net/asjuANZ6jYMcdkBydBJh_boj82hV0KXu8bj3bmLvRns
     alt: Casa Campestre San Jose
-  - src: https://pc2xp4cpqh5fatiaxfmuhmbma4cmwms2rrp5sp7m7o4aypdz7h3q.arweave.net/eLV38E-B-lBNALlZQ7AsBwTLMlqMX9k_7Pu4DDx5-fc
+  - src: https://sltlttmjzgojp3olwgjyjgmkhwy4b5byv53awmkgm34khrzzi5pq.arweave.net/kua5zYnJnJfty7GThJmKPbHA9DivdgsxRmb4o8c5R18
     alt: Casa Campestre San Jose
-  - src: https://a2gmnit72lqjxfli7rcj6ovdgeheu5nuhaxbttpjaizpwpzkt3dq.arweave.net/BozGon_S4JuVaPxEnzqjMQ5KdbQ4LhnN6QIy-z8qnsc
+  - src: https://3h3eq3deoru4uxndbkdnwoyrcqy5z2wxolgaedngoh46fo6btmoq.arweave.net/2fZIbGR0acpdowqG2zsRFDHc6tdyzAINpnH54rvBmx0
     alt: Casa Campestre San Jose
-  - src: https://xnr4wdeezkmyqitor5jaayurluii273cb5b7ygpqi53nz3sucenq.arweave.net/u2PLDITKmYgibo9SAGKRXRCNf2IPQ_wZ8Ed23O5UERs
+  - src: https://652hy24io76lppifjpfoaod3mo7i2slbrlvsd42qj24vvtpbroyq.arweave.net/93R8a4h3_Le9BUvK4Dh7Y76NSWGK6yHzUE65Ws3hi7E
     alt: Casa Campestre San Jose
-  - src: https://ofuuw2bz3hj624g7azej26sdneucq7lpx6gj3zfxext26aybnjpa.arweave.net/cWlLaDnZ0-1w3wZInXpDaSgofW-_jJ3ktyXnrwMBal4
+  - src: https://3ahkptnkrhndismqs4t6fvpymqesehaqck64dn7vozj63cabfvpq.arweave.net/2A6nzaqJ2jRJkJcn4tX4ZAkiHBASvcG39XZT7YgBLV8
     alt: Casa Campestre San Jose
-  - src: https://l7ggiqzbolos2reopbv3p5mjtqnl2ww7zjlumlzfo55kkjldlywq.arweave.net/X8xkQyFy3S1Ejnhrt_WJnBq9Wt_KV0YvJXd6pSVjXi0
+  - src: https://7xtjb6ua7ptw6hkts7k56uyrqmxcd2lsavvmk644x74aiyvfnrda.arweave.net/_eaQ-oD7528dU5fV31MRgy4h6XIFasV7nL_4BGKlbEY
     alt: Casa Campestre San Jose
-  - src: https://5imk7mncainw2n4bubwocka3igdasiqrfd3e3a7624yexzt4efra.arweave.net/6hivsaICG203gaBs4SgbQYYJIhEo9k2D_tcwS-Z8IWI
+  - src: https://ypb2fewvgfm7yepy43vjqxawq3fvzdt5qxdcryjrdon56dgqu6tq.arweave.net/w8OiktUxWfwR-ObqmFwWhstcjn2FxijhMRub3wzQp6c
     alt: Casa Campestre San Jose
-  - src: https://jqxd74oux2cngmhimch7qeyitv5xnyi2d64ozesmkpvlqlki5x5a.arweave.net/TC4_8dS-hNMw6GCP-BMInXt24RofuOySTFPquC1I7fo
+  - src: https://rz5ylucmfmpwfguifuaf3m64zi7rwtxjddi3drrdscyw44avfdvq.arweave.net/jnuF0EwrH2KaiC0AXbPcyj8bTukY0bHGI5CxbnAVKOs
     alt: Casa Campestre San Jose
-  - src: https://luou7w756cxkz6pa7wj2qwotvowzqaqwgw2qccy7z7ipgv6rlckq.arweave.net/XR1P2_3wrqz54P2TqFnTq62YAhY1tQELH8_Q81fRWJU
+  - src: https://7aqxf4lwd2crjpvxvoxlgk5tlwqdajt27ef7u6lek3lm3rk7eydq.arweave.net/-CFy8XYehRS-t6uusyuzXaAwJnr5C_p5ZFbWzcVfJgc
     alt: Casa Campestre San Jose
-  - src: https://ew32pc6rrt5bjkbdeh2m47z7cnfvq3o5hbaqyydvdudrwq4yvoka.arweave.net/Jbeni9GM-hSoIyH0zn8_E0tYbd04QQxgdR0HG0OYq5Q
+  - src: https://zf4zdnyqxsm72es7wtsxxumueua7zm5mwk55dsjclkejerfm6y3q.arweave.net/yXmRtxC8mf0SX7Tle9GUJQH8s6yyu9HJIlqIkkSs9jc
     alt: Casa Campestre San Jose
-  - src: https://2idu3f65ztsft4k3sqa56cziughsffj4alvbjctsip2cnoicytrq.arweave.net/0gdNl93M5FnxW5QB3wsooY8ilTwC6hSKckP0JrkCxOM
+  - src: https://ugep3eiy6jtcuzhrkc4scfku26lz2sjro447rgtuhid6dugicg4q.arweave.net/oYj9kRjyZipk8VC5IRVU15edSTF3OfiadDoH4dDIEbk
     alt: Casa Campestre San Jose
-  - src: https://qrjvytk2qfidyz3ytd7465fisghmotp7yc2k4s6kxcg5frj2u6vq.arweave.net/hFNcTVqBUDxneJj_z3SokY7HTf_AtK5LyriN0sU6p6s
+  - src: https://5cijkaldiqyt6ed3v6q7b5vgaggdtraa3cplu2dqaq47p543m74q.arweave.net/6JCVAWNEMT8Qe6-h8PamAYw5xADYnrpocAQ59_ebZ_k
     alt: Casa Campestre San Jose
-  - src: https://6nf3vs3ekigknw4ty4fagk3j57inwfzddjaqtvywuwfvwzw32ahq.arweave.net/80u6y2RSDKbbk8cKAytp79DbFyMaQQnXFqWLW2bb0A8
+  - src: https://h7c525nh3fpbx36asmklok5d7pf7p5jkf5l6nm3ib7jofv55xqfa.arweave.net/P8XddafZXhvvwJMUtyuj-8v39SovV-azaA_S4te9vAo
     alt: Casa Campestre San Jose
   
  
