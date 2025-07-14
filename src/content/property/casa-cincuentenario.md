@@ -63,4 +63,4 @@ Venta Casa urbana de dos pisos tipo bifamiliar con gran potencial. <br>
 - Segundo piso: 2 habitaciones, sala, cocina y baño <br><br>
 
 
-Ubicada en zona urbana de Calima el Darién, esta propiedad es ideal para quienes buscan generar renta o adaptar a dos núcleos familiares.
+Ubicada en zona urbana de Calima el Darién, esta propiedad es ideal para quienes buscan generar renta o adaptar a dos núcleos familiares. 
