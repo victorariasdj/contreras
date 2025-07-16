@@ -2,12 +2,12 @@
 date: "2025-01-22"
 title: Casa Campestre Vereda el Remolino
 img: https://gd32xkqp7siubbfhtlvwairo6m3a4v4ihqfyr7oc4ut7qnulap4q.arweave.net/MPerqg_8kUCEp5rrYCIu8zYOV4g8C4j9wuUn-DaLA_k
-ubicacion: Calima Darién
-precio: "1.200.000.000"
-cercaDe: 5 minutos del parque
+ubicacion: Calima el Darién
+precio: "1.100.000.000"
+cercaDe: 15 minutos del parque
 tipoPropiedad: Casa Campestre
 estado: Venta
-areaPropiedad:
+areaPropiedad: 3400
 areaConstruida: 
 descripcion: Cuenta con 2 casas, 2 cabañas, salon de eventos, piscina, sauna, cuarto de maquinas, yacusi, horno de leña, 
 habitaciones: 17
@@ -89,19 +89,23 @@ galeria:
   
 ---
 
-Esta propiedad cuenta con: <br><br>
+**VENTA Finca turística con vista al Lago** y múltiples espacios para inversión - Calima el Darién <br><br>
 
-Casa 01: Casa papel parte alta de 11 por 17 mts con 3 cuarto y 3 baños. <br><br>
+Ubicada a solo 15 minutos del parque principal de Calima-Darién, esta hermosa finca ofrece una vista privilegiada al lago y todas las comodidades para operar como centro vacacional, espacio de eventos o alquiler turístico.<br>
+Características generales:<br>
+- Área con excelente vista panorámica al lago
+- 2 casas principales
+- 2 cabañas independientes estilo turístico
+- Salón de eventos amplio, con baños
+- Piscina, sauna y jacuzzi
+- Horno tipo leña para eventos o gastronomía
+- Cuarto de máquinas totalmente equipado
+- 17 habitaciones en total
+- 8 baños distribuidos en toda la finca
+- Zona de parqueo para múltiples vehículos
+- Espacios verdes, jardines y entorno natural que brindan privacidad, tranquilidad y un ambiente perfecto para descanso o emprendimiento turístico. <br><br>
 
-Casa 02: Casa de 15 por 8 mts. Con 3 cuartos y 3 baños, Terrazas, Cocina de 6 por 7 mts. <br><br>
-
-2 cabañas que sé compone de 4 alcobas c/u con medidas de 6 por 4.50 mts <br><br>
-
-Salón de eventos de 10 por 10 mts con baño.<br>
-Excelente vista hacia el Lago Calima.<br><br>
-
-El Área de la piscina es 12.50 por 8 mts<br>
-Sauna para 8 personas.<br>
-Cuarto de máquinas de 2 por 3 mts.<br>
-Yacusi<br>
-Horno de leña <br><br>
+Ideal para inversionistas que buscan desarrollar hospedaje, glamping, bodas, retiros o turismo experiencial en Calima el Darien <br><br>
+**OPCIONES DE PAGO**
+- Se reciben bien raiz en Ciudades Principales
+- Cuota Inicial 50% y el saldo diferido a 12 meses<br><br>
