@@ -1,0 +1,69 @@
+---
+date: "2025-09-01"
+title: Lote Parcelación Agua Dulce 
+img: https://hish62hih6a5xemswxqv5l54dbhbc4orfyh3bs4mdbauuu3w57cq.arweave.net/OiR_aOg_gduRkrXhXq-8GE4RcdEuD7DLjBhBSlN278U
+ubicacion: Calima Darién
+precio: "680.000.000"
+cercaDe: Parcelación Agua Dulce
+tipoPropiedad: Lote Campestre
+estado: Venta
+areaPropiedad: 
+areaConstruida: 3009
+descripcion: Se vende Hermoso Lote en la Parcelación Agua Dulce a tan Solo 10 minutos del casco urbano del Municipio de Darien
+habitaciones: 
+baños: 
+parqueadero: 
+keywords: lote campestre, en venta, lago calima
+videoId: 
+galeria:
+  - src: https://mktl6uy7ljd2neyskuetnrqh4o7kirh65gadowrxu3qjybicik5a.arweave.net/Yqa_Ux9aR6aTElUJNsYH476kRP7pgDdaN6bgnAUCQro
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://7wiegc66oqcywfvcldp4wtuhtnt2cajjeeabqzcy4jf4o3fuhi2a.arweave.net/_ZBDC950BYsWoljfy06Hm2ehASkhABhkWOJLx2y0OjQ
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://x266bdf7mlazxcr4j4jjvmw7aedirbfxwpz4hhk6bvi7vdrcmrfa.arweave.net/vr3gjL9iwZuKPE8SmrLfAQaIhLez88OdXg1R-o4iZEo
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://umanywaz5lwy5ko6vfsg5jawn3zwrl3cdrdykkf3zmtu7hofyk7a.arweave.net/owDcWBnq7Y6p3qlkbqQWbvNor2IcR4Uou8snT53Fwr4
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://3sbngkntfww4njxtm2nhwkqe3h3jthsxqkrc2g4h2wvgt7y2jybq.arweave.net/3ILTKbMtrcam82aaeyoE2faZnleCoi0bh9Wqaf8aTgM
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://zptvdyqwcwxfmg35fewhf5mf25onw7o7d74e3r2sdjgug2newhtq.arweave.net/y-dR4hYVrlYbfSkscvWF11zbfd8f-E3HUhpNQ2mksec
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://zmnykgia2ypqxsiflcjdkgckxguwg4cnhrdascgfvkkpefg543fq.arweave.net/yxuFGQDWHwvJBViSNRhKualjcE08RgkIxaqU8hTd5ss
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://hdb3paswvuce3mkyxdbsawsdxfisne3jxh5d3x4xavlwb7yrmknq.arweave.net/OMO3glatBE2xWLjDIFpDuVEmk2m5-j3flwVXYP8RYps
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://xubasu4bjtbd35u2q2jpg7hki6dsjynqnrovj2zc4iozns2biqqa.arweave.net/vQIJU4FMwj32moaS83zqR4ck4bBsXVTrIuIdlstBRCA
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://wwapgxfjteqa2rxzn5p6ogntebwbfvuiwigmyom3xi4tbjixvfvq.arweave.net/tYDzXKmZIA1G-W9f5xmzIGwS1oiyDMw5m7o5MKUXqWs
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://h27thkgzwzqwng3sv2ttyjc2o2q6jmcje26ytiv3f6bjjo7odfaq.arweave.net/Pr8zqNm2YWabcq6nPCRadqHksEkmvYmiuy-ClLvuGUE
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://ijhqaibwp7wjyynsnkj226nucpuc2vvbs6qxzegdezxj7vyao67a.arweave.net/Qk8AIDZ_7JxhsmqTrXm0E-gtVqGXoXyQwyZun9cAd74
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://uomilgw275uy5rjzmg7kqpp3souptkj2vnihxrjaiz6ugivchtqa.arweave.net/o5iFmtr_aY7FOWG-qD37k6j5qTqrUHvFIEZ9QyKiPOA
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://hish62hih6a5xemswxqv5l54dbhbc4orfyh3bs4mdbauuu3w57cq.arweave.net/OiR_aOg_gduRkrXhXq-8GE4RcdEuD7DLjBhBSlN278U
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://numfr2deo7csy66oqth6scqh73ljudwiz3rbl7qvukbrnpsdkmjq.arweave.net/bRhY6GR3xSx7zoTP6QoH_taaDsjO4hX-FaKDFr5DUxM
+    alt: Lote Parcelacion Agua Dulce
+  
+
+---
+
+**Predio en Venta – Parcelación Agua Dulce, Calima El Darién**<br><br>
+
+Descubre esta joya inmobiliaria en una de las zonas más apetecidas del Valle del Cauca. Ubicada en la exclusiva Parcelación Agua Dulce, este predio combina la tranquilidad de la naturaleza con la cercanía al casco urbano, a tan solo 10 minutos del centro de Calima El Darién.<br><br>
+
+Características principales:<br>
+
+- Área total: 3.009 m²
+- Cuenta con pozo séptico y abastecimiento de agua
+- Mejora realizada con excelente cimentación, ideal para continuar con proyectos constructivos
+- Vista panorámica espectacular a las montañas y el verde característico de la región
+- Zona verde amplia, perfecta para el desarrollo de proyectos turísticos, casas campestres o de descanso
+- Excelente tradición y vecindario consolidado <br><br>
+
+Imagina despertar cada día rodeado de un entorno natural, en un sector que se perfila como uno de los más atractivos para la inversión turística y vacacional en el Valle.<br><br>
+
+**Este predio ofrece la combinación perfecta entre naturaleza, proyección y ubicación estratégica. ¡La oportunidad ideal para invertir en tu futuro y en un lugar con alto potencial de valorización!**<br><br>
+
