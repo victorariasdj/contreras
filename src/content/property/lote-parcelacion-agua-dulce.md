@@ -7,8 +7,8 @@ precio: "680.000.000"
 cercaDe: Parcelación Agua Dulce
 tipoPropiedad: Lote Campestre
 estado: Venta
-areaPropiedad: 
-areaConstruida: 3009
+areaPropiedad: 3009
+areaConstruida: 
 descripcion: Se vende Hermoso Lote en la Parcelación Agua Dulce a tan Solo 10 minutos del casco urbano del Municipio de Darien
 habitaciones: 
 baños: 
@@ -17,6 +17,8 @@ keywords: lote campestre, en venta, lago calima
 videoId: 
 galeria:
   - src: https://mktl6uy7ljd2neyskuetnrqh4o7kirh65gadowrxu3qjybicik5a.arweave.net/Yqa_Ux9aR6aTElUJNsYH476kRP7pgDdaN6bgnAUCQro
+    alt: Lote Parcelacion Agua Dulce
+  - src: https://fqt5hnx4wj2yvkbulqhnyhu4y6wx4l2yb4w6mzfub2wnt2h7fmxq.arweave.net/LCfTtvyydYqoNFwO3B6cx61-L1gPLeZktA6s2ej_Ky8
     alt: Lote Parcelacion Agua Dulce
   - src: https://7wiegc66oqcywfvcldp4wtuhtnt2cajjeeabqzcy4jf4o3fuhi2a.arweave.net/_ZBDC950BYsWoljfy06Hm2ehASkhABhkWOJLx2y0OjQ
     alt: Lote Parcelacion Agua Dulce
@@ -58,10 +60,17 @@ Características principales:<br>
 
 - Área total: 3.009 m²
 - Cuenta con pozo séptico y abastecimiento de agua
-- Mejora realizada con excelente cimentación, ideal para continuar con proyectos constructivos
+- Mejora realizada con excelente cimentación, ideal para continuar con proyectos constructivos. 
 - Vista panorámica espectacular a las montañas y el verde característico de la región
 - Zona verde amplia, perfecta para el desarrollo de proyectos turísticos, casas campestres o de descanso
 - Excelente tradición y vecindario consolidado <br><br>
+
+**Encanto natural adicional**<br>
+- En el lado Norte del predio pasa una quebrada que bordea el terreno, haciendo parte del mismo lote.
+- Agua Abundante y cristalina que realza la belleza natural y le da un atractivo único.<br><br>
+
+**Diseño de Casa Proyectada**<br>
+En la Galería de fotos podrás visualizar el diseño de la casa propuesto para el predio, una referencia que muestra el gran potencial de la propiedad<br><br>
 
 Imagina despertar cada día rodeado de un entorno natural, en un sector que se perfila como uno de los más atractivos para la inversión turística y vacacional en el Valle.<br><br>
 

@@ -7,8 +7,8 @@ precio: "750.000.000"
 cercaDe: Condominio Majagua
 tipoPropiedad: Casa Campestre
 estado: Venta
-areaPropiedad: 
-areaConstruida: 90
+areaPropiedad: 89.60
+areaConstruida: 142.68
 descripcion: Casa Campestre de dos pisos en Condominio Majagua, con EXCELENTE VISTA AL LAGO.
 habitaciones: 3
 baños: 3
