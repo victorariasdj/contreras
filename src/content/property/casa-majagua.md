@@ -7,7 +7,7 @@ precio: "750.000.000"
 cercaDe: Condominio Majagua
 tipoPropiedad: Casa Campestre
 estado: Venta
-areaPropiedad: 89.60
+areaPropiedad: 
 areaConstruida: 142.68
 descripcion: Casa Campestre de dos pisos en Condominio Majagua, con EXCELENTE VISTA AL LAGO.
 habitaciones: 3
@@ -82,7 +82,7 @@ Haz realidad tu sueño de vivir frente al Lago Calima en esta espectacular casa 
 - 3 baños completos
 - Sala y comedor con salida directa a la terraza y zona verde
 - Cocina amplia y zona de oficios
-- Espacio exterior ideal para construir una piscina o jacuzzi con vista panorámica
+- Espacio exterior PRIVADO social DE 89.60 Mt2, ideal para construir una piscina o jacuzzi con vista panorámica
 - 2 parqueaderos propios
 - Se vende a puertas cerradas, completamente amoblada y dotada <br><br>
 
