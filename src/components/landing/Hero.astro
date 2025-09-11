@@ -3,16 +3,16 @@ import BotonContactame from "../BotonContactame.astro";
 ---
 
 <section>
-    <div class="foto-nombre">
+    <!-- <div class="foto-nombre">
         <img transition:name="fotoCarlos" src="https://bvhuqk3dphsfriini6jj4srtcf2qcyjwkvtgnb77us7u6fvuruwq.arweave.net/DU9IK2N55FihDUeSnkozEXUBYTZVZmaH_6S_Txa0jS0" alt="">
-        <p class="text-long ">Carlos Arturo Contreras C.</p>
-        <BotonContactame />
-    </div>
-
+    </div> -->
+    
     <div>
-        <h2>Abogado<br><span>Corredor de Bienes Raices</span></h2>
-        <p class="text-long" >Abogado conciliador con una destacada trayectoria y credibilidad en la Región.</p>
-        <p>Con 10 años de experiencia en el sector inmobiliario del Municipio de <strong>Calima el Darién.</strong></p>
+        <h2 class="text-long ">Carlos Arturo Contreras C.</h2>
+        <h3>Abogado<br><span>Corredor de Bienes Raices</span></h3>
+        <p class="text-long" >Con más de una década en la región, ofrecemos asesoría legal</p>
+        <p>y servicios basados en la ética, la credibilidad y la confiabilidad jurídica que tu patrimonio merece.</p>
+        <BotonContactame />
     </div>
     
 
@@ -24,8 +24,17 @@ import BotonContactame from "../BotonContactame.astro";
         max-height: 250px;
     }
 
+    h2 {
+        margin-top: 130px;
+    }
+
+    h3 {
+        font-size: 32px;
+    }
+
     section {
     display: flex;
+    flex-direction: column;
     align-items:center;
     justify-content: center;
     text-align:justify;
