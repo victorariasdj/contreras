@@ -4,7 +4,7 @@ title: Finca Calimita
 img: https://4nwra5mxskndx6x7yy5h3w4oihhkja7yuisenf7frpotyicidwxq.arweave.net/420QdZeSmjv6_8Y6fduOQc6kg_iiJEaX5YvdPCBIHa8
 ubicacion: Calima Darién
 precio: "330.000.000"
-cercaDe: Verede Jiguales
+cercaDe: Vereda Jiguales
 tipoPropiedad: Casa Campestre
 estado: Venta
 areaPropiedad: 5737
