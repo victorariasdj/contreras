@@ -1,7 +1,7 @@
 ---
 date: "2025-09-01"
 title: Casa Campestre en Condominio Majagua
-img: https://zq26b42qpj4othfdov4uga4gjqt2sit74dr3lplq6fioqnl7uada.arweave.net/zDXg81B6eOmco3V5QwOGTCepIn_g47W9cPFQ6DV_oAY
+img: https://zq26b42qpj4othfdov4uga4gjqt2sit74dr3lplq6fioqnl7uada.arweave.ar/zDXg81B6eOmco3V5QwOGTCepIn_g47W9cPFQ6DV_oAY
 ubicacion: Calima Darién
 precio: "750.000.000"
 cercaDe: Condominio Majagua
@@ -16,55 +16,55 @@ parqueadero: 2
 keywords: casa campestre, en venta, lago calima
 videoId: 
 galeria:
-  - src: https://ezznozyg7c5ct6lrm6jtrbjxgw6arns4c6xwz3pose3kotssh3zq.arweave.net/JnLXZwb4uin5cWeTOIU3NbwItlwXr2zt7pE2p05SPvM
+  - src: https://ezznozyg7c5ct6lrm6jtrbjxgw6arns4c6xwz3pose3kotssh3zq.arweave.ar/JnLXZwb4uin5cWeTOIU3NbwItlwXr2zt7pE2p05SPvM
     alt: Casa Condominio Majagua
-  - src: https://illptxxqza2wtye7nah2h7pcq3s4tmyifkj225uee3adhkhnfrca.arweave.net/Qtb53vDINWngn2gPo_3ihuXJswgqk612hCbAM6jtLEQ
+  - src: https://illptxxqza2wtye7nah2h7pcq3s4tmyifkj225uee3adhkhnfrca.arweave.ar/Qtb53vDINWngn2gPo_3ihuXJswgqk612hCbAM6jtLEQ
     alt: Casa Condominio Majagua
-  - src: https://cbaithy7soyp7ihtgwq3nssqgns3o44inqrmzw4bqft5u765zohq.arweave.net/EECJnx-TsP-g8zWhtspQM2W3c4hsIszbgYFn2n_dy48
+  - src: https://cbaithy7soyp7ihtgwq3nssqgns3o44inqrmzw4bqft5u765zohq.arweave.ar/EECJnx-TsP-g8zWhtspQM2W3c4hsIszbgYFn2n_dy48
     alt: Casa Condominio Majagua
-  - src: https://ha32ecipc3jh26kpvaihns2tj2an4cqutyeqpjfiu3hhua44gpuq.arweave.net/ODeiCQ8W0n15T6gQdstTToDeChSeCQekqKbOegOcM-k
+  - src: https://ha32ecipc3jh26kpvaihns2tj2an4cqutyeqpjfiu3hhua44gpuq.arweave.ar/ODeiCQ8W0n15T6gQdstTToDeChSeCQekqKbOegOcM-k
     alt: Casa Condominio Majagua
-  - src: https://4t3vpy4xuepnmmzatc7uzaosb2yhgtdvi6xapsmhko3o6lm3truq.arweave.net/5PdX45ehHtYzIJi_TIHSDrBzTHVHrgfJh1O27y2bnGk
+  - src: https://4t3vpy4xuepnmmzatc7uzaosb2yhgtdvi6xapsmhko3o6lm3truq.arweave.ar/5PdX45ehHtYzIJi_TIHSDrBzTHVHrgfJh1O27y2bnGk
     alt: Casa Condominio Majagua
-  - src: https://xwsliny7whtf4i56snjjgduzcuzfauzq527b2fc5gckf4brutesq.arweave.net/vaS0Nx-x5l4jvpNSkw6ZFTJQUzDuvh0UXTCUXgY0mSU
+  - src: https://xwsliny7whtf4i56snjjgduzcuzfauzq527b2fc5gckf4brutesq.arweave.ar/vaS0Nx-x5l4jvpNSkw6ZFTJQUzDuvh0UXTCUXgY0mSU
     alt: Casa Condominio Majagua
-  - src: https://gbh573fn7tjbguzvmjbmvpnuhidzrrlpuj3qqg4bopmwrwatkxfq.arweave.net/ME_f7K380hNTNWJCyr20OgeYxW-idwgbgXPZaNgTVcs
+  - src: https://gbh573fn7tjbguzvmjbmvpnuhidzrrlpuj3qqg4bopmwrwatkxfq.arweave.ar/ME_f7K380hNTNWJCyr20OgeYxW-idwgbgXPZaNgTVcs
     alt: Casa Condominio Majagua
-  - src: https://akirsnhrhejw23sxaluahbcbmgf2kx2c7aupfxvaxy3u2dsamaoq.arweave.net/ApEZNPE5E21uVwLoA4RBYYulX0L4KPLeoL43TQ5AYB0
+  - src: https://akirsnhrhejw23sxaluahbcbmgf2kx2c7aupfxvaxy3u2dsamaoq.arweave.ar/ApEZNPE5E21uVwLoA4RBYYulX0L4KPLeoL43TQ5AYB0
     alt: Casa Condominio Majagua
-  - src: https://orpww5j3sauwsuxmh6i2zbzx2cmfrxafflb4ajt7zycxkreoe55a.arweave.net/dF9rdTuQKWlS7D-RrIc30JhY3AUqw8Amf84FdUSOJ3o
+  - src: https://orpww5j3sauwsuxmh6i2zbzx2cmfrxafflb4ajt7zycxkreoe55a.arweave.ar/dF9rdTuQKWlS7D-RrIc30JhY3AUqw8Amf84FdUSOJ3o
     alt: Casa Condominio Majagua
-  - src: https://oo7b3n5t5oa5452wxyjhlvcewr4leeqw7ymkrn3ktdbntvh335ua.arweave.net/c74dt7Prgd53Vr4SddREtHiyEhb-GKi3apjC2dT732g
+  - src: https://oo7b3n5t5oa5452wxyjhlvcewr4leeqw7ymkrn3ktdbntvh335ua.arweave.ar/c74dt7Prgd53Vr4SddREtHiyEhb-GKi3apjC2dT732g
     alt: Casa Condominio Majagua
-  - src: https://zq26b42qpj4othfdov4uga4gjqt2sit74dr3lplq6fioqnl7uada.arweave.net/zDXg81B6eOmco3V5QwOGTCepIn_g47W9cPFQ6DV_oAY
+  - src: https://zq26b42qpj4othfdov4uga4gjqt2sit74dr3lplq6fioqnl7uada.arweave.ar/zDXg81B6eOmco3V5QwOGTCepIn_g47W9cPFQ6DV_oAY
     alt: Casa Condominio Majagua
-  - src: https://akiiazlpydvkunc6csp4r7j6kqqxknc3vox236ibwfn6ja7b6lea.arweave.net/ApCAZW_A6qo0XhSfyP0-VCF1NFurr635AbFb5IPh8sg
+  - src: https://akiiazlpydvkunc6csp4r7j6kqqxknc3vox236ibwfn6ja7b6lea.arweave.ar/ApCAZW_A6qo0XhSfyP0-VCF1NFurr635AbFb5IPh8sg
     alt: Casa Condominio Majagua
-  - src: https://rd5rmzgsufw3gr7eko6ovp3i3m7p4dxichw3hmtjas7mfdyc3epq.arweave.net/iPsWZNKhbbNH5FO86r9o2z7-DugR7bOyaQS-wo8C2R8
+  - src: https://rd5rmzgsufw3gr7eko6ovp3i3m7p4dxichw3hmtjas7mfdyc3epq.arweave.ar/iPsWZNKhbbNH5FO86r9o2z7-DugR7bOyaQS-wo8C2R8
     alt: Casa Condominio Majagua
-  - src: https://p2revet7dnttkmbxidyc6eu66uf4zb5nguonxhgyv22r3hrmn6pq.arweave.net/fqJKkn8bZzUwN0DwLxKe9QvMh601HNuc2K61HZ4sb58
+  - src: https://p2revet7dnttkmbxidyc6eu66uf4zb5nguonxhgyv22r3hrmn6pq.arweave.ar/fqJKkn8bZzUwN0DwLxKe9QvMh601HNuc2K61HZ4sb58
     alt: Casa Condominio Majagua
-  - src: https://uu5yjupa7lgyeo24z47n7rzzlxmms3oliyrvg43zvb5uor4fhn5a.arweave.net/pTuE0eD6zYI7XM8-38c5XdjJbctGI1Nzeah7R0eFO3o
+  - src: https://uu5yjupa7lgyeo24z47n7rzzlxmms3oliyrvg43zvb5uor4fhn5a.arweave.ar/pTuE0eD6zYI7XM8-38c5XdjJbctGI1Nzeah7R0eFO3o
     alt: Casa Condominio Majagua
-  - src: https://j2vbiaukuoroucq7kjayg7cvx5lhgh4rehrtcfa6djzznyivqhla.arweave.net/TqoUAoqjouoKH1JBg3xVv1ZzH5Eh4zEUHhpzluEVgdY
+  - src: https://j2vbiaukuoroucq7kjayg7cvx5lhgh4rehrtcfa6djzznyivqhla.arweave.ar/TqoUAoqjouoKH1JBg3xVv1ZzH5Eh4zEUHhpzluEVgdY
     alt: Casa Condominio Majagua
-  - src: https://yxjxlqaowhbymx4vyuczr2c6p274tzqvbccrcggqs7jsxubktiga.arweave.net/xdN1wA6xw4ZflcUFmOhefr_J5hUIhREY0JfTK9Aqmgw
+  - src: https://yxjxlqaowhbymx4vyuczr2c6p274tzqvbccrcggqs7jsxubktiga.arweave.ar/xdN1wA6xw4ZflcUFmOhefr_J5hUIhREY0JfTK9Aqmgw
     alt: Casa Condominio Majagua
-  - src: https://oixrmqkta4gx4y2xljgjwu3i7p5d3kmx3z6tv5p33dq4gwvdwfeq.arweave.net/ci8WQVMHDX5jV1pMm1No-_o9qZfefTr1-9jhw1qjsUk
+  - src: https://oixrmqkta4gx4y2xljgjwu3i7p5d3kmx3z6tv5p33dq4gwvdwfeq.arweave.ar/ci8WQVMHDX5jV1pMm1No-_o9qZfefTr1-9jhw1qjsUk
     alt: Casa Condominio Majagua
-  - src: https://dzsmq3fregjprol2rfdnv4ri2wcsljlzzjbdmbi6oybimtal5pda.arweave.net/HmTIbLEhkvi5eolG2vIo1YUlpXnKQjYFHnYChkwL68Y
+  - src: https://dzsmq3fregjprol2rfdnv4ri2wcsljlzzjbdmbi6oybimtal5pda.arweave.ar/HmTIbLEhkvi5eolG2vIo1YUlpXnKQjYFHnYChkwL68Y
     alt: Casa Condominio Majagua
-  - src: https://xoij365vdqaarcamobqbw5aw62bi7bfb7h7sgirztuapffcvvm6q.arweave.net/u5Cd-7UcAAiIDHBgG3QW9oKPhKH5_yMiOZ0A8pRVqz0
+  - src: https://xoij365vdqaarcamobqbw5aw62bi7bfb7h7sgirztuapffcvvm6q.arweave.ar/u5Cd-7UcAAiIDHBgG3QW9oKPhKH5_yMiOZ0A8pRVqz0
     alt: Casa Condominio Majagua
-  - src: https://fpb4llju3rib3yzx72kag2kqewm4toubksda27tp6x4uzzhflpoa.arweave.net/K8PFrTTcUB3jN_6UA2lQJZnJuoFUhg1-b_X5TOTlW9w
+  - src: https://fpb4llju3rib3yzx72kag2kqewm4toubksda27tp6x4uzzhflpoa.arweave.ar/K8PFrTTcUB3jN_6UA2lQJZnJuoFUhg1-b_X5TOTlW9w
     alt: Casa Condominio Majagua
-  - src: https://xxwkbojb2tluvmkf33p3r4udsqdgbimnssk2xj7ei5h5mnlltpca.arweave.net/veyguSHU10qxRd7fuPKDlAZgoY2Ulaun5EdP1jVrm8Q
+  - src: https://xxwkbojb2tluvmkf33p3r4udsqdgbimnssk2xj7ei5h5mnlltpca.arweave.ar/veyguSHU10qxRd7fuPKDlAZgoY2Ulaun5EdP1jVrm8Q
     alt: Casa Condominio Majagua
-  - src: https://2rmaabbxjvv62tkk3peyj37sek7dsbibfz7pejszv6wdtcvguvwq.arweave.net/1FgABDdNa-1NStvJhO_yIr45BQEufvImWa-sOYqmpW0
+  - src: https://2rmaabbxjvv62tkk3peyj37sek7dsbibfz7pejszv6wdtcvguvwq.arweave.ar/1FgABDdNa-1NStvJhO_yIr45BQEufvImWa-sOYqmpW0
     alt: Casa Condominio Majagua
-  - src: https://bdiowtq6eujlpns3sund4mkf4rxokhg5zzj4qse2vodcvooqamxq.arweave.net/CNDrTh4lEre2W5UaPjFF5G7lHN3OU8hImquGKrnQAy8
+  - src: https://bdiowtq6eujlpns3sund4mkf4rxokhg5zzj4qse2vodcvooqamxq.arweave.ar/CNDrTh4lEre2W5UaPjFF5G7lHN3OU8hImquGKrnQAy8
     alt: Casa Condominio Majagua
-  - src: https://we2pxjjat6libyefey55cyapihj3dvlxc523gqdyyvzkacfo6bya.arweave.net/sTT7pSCfloDghSY70WAPQdOx1XcXdbNAeMVyoAiu8HA
+  - src: https://we2pxjjat6libyefey55cyapihj3dvlxc523gqdyyvzkacfo6bya.arweave.ar/sTT7pSCfloDghSY70WAPQdOx1XcXdbNAeMVyoAiu8HA
     alt: Casa Condominio Majagua
 
 

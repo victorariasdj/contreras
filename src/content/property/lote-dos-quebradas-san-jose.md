@@ -1,7 +1,7 @@
 ---
 date: "2024-05-6"
 title: Lote Dos Quebradas San Jose
-img: https://rcxfd3i7eeu26s3pl7oz6skhqwn74pydrz3v62enrkzxyycwgima.arweave.net/iK5R7R8hKa9Lb1_dn0lHhZv-PwOOd19ojYqzfGBWMhg
+img: https://rcxfd3i7eeu26s3pl7oz6skhqwn74pydrz3v62enrkzxyycwgima.arweave.ar/iK5R7R8hKa9Lb1_dn0lHhZv-PwOOd19ojYqzfGBWMhg
 ubicacion: Calima Darién
 precio: "350.000.000"
 cercaDe: Dos Quebradas
@@ -16,11 +16,11 @@ parqueadero:
 keywords: lote, en venta, lago calima
 videoId: "k2y-y--yWIY"
 galeria:
-  - src: https://rcxfd3i7eeu26s3pl7oz6skhqwn74pydrz3v62enrkzxyycwgima.arweave.net/iK5R7R8hKa9Lb1_dn0lHhZv-PwOOd19ojYqzfGBWMhg
+  - src: https://rcxfd3i7eeu26s3pl7oz6skhqwn74pydrz3v62enrkzxyycwgima.arweave.ar/iK5R7R8hKa9Lb1_dn0lHhZv-PwOOd19ojYqzfGBWMhg
     alt: Lote Dos Quebradas San Jose
-  - src: https://h7pdcjdyt2bfam37esckxmrd3oe4gkwa2s6igheiuqyv57fmpiwa.arweave.net/P94xJHieglAzfySEq7Ij24nDKsDUvIMciKQxXvyseiw
+  - src: https://h7pdcjdyt2bfam37esckxmrd3oe4gkwa2s6igheiuqyv57fmpiwa.arweave.ar/P94xJHieglAzfySEq7Ij24nDKsDUvIMciKQxXvyseiw
     alt: Lote Dos Quebradas San Jose
-  - src: https://gfcx25pyq3fi6dxv4fmzeu55ex7lkwt3f3hxiydfzqa2sdk5ot7a.arweave.net/MUV9dfiGyo8O9eFZklO9Jf61Wnsuz3RgZcwBqQ1ddP4
+  - src: https://gfcx25pyq3fi6dxv4fmzeu55ex7lkwt3f3hxiydfzqa2sdk5ot7a.arweave.ar/MUV9dfiGyo8O9eFZklO9Jf61Wnsuz3RgZcwBqQ1ddP4
     alt: Lote Dos Quebradas San Jose
   
 
