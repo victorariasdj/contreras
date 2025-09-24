@@ -3,15 +3,15 @@ date: "2025-01-22"
 title: Casa Campestre Vereda el Remolino
 img: https://gd32xkqp7siubbfhtlvwairo6m3a4v4ihqfyr7oc4ut7qnulap4q.arweave.ar/MPerqg_8kUCEp5rrYCIu8zYOV4g8C4j9wuUn-DaLA_k
 ubicacion: Calima el Darién
-precio: "1.100.000.000"
-cercaDe: 15 minutos del parque
+precio: "875.000.000"
+cercaDe: 10 minutos del Parque Principal
 tipoPropiedad: Casa Campestre
 estado: Venta
 areaPropiedad: 3400
-areaConstruida: 
+areaConstruida: 620 
 descripcion: Cuenta con 2 casas, 2 cabañas, salon de eventos, piscina, sauna, cuarto de maquinas, yacusi, horno de leña, 
-habitaciones: 17
-baños: 8
+habitaciones: 10
+baños: 11
 parqueadero:
 keywords: casa campestre, en venta, lago calima
 videoId: 
@@ -100,8 +100,8 @@ Características generales:<br>
 - Piscina, sauna y jacuzzi
 - Horno tipo leña para eventos o gastronomía
 - Cuarto de máquinas totalmente equipado
-- 17 habitaciones en total
-- 8 baños distribuidos en toda la finca
+- 10 habitaciones en total
+- 11 baños distribuidos en toda la finca
 - Zona de parqueo para múltiples vehículos
 - Espacios verdes, jardines y entorno natural que brindan privacidad, tranquilidad y un ambiente perfecto para descanso o emprendimiento turístico. <br><br>
 
