@@ -1,28 +1,28 @@
 ---
 date: "2025-02-04"
 title: Finca Las Palmas
-img: https://66cxyriv4lbvpk3mw43rg6vsmp6mespt7whdugn3oevfrhg2i7sq.arweave.ar/94V8RRXiw1erbLc3E3qyY_zCSfP9jjoZu3EqWJzaR-U
+img: https://f4ix3ghle4q3op5rwusozvymqypoqb2pk6i6lcwoeqfrcxgdcyvq.arweave.net/LxF9mOsnIbc_sbUk7NcMhh7oB09XkeWKziQLEVzDFis
 ubicacion: Vereda el Caney 
-precio: "240.000.000"
+precio: "460.000.000"
 cercaDe:
 tipoPropiedad: Casa
 estado: Finca
-areaPropiedad: 10580
+areaPropiedad: 32500
 areaConstruida: 180
-descripcion: Con un área de 10558 mt2 y 180 mt2 construidos. 4 habitaciones, 1 baño y parqueadero.
+descripcion: Con un área de 32500 mt2 y 180 mt2 construidos. 4 habitaciones, 1 baño y parqueadero.
 habitaciones: 4
 baños: 1
 parqueadero: 1
 keywords: finca, en venta, lago calima
 videoId: 
 galeria:
-  - src: https://cw3ckan2er7ywe67oz3kwr7fqle4vzxcgvn3mwsfdbhaed43isma.arweave.ar/FbYlAbokf4sT33Z2q0flgsnK5uI1W7ZaRRhOAg-bRJg
+  - src: https://cltfbvacawxqjvpv4girta4irxobpofg7xgnzmgf7lji4veyzkqa.arweave.net/EuZQ1AIFrwTV9eGRGYOIjdwXuKb9zNywxfrSjlSYyqA
     alt: Finca Las Palmas
-  - src: https://7iy4pqw7nopq5vmxcdflpmckzkqwbkwze2qf4s6kovdclkoczkgq.arweave.ar/-jHHwt9rnw7VlxDKt7BKyqFgqtkmoF5LynVGJanCyo0
+  - src: https://yg7efyelaktzsodtqk5f5muxvhxyvlqnrgetiz655zymp2p2kxuq.arweave.net/wb5C4IsCp5k4c4K6XrKXqe-Krg2JiTRn3e5wx-n6Vek
     alt: Finca Las Palmas
-  - src: https://66cxyriv4lbvpk3mw43rg6vsmp6mespt7whdugn3oevfrhg2i7sq.arweave.ar/94V8RRXiw1erbLc3E3qyY_zCSfP9jjoZu3EqWJzaR-U
+  - src: https://bkjb4xgqvkqyxultl4rpcyo4nxfzsi22bfgk26m7jd3rhizzci6a.arweave.net/CpIeXNCqoYvRc18i8WHcbcuZI1oJTK15n0j3E6M5Ejw
     alt: Finca Las Palmas
-  - src: https://rjwvicgc2ukf6e2or5zkovce3cuxsxfjotbsv6msaxwn47yqtrra.arweave.ar/im1UCMLVFF8TTo9yp1RE2Kl5XKl0wyr5kgXs3n8QnGI
+  - src: https://4einrc7ownhsvbxqcmg43vqr726p35ynovbulguqfo6m25uvifia.arweave.net/4RDYi-6zTyqG8BMNzdYR_rz99w11Q0WakCu8zXaVQVA
     alt: Finca Las Palmas
   - src: https://igxm6w7sem4ushvk3uzrnqzymxrokayoxp4yafp2nj5cm36bkxyq.arweave.ar/Qa7PW_IjOUkeqt0zFsM4ZeLlAw67-YAV-mp6Jm_BVfE
     alt: Finca Las Palmas
@@ -44,9 +44,9 @@ galeria:
 ---
 **SE VENDE Finca rural con excelente tradición** y tierra fértil en Vereda el Caney - Yotoco Valle <br><br>
 
-Ubicada en una de las zonas rurales con mejor reputación del sector, esta finca de 10.580 m² es una joya para quienes buscan tranquilidad, buena tierra y proyección agrícola. <br><br>
+Ubicada en una de las zonas rurales con mejor reputación del sector, esta finca de 32500 m² (5 Plazas) es una joya para quienes buscan tranquilidad, buena tierra y proyección agrícola. <br><br>
 
-La propiedad cuenta con: <br>
+**La propiedad cuenta con:** <br>
 
 Una casa principal con 4 habitaciones, 1 baño y parqueadero<br>
 
@@ -54,5 +54,5 @@ Una casa principal con 4 habitaciones, 1 baño y parqueadero<br>
 - A tan solo 20 minutos del casco urbano de Calima el Darién
 - Rodeada de un vecindario tranquilo y trabajador, ideal para proyectos agrícolas, ganaderos o de descanso <br><br>
 
-Es perfecta para quienes valoran la conexión con la tierra, el silencio del campo y las oportunidades que solo una buena finca rural puede ofrecer. Su ubicación, acceso y calidad de suelo la hacen ideal para producir o simplemente vivir rodeado de naturaleza. <br><br>
+**Es perfecta para quienes valoran la conexión con la tierra, el silencio del campo y las oportunidades que solo una buena finca rural puede ofrecer. Su ubicación, acceso y calidad de suelo la hacen ideal para producir o simplemente vivir rodeado de naturaleza.** <br><br>
 
