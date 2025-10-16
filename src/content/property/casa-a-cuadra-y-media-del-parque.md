@@ -1,9 +1,9 @@
 ---
 date: "2025-02-05"
 title: Casa a Cuadra y Media del Parque
-img: https://u4ix7y2haytbdnkucvskuemx5yda3ks5r65k7265ygbpji44xpvq.arweave.ar/pxF_40cGJhG1VBVkqhGX7gYNql2Puq_r3cGC9KOcu-s
+img: https://yz7rwqtpn7xi7xti47xwm2pr6gqowwh66up7ul5gmw2caocsidhq.arweave.net/xn8bQm9v7o_eaOfvZmnx8aDrWP71H_ovpmW0IDhSQM8
 ubicacion: Calima Darién
-precio: "650.000.000"
+precio: "500.000.000"
 cercaDe: A cuadra y media del parque
 tipoPropiedad: Casa
 estado: Venta
@@ -16,9 +16,9 @@ parqueadero: 0
 keywords: casa, en venta, lago calima
 videoId: 
 galeria:
-  - src: https://bo75rp7hnsagwdzfcyae3j6anhssiqsvjuikylljcuach7ye3wzq.arweave.ar/C7_Yv-dsgGsPJRYATafAaeUkQlVNEKwtaRUAI_8E3bM
+  - src: https://yz7rwqtpn7xi7xti47xwm2pr6gqowwh66up7ul5gmw2caocsidhq.arweave.net/xn8bQm9v7o_eaOfvZmnx8aDrWP71H_ovpmW0IDhSQM8
     alt: Casa a Cuadra y Media del Parque
-  - src: https://u4ix7y2haytbdnkucvskuemx5yda3ks5r65k7265ygbpji44xpvq.arweave.ar/pxF_40cGJhG1VBVkqhGX7gYNql2Puq_r3cGC9KOcu-s
+  - src: https://b6iqlwxpkqtopgayjneer4356te3gsoukzeunldtjsqotii36rgq.arweave.net/D5EF2u9UJueYGEtISPN99MmzSdRWSUasc0yg6aEb9E0
     alt: Casa a Cuadra y Media del Parque
   - src: https://ml25jwthqws72syyw2yir6czvazhirrvip7jfnf4s6ob2ba4oyna.arweave.ar/YvXU2meFpf1LGLawiPhZqDJ0RjVD_pK0vJecHQQcdho
     alt: Casa a Cuadra y Media del Parque
@@ -87,8 +87,11 @@ galeria:
   
 ---
 
-Lote con dos casas prefabricadas cada una con <br><br>
- 
-2 habitaciones<br>
-1 baño.<br>
-zona amplia, salón grande enchapado. <br><br>
+**¡Oportunidad en el corazón de Calima Darién!** <br><br>
+
+Casa de dos pisos, con enfoque comercial y familiar, ubicada a solo cuadra y media del parque principal — **¡una zona central y de alta valorización!** <br><br>
+
+Cuenta con dos casas prefabricadas, cada una con 2 habitaciones, 1 baño y salón amplio.<br><br>
+
+**Lote de 257 m²**, ideal para vivir, arrendar o desarrollar proyecto comercial.
+

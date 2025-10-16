@@ -5,7 +5,7 @@ img: https://rfd4d2rcbsss7ah3kjreg3cd3llzn57usbi3ib6f7gu5lypduzaq.arweave.net/iU
 ubicacion: Calima Darién
 precio: "340.000.000"
 cercaDe: Calima el Darién
-tipoPropiedad: Casa Campestre
+tipoPropiedad: Casa
 estado: Venta
 areaPropiedad: 72
 areaConstruida: 
@@ -68,7 +68,7 @@ Esta propiedad es ideal para quienes buscan comodidad, independencia y excelente
 **Características:**<br>
 
 - Dos apartamentos independientes
-- Cada uno con 2 habitaciones, 1 baño, sala-comedor y cocina integral
+- Cada uno con 3 habitaciones, 1 baño, sala-comedor y cocina integral
 - Acabados modernos y en perfecto estado
 - Apartamento del segundo piso con terraza privada
 - Excelente tradición y documentos al día <br><br>
