@@ -13,7 +13,7 @@ descripcion: Lote muy bien ubicado, con vista al lago, excelente vecindario, bor
 habitaciones: 0
 baños: 0
 parqueadero: 0
-keywords: lote, en venta, calima darién
+keywords: lote, en venta, calima el darién
 videoId: 
 galeria:
   - src: https://ev2pr4zjgzo7cofuilif3alvyjqtixhi6ls6jihqe6rxk33z4biq.arweave.ar/JXT48yk2XfE4tELQXYF1wmE0XOjy5eSg8CejdW954FE
