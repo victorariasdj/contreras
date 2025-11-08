@@ -3,7 +3,7 @@ date: "2025-07-25"
 title: Finca La Esperanza
 img: https://yqfg3oamo5lqpwvejlqo3xiu57gnrshdxpcyown2uw5x4urscc5q.arweave.ar/xAptuAx3VwfapErg7d0U78zYyOO7xYdZuqW7flIyELs
 ubicacion: Restrepo, Valle del Cauca
-precio: "2.750.000.000"
+precio: ""
 cercaDe: Vereda Aguamona
 tipoPropiedad: Finca
 estado: Venta
