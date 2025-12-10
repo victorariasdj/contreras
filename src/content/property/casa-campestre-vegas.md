@@ -109,5 +109,6 @@ Descubre una propiedad diseñada para vivir rodeado de naturaleza, comodidad y e
 - Zona de turco <br><br>
 
 
-**Es una casa acogedora, luminosa, rodeada de verde y diseñada para quienes buscan tranquilidad, comodidad y un estilo de vida campestre con todas las ventajas modernas. Perfecta tanto para uso familiar como para inversión.**
+**Es una casa acogedora, luminosa, rodeada de verde y diseñada para quienes buscan tranquilidad, comodidad y un estilo de vida campestre con todas las ventajas modernas. Perfecta tanto para uso familiar como para inversión.**<br><br>
+
 
