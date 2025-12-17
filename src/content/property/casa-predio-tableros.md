@@ -1,7 +1,7 @@
 ---
 date: "2025-02-24"
 title: Casa Predio Tableros
-img: https://25qbbkqni3cp2p7hgnvlricu4r4lekcsctozxo4xixjr7fhzlh5a.arweave.ar/12AQqg1GxP0_5zNquKBU5HiyKFIU3Zu7l0XTH5T5Wfo
+img: https://ijs4urllu7ic23wh4ofj66i6jxqek5m5ehuzxaogoa5aurmtvcba.arweave.net/QmXKRWun0C1ux-OKn3keTeBFdZ0h6ZuBxnA6CkWTqII
 ubicacion: Calima Darién
 precio: "1.525.000.000"
 cercaDe: Tableros

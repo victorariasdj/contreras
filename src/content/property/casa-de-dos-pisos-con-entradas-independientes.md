@@ -1,7 +1,7 @@
 ---
 date: "2024-08-26"
 title: Casa de Dos Pisos con Entradas Independientes
-img: https://6okbog55hj37hvhm4byr4ks6vldswvf2ys62go6ky3xyu5wmdzpa.arweave.ar/85QXG706d_PU7OBxHipeqscrVLrEvaM7ysbvinbMHl4
+img: https://phv5vapy5jn2xse7pofrknv7az2gyjlk2irw5cqk6zasv25jpitq.arweave.net/eevagfjqW6vIn3uLFTa_BnRsJWrSI26KCvZBKuupeic
 ubicacion: Calima Darién
 precio: "120.000.000"
 cercaDe: Ciudadela German Mejia

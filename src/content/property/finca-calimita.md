@@ -1,7 +1,7 @@
 ---
 date: "2025-04-07"
 title: Finca Calimita
-img: https://4nwra5mxskndx6x7yy5h3w4oihhkja7yuisenf7frpotyicidwxq.arweave.ar/420QdZeSmjv6_8Y6fduOQc6kg_iiJEaX5YvdPCBIHa8
+img: https://xklc4klfssiqjbnrpxtjpnedqgk6rze4cebw2tcyb3yi5q7fwfda.arweave.net/upYuKWWUkQSFsX3ml7SDgZXo5JwRA21MWA7wjsPlsUY
 ubicacion: Calima Darién
 precio: "330.000.000"
 cercaDe: Vereda Jiguales
