@@ -42,8 +42,6 @@ galeria:
     alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://dw2drsjsebrdvny4yfk5gbhyq44h3rlfynwnjv2llvwz3np4i4da.arweave.net/HbQ4yTIgYjq3HMFV0wT4hzh9xWXDbNTXS11tnbX8RwY
     alt: Vereda La Virginia Puente Tierra Yotoco
-  - src: https://v4b24fv547jpvueq3ewrowjb5o4k6imfsxndwuggpty44rjkmwsa.arweave.net/rwOuFr3n0vrQkNktF1kh67ivIYWV2jtQxnzxzkUqZaQ
-    alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://huoxsys62xwtanalfqdlcwa2nc454lh3bxrhngz4v7rnjdvucsla.arweave.net/PR15Yl7V7TA0CywGsVgaaLneLPsN4nabPK_i1I60FJY
     alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://ashcfetkuzcfksxo7od5w333my7wvmzd2a65lq3uywclfl47nnkq.arweave.net/BI4ikmqmRFVK7vuH2297Zj9qsyPQPdXDdMWEsq-fa1U
@@ -54,17 +52,11 @@ galeria:
     alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://p6uspsye2s4bssz72t2iunylonrajomyrz27577lhdzyi2vb6gpq.arweave.net/f6knywTUuBlLP9T0ijcLc2IEuZiOdf7_6zjzhGqh8Z8
     alt: Vereda La Virginia Puente Tierra Yotoco
-  - src: https://wqtlbatnkkuiqlhevrsy4dusnhfj6eeukpe3gn77xpxpenq25twa.arweave.net/tCawgm1SqIgs5Kxljg6SacqfEJRTybM3_7vu8jYa7Ow
-    alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://baq2774xtnapsbrvfpkmxkqn7cnn5k2smghpzyhei4s2vefmvpza.arweave.net/CCGv_5ebQPkGNSvUy6oN-Jreq1Jhjvzg5EclqpCsq_I
-    alt: Vereda La Virginia Puente Tierra Yotoco
-  - src: https://hemv4cidl3gethwupkaqfobrakt7aohpezlhmounv3h6yriq3hva.arweave.net/ORleCQNezEme1HqBArgxAqfwOO8mVnY6ja7P7EUQ2eo
     alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://jdglvgdtux7r6grd4j6oyzvvdlyq2ed5gwlqnmob3hibb75mctbq.arweave.net/SMy6mHOl_x8aI-J87Ga1GvENEH01lwaxwdnQEP-sFMM
     alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://vg6jzmknuypfdt2m3pnmuvfpmllygwyzhmw2t3bezn432mejpgtq.arweave.net/qbycsU2mHlHPTNvaylSvYteDWxk7LansJMt5vTCJeac
-    alt: Vereda La Virginia Puente Tierra Yotoco
-  - src: https://kiovtb4kbxucdjcdpkrix7q6kyazrt4b22dgwcuk37mpqgjd4syq.arweave.net/Uh1Zh4oN6CGkQ3qii_4eVgGYz4HWhmsKit_Y-Bkj5LE
     alt: Vereda La Virginia Puente Tierra Yotoco
   - src: https://ydlwwna4a47d4oxloenf5cwpsqcb2k7yd2lbbjqk2co4n3i2rjyq.arweave.net/wNdrNBwHPj4663EaXorPlAQdK_gelhCmCtCdxu0ainE
     alt: Vereda La Virginia Puente Tierra Yotoco
