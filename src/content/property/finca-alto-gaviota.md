@@ -3,7 +3,7 @@ date: "2025-09-12"
 title: Finca Alto Gaviota
 img: https://ojq76yqoemjnnbhtjrv5wnksf3kztgp5rxmolxtwnsxyqft4mzgq.ardrive.net/cmH_Yg4jEtaE80xr2zVSLtWZmf2N2OXedmyviBZ8Zk0?
 ubicacion: Calima Darién
-precio: "650.000.000"
+precio: "550.000.000"
 cercaDe: Vereda Gaviota
 tipoPropiedad: finca
 estado: Venta

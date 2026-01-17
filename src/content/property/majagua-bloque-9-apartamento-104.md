@@ -1,7 +1,7 @@
 ---
 date: "2025-02-22"
 title: Majagua bloque 9 apartamento 104
-img: https://kwsdfj54mmih5takh5ai7mkg6usx2nvydzwh7k4y7amn2rvccpga.arweave.ar/VaQyp7xjEH7MCj9Aj7FG9SV9NrgebH-rmPgY3UaiE8w
+img: https://in6usqsy4hmadkdwnn7vlei74siishfya72dog5yoggudvwoxgoa.arweave.net/Q31JQljh2AGodmt_VZEf5JCJHLgH9DcbuHGNQdbOuZw
 ubicacion: Calima Darién
 precio: "350.000.000"
 cercaDe: Parcelación majagua
