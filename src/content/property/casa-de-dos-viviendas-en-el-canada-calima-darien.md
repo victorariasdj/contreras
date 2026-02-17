@@ -3,7 +3,7 @@ date: "2024-09-16"
 title: Casa de 2 viviendas en el Canadá
 img: https://fojm7tpjjbzbq3jsfh5ldar4ddvkf3ifcpurxgv3x55wunxcmcdq.arweave.ar/K5LPzelIchhtMin6sYI8GOqi7QUT6Ruau797ajbiYIc
 ubicacion: Calima Darién
-precio: "880.000.000"
+precio: "850.000.000"
 cercaDe: Cercana al Centro de Integración Ciudadano
 tipoPropiedad: Casa
 estado: Venta
@@ -14,151 +14,152 @@ habitaciones: 8
 baños: 8
 parqueadero: 1
 keywords: casa, en venta, lago calima
-videoId: 
+videoId:
 galeria:
-  - src: https://k2mnk34h5oq6urshtusi4inuidrp7rem7b5t2z26jqi34r6clcka.arweave.ar/VpjVb4froepGR50kjiG0QOL_xIz4ez1nXkwRvkfCWJQ
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://jiqstkcxsypd3fse4ufslwzrm22jczhbwtnoan646mc3iwioz2qa.arweave.ar/SiEpqFeWHj2WROULJdsxZrSRZOG02uA33PMFtFkOzqA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://ncbuidebnoh2gtsfychwstjt5mmxoleuxvxlmev72b7kr54tpica.arweave.ar/aINEDIFrj6NORcCPaU0z6xl3LJS9brYSv9B-qPeTegQ
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://p2lzvhyhmsevlywjsjpcovhrgk2qw6rtj2kyxwazzssemlsq5c2q.arweave.ar/fpeanwdkiVXiyZJeJ1TxMrULejNOlYvYGcykRi5Q6LU
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://rcqylcvuyppc4dongnmithxx6gyk5xcnagj7smakiyjln6awai2a.arweave.ar/iKGFirTD3i4NzTNYiZ738bCu3E0Bk_kwCkYStvgWAjQ
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://vl4e36jm5jvlxkog346fmiak7ln6wnd7sdwuxyt5pmwqtbg7ayia.arweave.ar/qvhN-Szqarupxt88ViAK-tvrNH-Q7UvifXstCYTfBhA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://tz4q3hhk2ddtu2je3c5s6mupeqjejlscy2ez3maf626c6m5thnza.arweave.ar/nnkNnOrQxzppJNi7LzKPJBJErkLGiZ2wBfa8LzOzO3I
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://bofgapqimsxcyed7djdzm2fxdzaizzoomtrlee53bx3t6ohjwxsa.arweave.ar/C4pgPghkriwQfxpHlmi3HkCM5c5k4rITuw33PzjpteQ
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://3bphr2rlm6zfukpwq5jllrxaxozapa7up4lopejovhq7sqlfc4va.arweave.ar/2F546itnslop9odStcbgu7IHg_R_FueRLqnh-UFlFyo
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://lxoajtxbkc2xsq5b42tc7yzb3ficegec52yd2pyx4c5ar3wj6yhq.arweave.ar/XdwEzuFQtXlDoeamL-Mh2VAiGILusD0_F-C6CO7J9g8
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://y3lciu2fewewkdoziykfdlubshkmmv56ivlcdpatasfl3m2eqv7q.arweave.ar/xtYkU0UliWUN2UYUUa6BkdTGV75FViG8EwSKvbNEhX8
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://me5vumyr6cadvpcad5palo4ypwtabzygoy7roxokmghxt7tdclnq.arweave.ar/YTtaMxHwgDq8QB9eBbuYfaYA5wZ2PxddymGPef5jEts
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://77vhxms5ay4igpuf4d2dcaoxlhdguhxoihyfwha5fsojltze6ena.arweave.ar/_-p7sl0GOIM-heD0MQHXWcZqHu5B8FscHSyclc8k8Ro
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://pliw5oiytivoy4uiiwwnivyjc7kpr5awbmwxmek773x2hyjaubia.arweave.ar/etFuuRiaKuxyiEWs1FcJF9T49BYLLXYRX_7vo-EgoFA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://xsu7pbrxdsv4dzwkmyt7regbpoebnzvw3l6xcmbqfjhbwqpxbicq.arweave.ar/vKn3hjccq8HmymYn-JDBe4gW5rba_XEwMCpOG0H3CgU
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://unscvkmol4okih5msr5dutzsyrxm2tsjsbvrf4xr3xi4d2rcj3ga.arweave.ar/o2QqqY5fHKQfrJR6Ok8yxG7NTkmQaxLy8d3RweoiTsw
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://5tqzmsrx6qqd4dgo7asel3r2vunjo3ptvkiqaxyg6mn4o4exz73a.arweave.ar/7OGWSjf0ID4MzvgkRe46rRqXbfOqkQBfBvMbx3CXz_Y
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://jfzcmet5fzcxmu3fvblukkrccjrfg43sncbf5g22bjfz6sfe74wq.arweave.ar/SXImEn0uRXZTZahXRSoiEmJTc3Jogl6bWgpLn0ik_y0
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://4ouos655bcecfhtjji536xrcxnmqgopwulx7knyjtdnieqamm5ya.arweave.ar/46jpe70IiCKeaUo7v14iu1kDOfai7_U3CZjagkAMZ3A
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://3mepkppm7tihwpkt6bs3uptjb4z4utbvikm7b2u65owbe3qq7sxq.arweave.ar/2wj1Pez80Hs9U_Bluj5pDzPKTDVCmfDqnuusEm4Q_K8
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://wwbxh23z23xxmhgp6tcp6eifw7s6rpvwu7k7rtmuxd5uxi3xyspq.arweave.ar/tYNz63nW73Ycz_TE_xEFt-Xovran1fjNlLj7S6N3xJ8
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://gfyaygdlle2uze42lt7umcg3a322a2tg3jfn37vqcxdhpuqppctq.arweave.ar/MXAMGGtZNUyTmlz_RgjbBvWgambaSt3-sBXGd9IPeKc
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://np2yz44uhwge4lsusticb6t6tab2d6kdnuh4srd3zykanywg7fqq.arweave.ar/a_WM85Q9jE4uVJTQIPp-mAOh-UNtD8lEe84UBuLG-WE
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://drdwfobsyyjqhjbgho46ivqhx6cb43avwta6ytcmaoynop2dc4sq.arweave.ar/HEdiuDLGEwOkJju55FYHv4QebBW0wexMTAOw1z9DFyU
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://gv6cfshf7xg4l6j25cox6pnv2rp6bk2bzkxhteuunijaqhpwjn6q.arweave.ar/NXwiyOX9zcX5Ouidfz211F_gq0HKrnmSlGoSCB32S30
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://e4obvnyk75zw2hzkvgz3iuty6uixgrq36d3r4fizpcwiibfayjpa.arweave.ar/Jxwatwr_c20fKqmztFJ49RFzRhvw9x4VGXishASgwl4
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://irtcpkwhquuoydbqclvklmrzftjx7lp64zjv5wqgo5rdpz272fpq.arweave.ar/RGYnqseFKOwMMBLqpbI5LNN_rf7mU17aBndiN-df0V8
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://koprkd6huaxogrsrp6aanpy6r2shcde3qbufhiw2g73ncfw6u65a.arweave.ar/U58VD8egLuNGUX-ABr8ejqRxDJuAaFOi2jf20Rbep7o
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://3kuav2y5hjueixqdg6672xrzgl24eqkvpixrl77w6wodshagg64a.arweave.ar/2qgK6x06aEReAze9_V45MvXCQVV6LxX_9vWcORwGN7g
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://j3ua4axsctfnlznyfcnliaqje3oodrqunbpuows2fyzsdpe7fqeq.arweave.ar/TugOAvIUytXluCiatAIJJtzhxhRoX0daWi4zIbyfLAk
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://b6kwz34pnkq7pdi2c2vp4epvma7umoglrzs5cmcrczdaedommf2q.arweave.ar/D5Vs749qofeNGhaq_hH1YD9GOMuOZdEwURZGAg3MYXU
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://r655ka4dtnjnxn4cmohrpazrxgjofged4sdcgj2xjachapg2rj6a.arweave.ar/j7vVA4ObUtu3gmOPF4MxuZLimIPkhiMnV0gEcDzainw
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://rvhs77pysltckrkmhhkx2rf6h7g2mv5zyxuo2cd4ew5ysu7qpdpa.arweave.ar/jU8v_fiS5iVFTDnVfUS-P82mV7nF6O0IfCW7iVPweN4
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://h7hgi4ufgqxuw3jmmqfakdpx2ovgssrwf2opfhcm7x6t75yiuv6a.arweave.ar/P85kcoU0L0ttLGQKBQ3306ppSjYunPKcTP39P_cIpXw
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://shf5afcqjt3kjbrzazt2bhzxi5oclirndbsulyfhjuoq4x2nbmuq.arweave.ar/kcvQFFBM9qSGOQZnoJ83R1wloi0YZUXgp00dDl9NCyk
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://sdhlwaadjt6nu44mgvx4gt6zqpobpbtu7gwsu23ebjqgr4t5r7nq.arweave.ar/kM67AANM_NpzjDVvw0_Zg9wXhnT5rSprZApgaPJ9j9s
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://ica4yvfprpqd7lrpfk2gwz337anuvhyvpu526nm5w72sa4fwkxlq.arweave.ar/QIHMVK-L4D-uLyq0a2d7-BtKnxV9O681nbf1IHC2Vdc
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://jzsmjbd2tmsxgrornoex2fzksmu7gkasiajfswztbpwspicjsfjq.arweave.ar/TmTEhHqbJXNF0WuJfRcqkynzKBJAEllbMwvtJ6BJkVM
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://2mu5ugsijkrfqhhzckde4a5hn56ub5hjsz5jgz4vo6frmsrfmfdq.arweave.ar/0ynaGkhKolgc-RKGTgOnb31A9OmWepNnlXeLFkolYUc
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://xzxxxth7nitu6ufjkw44fmonjkdry7tju4i4a7rexbi4xh7xiheq.arweave.ar/vm97zP9qJ09QqVW5wrHNSoccfmmnEcB-JLhRy5_3Qck
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://fshtdvgbevbqrl5oqo4vqgoiinjtahnkqemyowm23woakfhbe27q.arweave.ar/LI8x1MElQwivroO5WBnIQ1MwHaqBGYdZmt2cBRThJr8
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://h65kfijxmp24ayqpfrogmbgugzfh2hotpcshqmsybx5q4yuz244q.arweave.ar/P7qioTdj9cBiDyxcZgTUNkp9HdN4pHgyWA37DmKZ1zk
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://y7d635ss6haaj7wmatcv5usllscgt4sxtovzn4sjoidc67d4thfa.arweave.ar/x8ft9lLxwAT-zATFXtJLXIRp8lebq5bySXIGL3x8mco
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://s64ovhpisxzheyn5em22exqihs6mthypatmym3l3gxzfwc44gy4a.arweave.ar/l7jqneiV8nJhvSM1ol4IPLzJnw8E2YZtezXyWwucNjg
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://g5za4galyglmejtvhupkiz6svyxavq3ojkffeba2iowj3xc3surq.arweave.ar/N3IOGAvBlsImdT0epGfSri4Kw25KilIEGkOsndxblSM
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://4ldxqkxxgzqj36bpcfooox57tmy7toqfybjrnwrel4spoaniumpa.arweave.ar/4sd4Kvc2YJ34LxFc51-_mzH5ugXAUxbaJF8k9wGoox4
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://24txz2liypq4s4l3jpobfxmwwvgpmqndpy3okv3fivyd7flrc4dq.arweave.ar/1yd86WjD4clxe0vcEt2WtUz2QaN-NuVXZUVwP5VxFwc
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://rhhaykup7goj4ktiupmknplajdkhu6xs76u47yedtyjlrsmqc47a.arweave.ar/ic4MKo_5nJ4qaKPYpr1gSNR6evL_qc_gg54SuMmQFz4
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://qtsopgdkvwjditihdzflbgzsg3ll3ifux65vrjhgb5rnl7bjz6qq.arweave.ar/hOTnmGqtkjRNBx5KsJsyNta9oLS_u1ik5g9i1fwpz6E
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://mvnyc7nwmk6kholwy2gnbx7dcjkh4cdntxgywxunlrzhcw5eko7q.arweave.ar/ZVuBfbZivKO5dsaM0N_jElR-CG2dzYtejVxycVukU78
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://5qx6g7rbswuhd6vgnitzzmllxpe4zegxhvnysoroetvxmumh7uia.arweave.ar/7C_jfiGVqHH6pmonnLFru8nMkNc9W4k6LiTrdlGH_RA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://63lh4zmpfd57wzohk3bsxv3hd64qaye4rydbnbmp5fkww4tnkkza.arweave.ar/9tZ-ZY8o-_tlx1bDK9dnH7kAYJyOBhaFj-lVa3JtUrI
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://sntrzygenjwqeu65rrasdgvjxnugte2jsg6jiivlsggfhe4q55ra.arweave.ar/k2cc4MRqbQJT3YxBIZqpu2hpk0mRvJQiq5GMU5OQ72I
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://evzrb7neubu5dkpcoswkfyjd2houobqxg7lgkcg7ehd5fljoz67a.arweave.ar/JXMQ_aSgadGp4nSsouEj0d1HBhc31mUI3yHH0q0uz74
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://tunyr7n4vzu4emmxplzqfdfcx4zinv572xwckwzaa7365ajjsdta.arweave.ar/nRuI_byuacIxl3rzAoyivzKG17_V7CVbIAf37oEpkOY
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://yz62lchxzevyuxzmv5liybzw3zon2swyzvlfqrpadhf4vv4o3maa.arweave.ar/xn2liPfJK4pfLK9WjAc23lzdStjNVlhF4BnLyteO2wA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://ddndxvuifzjim5samlihakk2hhhijn4cztxtlpfl6iy4hsmqwyia.arweave.ar/GNo71oguUoZ2QGLQcClaOc6Et4LM7zW8q_Ixw8mQthA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://yoavmb3rc4225qxw2fi4luclobbbt65abtmbuvofrqw7egngvusa.arweave.ar/w4FWB3EXNa7C9tFRxdBLcEIZ-6AM2BpVxYwt8hmmrSQ
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://w72sxx3jm7oov4ywtk3nyh2lhqeydcxlwu7oa6wthkmzs2sh4via.arweave.ar/t_Ur32ln3OrzFpq23B9LPAmBiuu1PuB60zqZmWpH5VA
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://57kofhh7zgjfjj7xdvv3s7mso7ubd2egmake7ujawghvyqxxhznq.arweave.ar/79TinP_JklSn9x1ruX2Sd-gR6IZgFE_RILGPXEL3Pls
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://w2t6klkzha6bafjrpch6pq4neifax2b5l4ez3ixj2emj254cdakq.arweave.ar/tqflLVk4PBAVMXiP58ONIgoL6D1fCZ2i6dEYnXeCGBU
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://fkvbyni7hryww7wd3fgny5aogbvlxq3gnthacslniriohkmpsa5a.arweave.ar/KqocNR88cWt-w9lM3HQOMGq7w2ZszgFJbURQ46mPkDo
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://qgkxzvxg5ujwpm2tmjnuklt2xiurlvan2hagqfxzz4o6wf7pfp3q.arweave.ar/gZV81ubtE2ezU2JbRS56uikV1A3RwGgW-c8d6xfvK_c
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://sm3z65qkftetpa4og7ic3vl3ynimodokzcphh2lsdxu7e34ar6eq.arweave.ar/kzefdgosyTeDjjfQLdV7w1DHDcrInnPpch3p8m-Aj4k
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://slgadwkhnxgbdcbghfkijfb67vqmwnsp5wrcetkk7ibyg6oprm5q.arweave.ar/kswB2UdtzBGIJjlUhJQ-_WDLNk_toiJNSvoDg3nPizs
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://jr3xrltvxuefatkq4u6noifvp3iplaz6mzpkjjngjrlr3fdd7vpa.arweave.ar/THd4rnW9CFBNUOU81yC1ftD1gz5mXqSlpkxXHZRj_V4
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://lxhi42ozwym7wekwxq33rgv4pdykqaz4oxi7flufj5ynvdmublnq.arweave.ar/Xc6Oadm2GfsRVrw3uJq8ePCoAzx10fKuhU9w2o2UCts
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://ods7mwih3wilmkaxvu7vp5dmzmoyevciccveuk4tgmo26qpdvyfa.arweave.ar/cOX2WQfdkLYoF60_V_Rsyx2CVEgQqkorkzMdr0Hjrgo
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://wwgkd2hzojqyzdvutm3m5kpye2s3gffgp5eb3sjwejgqloh45csq.arweave.ar/tYyh6PlyYYyOtJs2zqn4JqWzFKZ_SB3JNiJNBbj86KU
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://fojm7tpjjbzbq3jsfh5ldar4ddvkf3ifcpurxgv3x55wunxcmcdq.arweave.ar/K5LPzelIchhtMin6sYI8GOqi7QUT6Ruau797ajbiYIc
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  - src: https://cxgnqwr6xiwgrux3zvi7nwcpgs42hieetrohlahttpi5qktxhima.arweave.ar/FczYWj66LGjS-81R9thPNLmjoIScXHWA85vR2Cp3Ohg
-    alt: Casa de 2 viviendas en el Canadá Calima Darién
-  
+  - tituloSeccion: "Frente"
+    fotos:
+      - src: "https://aaiazjfzchfaap3yucxmmjklpgg5cvntvk7jksc4bv3gmt6mi7oq.arweave.net/ABAMpLkRygA_eKCuxiVLeY3RVbOqvpVIXA12Zk_MR90"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://csgzewh2vukf6otlt6ul4esjjqlx6pfw7hodvgp53rdwmab7s6gq.arweave.net/FI2SWPqtFF86a5-ovhJJTBd_PLb53DqZ_dxHZgA_l40"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://a3knbdwxqzh3jvvbq272ty5kiewiuabpjtgirb4cigru3565frda.arweave.net/BtTQjteGT7TWoYa_qeOqQSyKAC9MzIiHgkGjTffdLEY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://cd7gcqpcdyyfvccxb7pb3v4vfrsctrci3uoat5vml5t4vymzcezq.arweave.net/EP5hQeIeMFqIVw_eHdeVLGQpxEjdHAn2rF9nyuGZETM"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://md5wif7zd5hs2wyesjjoqmfqk5tpu6demwe4vetcpispamfiuuza.arweave.net/YPtkF_kfTy1bBJJS6DCwV2b6eGRlicqSYnok8DCopTI"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://whlpryw3yqfxxkropv5hsdnrwrxg47hlmgvkz2njentyzfzkxofq.arweave.net/sdb44tvEC3uqLn16eQ2xtG5ufOthqqzpqSNnjJcqu4s"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://aaiazjfzchfaap3yucxmmjklpgg5cvntvk7jksc4bv3gmt6mi7oq.arweave.net/ABAMpLkRygA_eKCuxiVLeY3RVbOqvpVIXA12Zk_MR90"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+  - tituloSeccion: "Primer Piso"
+    fotos:
+      - src: "https://aytxjenvrds5f74x74gdyf4nmg3kelv4kbosqsrkc2vatzvob7ma.arweave.net/Bid0kbWI5dL_l_8MPBeNYbaiLrxQXShKKhaqCeauD9g"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://yb4epkewl7o2wdng4jewb6yq34dxlhna4uagmtrczjvm6gut3ztq.arweave.net/wHhHqJZf3asNpuJJYPsQ3wd1naDlAGZOIspqzxqT3mc"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://yfmuelbfn4aihf3btwlw3hhx6yskm35x3azkcfgvkwcbnflbyh4q.arweave.net/wVlCLCVvAIOXYZ2XbZz39iSmb7fYMqEU1VWEFpVhwfk"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://palehrwycruun5kt253wnsv744d5dxssdxo5j2nu6vm6glnf2glq.arweave.net/eBZDxtgUaUb1U9d3Zsq_5wfR3lId3dTptPVZ4y2l0Zc"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://s4ok7gtpqxx5gimda555vn4xfsietminxp6yuczuzph3tfxxelha.arweave.net/lxyvmm-F79Mhgwd72reXLJBJsQ27_YoLNMvPuZb3Is4"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://ongfj36mztmhsuadep4pveip35ef7epfyjk2f6h7o4gvrh67bhxq.arweave.net/c0xU78zM2HlQAyP4-pEP30hfkeXCVaL4_3cNWJ_fCe8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://rcidd2uawerxiurcuszaqriu3g4u7kxnmhup4mjzrmr74tmarptq.arweave.net/iJAx6oCxI3RSIqSyCEUU2blPqu1h6P4xOYsj_k2Ai-c"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://pk3465l5itlssi3e4qpywkvvncrw66wwbcgnieyro55hfw4mdbhq.arweave.net/erfPdX1E1ykjZOQfiyq1aKNvetYIjNQTEXd6ctuMGE8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://gm37fkp5ktstile3w5mb2uw3u7wsofesbotbd4qnpdjdrfpdvapq.arweave.net/Mzfyqf1U5TQsm7dYHVLbp-0nFJILphHyDXjSOJXjqB8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://lmopnhdyre2pcc7obvhxcurteusi5nvlyu7pyn6gxnpfhtngdcnq.arweave.net/Wxz2nHiJNPEL7g1PcVIzJSSOtqvFPvw3xrteU82mGJs"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://u6vmlgesnkgygruxp77krtnix74glihoe43y7cx63dhqi2petfda.arweave.net/p6rFmJJqjYNGl3_-qM2ov_hloO4nN4-K_tjPBGnkmUY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://o5qkvxq3snyrgbtecy6f7sj7t5dpwehow32njichz6gsu6jaojqq.arweave.net/d2Cq3huTcRMGZBY8X8k_n0b7EO629NSgR8-NKnkgcmE"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://i5mf5mzhzozfnnfsm6awjzok5haewtcahzol3upo7qt6bb2374iq.arweave.net/R1hesyfLsla0smeBZOXK6cBLTEA-XL3R7vwn4Idb_xE"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://dwmgxel7cklil6rjf7nvep4muyf2dmy7dqi6yzsil4ez5rogicna.arweave.net/HZhrkX8SloX6KS_bUj-Mpguhsx8cEexmSF8JnsXGQJo"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://6nkvymovigifrshsjgdzesvltlevterc7ds5szwej42ebtp5rc7a.arweave.net/81VcMdVBkFjI8kmHkkqrmslZkiL45dlmxE80QM39iL4"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://hnz6g3hojuia3p6zs6b7vovmakbz2zbay4lxwus4imn4upererla.arweave.net/O3PjbO5NEA2_2ZeD-rqsAoOdZCDHF3tSXEMbyjyRJFY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://27shumeupeoihl6o5xc7ihjllq6guq67xahejigwbpdat3td2yqq.arweave.net/1-R6MJR5HIOvzu3F9B0rXDxqQ9-4DkSg1gvGCe5j1iE"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://7ir4qviwrsemtv7ibfjmltb24tieq4utstpm3snr6jl74ebr5icq.arweave.net/-iPIVRaMiMnX6AlSxcw65NBIcpOU3s3JsfJX_hAx6gU"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://d7q3hrjcks464zmkhf7vfo5jwhp2valok4mefcl4remww765m4pq.arweave.net/H-GzxSJUue5lijl_Urupsd-qgW5XGEKJfIkZa3_dZx8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://ptzpx6hrhe57k4rii6golqqo4hz4xlcjqraw3ytedzrdtzskr3rq.arweave.net/fPL7-PE5O_VyKEeM5cIO4fPLrEmEQW3iZB5iOeZKjuM"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://67fxjkakx6ju6zatucb5ogzacgpdaehrayblugciitewkitepopa.arweave.net/98t0qAq_k09kE6CD1xsgEZ4wEPEGAroYSETJZSJke54"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://zx3hlcvl6dkyyiwx7eqnxe4ysgpompurwp7e6ogzasjt7vqsmuuq.arweave.net/zfZ1iqvw1Ywi1_kg25OYkZ7mPpGz_k842QSTP9YSZSk"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://bqjybozte4nqj5jvm6m4vbh2tfuyi5zx4wytvosquirrldcj3vya.arweave.net/DBOAuzMnGwT1NWeZyoT6mWmEdzflsTq6UKIjFYxJ3XA"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://3ywfzwd4n77jacxf25dzwoxekyw4qxa6sxw3krjobh6sqb7yr37q.arweave.net/3ixc2Hxv_pAK5ddHmzrkVi3IXB6V7bVFLgn9KAf4jv8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+  - tituloSeccion: "Segundo Piso"
+    fotos:
+      - src: "https://3ofgelkd7ci6sswaozkf6llww66py5p3w7tkthvh6bryro2oudoa.arweave.net/24piLUP4kelKwHZUXy12t7z8dfu35qmep_BjiLtOoNw"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://hmkgvv5aen4em6kozwrvdioraphxszapj7mlo5harwmmda5pvaba.arweave.net/OxRq16AjeEZ5Ts2jUaHRA895ZA9P2Ld04I2YwYOvqAI"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://rkkt3ubytmgpge7ox3tpgxr4wbgmg2wpuxjn7yfiw6qj5qh6vpoa.arweave.net/ipU90DibDPMT7r7m8148sEzDas-l0t_gqLegnsD-q9w"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://caeeit4rd6bixlxioyvzwhfang4ry7ygzbc2y6kgk5up7lgwsada.arweave.net/EAhET5Efgouu6HYrmxygabkcfwbIRax5Rldo_6zWkAY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://denvv4u6y32mjyktjaqkxrcv42dwshu5wq7lefxqnepsghzxaqaq.arweave.net/GRta8p7G9MThU0ggq8RV5odpHp20PrIW8GkfIx83BAE"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://pysh5raoty5ppzjzhp5zgyhdty5hat52j45cc3samw7pmnpahv7q.arweave.net/fiR-xA6eOvflOTv7k2DjnjpwT7pPOiFuQGW-9jXgPX8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://k2lunutysdt52x6nydnrmkto2zo7o4l6fibi7ajqubaar5n3zf7q.arweave.net/VpdG0niQ591fzcDbFipu1l33cX4qAo-BMKBACPW7yX8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://s2s6iopngukckb3awph7efcsy4s5bvifwyoslqx5ddckgyntj2na.arweave.net/lqXkOe01FCUHYLPP8hRSxyXQ1QW2HSXC_RjEo2GzTpo"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://vjikhdhholqr6652jc3hfl6dk4epv4ny2tnjlq7rv4nvf2adhafq.arweave.net/qlCjjOdy4R97uki2cq_DVwj68bjU2pXD8a8bUugDOAs"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://lddodoqk3lqunglbwenejkel2bqzwsmolu7e3qka77ovfbm53wgq.arweave.net/WMbhugra4UaZYbEaRKiL0GGbSY5dPk3BQP_dUoWd3Y0"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://ktwdweu4v4gkdrdspohhrjbzrablrkbbo3nrzsaadtkgodtqywla.arweave.net/VOw7EpyvDKHEcnuOeKQ5iAK4qCF22xzIABzUZw5wxZY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://tdomnzhcsg553tzucz3uerr3vyz3nfu77s2jwv5isasd6i7vqaja.arweave.net/mNzG5OKRu93PNBZ3QkY7rjO2lp_8tJtXqJAkPyP1gBI"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://lgg7ojpjt5nl4h3w76jegjutv3m4he3latlk2tav6agfulx2yq7a.arweave.net/WY33JemfWr4fdv-SQyaTrtnDk2sE1q1MFfAMWi76xD4"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://g4t4osat5iwpemv77rgsg4jzyxc244rm2rrtm4gqjespge5vw7jq.arweave.net/NyfHSBPqLPIyv_xNI3E5xcWucizUYzZw0Ekk8xO1t9M"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://pcsscloyjh5eusuzh5m424ydxemahf2kntbmzczga2tglc4odihq.arweave.net/eKUhLdhJ-kpKmT9ZzXMDuRgDl0pswsyLJgamZYuOGg8"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://ph76kqjvkseu7l3zlgoz74glgjhh675tjn4dsg25rnxbvu66acbq.arweave.net/ef_lQTVUiU-veVmdn_DLMk5_f7NLeDkbXYtuGtPeAIM"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://bga2pu7pflglin5dbvbtwz7expc7ah7i5s2vogudteti236vrm6q.arweave.net/CYGn0-8qzLQ3ow1DO2fku8XwH-jstVcag5kmjW_Viz0"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://hkvegxmrbec4yxeehkmrtqefotpqk5waimod2fhddlrwvkgzs47a.arweave.net/OqpDXZEJBcxchDqZGcCFdN8FdsBDHD0U4xrjaqjZlz4"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://caeeit4rd6bixlxioyvzwhfang4ry7ygzbc2y6kgk5up7lgwsada.arweave.net/EAhET5Efgouu6HYrmxygabkcfwbIRax5Rldo_6zWkAY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://denvv4u6y32mjyktjaqkxrcv42dwshu5wq7lefxqnepsghzxaqaq.arweave.net/GRta8p7G9MThU0ggq8RV5odpHp20PrIW8GkfIx83BAE"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://rdw236p7b6jnrqtmjayr7g5yk3svjcsgjr2bbjxo2ycc3b4rrxza.arweave.net/iO2t-f8PktjCbEgxH5u4VuVUikZMdBCm7tYELYeRjfI"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+  - tituloSeccion: "Tercer Piso"
+    fotos:
+      - src: "https://a3cevxyc7pax6nx3pfjo5igxll4ywhiooh5ktpazmtxbss4ovtea.arweave.net/BsRK3wL7wX82-3lS7qDXWvmLHQ5x-qm8GWTuGUuOrMg"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://ag3xwu4t5ouuwc24t7plq6p4god2fybkuz56pohvfjzamiawl5pa.arweave.net/Abd7U5PrqUsLXJ_euHn8M4ei4Cqme-e49SpyBiAWX14"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://jb2x4wfgb5snhpwiurfet54f32yswhc3cs47kg5vrhgqboigvvsq.arweave.net/SHV-WKYPZNO-yKRKSfeF3rErHFsUufUbtYnNALkGrWU"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "http://75squafbrohkkylosjpl4fygjyabrqapfxtmlrfbpjrob5wb4via.arweave.net/_2UKAKGLjqVhbpJevhcGTgAYwA8t5sXEoXpi4PbB5VA"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://cohvlj6rvwmxbzhginr4fpjcxufbium6ug23345livcrv2q7olda.arweave.net/E49Vp9GtmXDk5kNjwr0ivQoUUZ6htb3zq0VFGuofcsY"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://3osn2fskpbuxdv5wvp45x5onlyynghqx2oog7qhlj22bj3nayntq.arweave.net/26TdFkp4aXHXtqv52_XNXjDTHhfTnG_A6060FO2gw2c"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://gub2xx6dznxe6rwpwv5xgtphh47h6gbvm7gwjhkpeaog5j6oqyrq.arweave.net/NQOr38PLbk9Gz7V7c03nPz5_GDVnzWSdTyAcbqfOhiM"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://5mdtg4msqogukvktrpdhdo3looph3hgd3r5nl37lt7w5a6zhozeq.arweave.net/6wczcZKDjUVVU4vGcbtrc559nMPcetXv65_t0Hsndkk"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://723y6xt7ark3i3ls3pmhkxiwwkxgizeh3pulaiqedaxzaewoaknq.arweave.net/_rePXn8EVbRtctvYdV0Wsq5kZIfb6LAiBBgvkBLOAps"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://tqgykzitizht5bkqb5pj5nzcijivgi57r2jpxb5dmxq4yoodoy2a.arweave.net/nA2FZRNGTz6FUA9enrciQlFTI7-OkvuHo2XhzDnDdjQ"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://5mr7qjhczhezw7upznvokhn6ibevgqzhiz7urzxj2yeozonexg2a.arweave.net/6yP4JOLJyZt-j8tq5R2-QElTQydGf0jm6dYI7LmkubQ"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://hl3kkf6mhbupxpcvbovfeseotwk6tbalmizmtz5ssrjyi3a77sgq.arweave.net/OvalF8w4aPu8VQuqUkiOnZXphAtiMsnnspRThGwf_I0"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://tkpqzme7t46f2zbx2ijtet4cnz5tz2ihpdcu5e2f4qdiwwl2hmea.arweave.net/mp8MsJ-fPF1kN9ITMk-Cbns86Qd4xU6TReQGi1l6Owg"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://dj6qztt4zaa5w6sxrvam5knbsisay5lvvt4rzasristq4rpfsfvq.arweave.net/Gn0MznzIAdt6V41AzqmhkiQMdXWs-RyCUUSnDkXlkWs"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://rmqs6va6rmhjnrxa36xow5akuiihzbrliapgyxl4m4teybmpszga.arweave.net/iyEvVB6LDpbG4N-u63QKohB8hitAHmxdfGcmTAWPlkw"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
+      - src: "https://gdhgri2h2zpfjcs4vwbeld7unfpk6jqwlsejipt6brkc7yao2tqa.arweave.net/MM5oo0fWXlSKXK2CRY_0aV6vJhZciJQ-fgxUL-AO1OA"
+        alt: "Casa de 2 viviendas en el Canadá Calima Darién"
 ---
 Con 8 alcobas, 8 baños, 3 balcones <br>
 sauna <br>
