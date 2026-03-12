@@ -7,7 +7,7 @@ precio: "453.000.000"
 cercaDe: A 600 metros de la carretera que conduce de Jiguales a darien
 tipoPropiedad: Lote
 estado: Venta
-areaPropiedad: 4060
+areaPropiedad: 6040
 areaConstruida: 
 descripcion: Lote con acceso carreteable, con una pendiente de 10% aproximadamente, buen vecindaje y entorno, cerca a acometida de energia y agua, excelente tradicion.
 habitaciones: 
