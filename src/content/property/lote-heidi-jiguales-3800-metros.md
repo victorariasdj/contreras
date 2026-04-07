@@ -1,5 +1,5 @@
 ---
-date: "2026-12-03"
+date: "2026-03-12"
 title: Lote Heidi 01 Jiguales 3800 metros 
 img: https://mkenvp3uc4btetlhslevqm6kxgjbxazs6cufl4s3rzeb7k6udeea.arweave.net/Yojav3QXAzJNZ5LJWDPKuZIbgzLwqFXyW45IH6vUGQg
 ubicacion: A 400 metros de la carretera que conduce de Jiguales a darien

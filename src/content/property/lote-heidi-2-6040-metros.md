@@ -1,5 +1,5 @@
 ---
-date: "2026-12-03"
+date: "2026-03-12"
 title: Lote Heidi 2 6040 metros 
 img: https://kasnvwabrdk7p2gof2yhvgjqzyi5xafqnyrxb3d62l3dx2ttmefa.arweave.net/UCTa2AGI1ffozi6wepkwzhHbgLBuI3DsftL2O-pzYQo
 ubicacion: A 600 metros de la carretera que conduce de Jiguales a darien
