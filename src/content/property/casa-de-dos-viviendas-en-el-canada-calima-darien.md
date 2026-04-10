@@ -1,7 +1,7 @@
 ---
 date: "2026-02-26"
 title: Casa de 2 viviendas en el Canadá
-img: https://fojm7tpjjbzbq3jsfh5ldar4ddvkf3ifcpurxgv3x55wunxcmcdq.arweave.ar/K5LPzelIchhtMin6sYI8GOqi7QUT6Ruau797ajbiYIc
+img: https://fojm7tpjjbzbq3jsfh5ldar4ddvkf3ifcpurxgv3x55wunxcmcdq.arweave.net/K5LPzelIchhtMin6sYI8GOqi7QUT6Ruau797ajbiYIc
 ubicacion: Calima Darién
 precio: "850.000.000"
 cercaDe: Cercana al Centro de Integración Ciudadano
