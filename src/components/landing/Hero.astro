@@ -6,20 +6,22 @@ import BotonContactame from "../BotonContactame.astro";
     <!-- <div class="foto-nombre">
         <img transition:name="fotoCarlos" src="https://bvhuqk3dphsfriini6jj4srtcf2qcyjwkvtgnb77us7u6fvuruwq.arweave.ar/DU9IK2N55FihDUeSnkozEXUBYTZVZmaH_6S_Txa0jS0" alt="">
     </div> -->
-    
+
     <div>
-        <h2 class="text-long ">Carlos Arturo Contreras C.</h2>
-        <h3>Abogado<br><span>Corredor de Bienes Raices</span></h3>
-        <p class="text-long" >Con más de una década en la región, ofrecemos asesoría legal</p>
-        <p>y servicios basados en la ética, la credibilidad y la confiabilidad jurídica que tu patrimonio merece.</p>
+        <h2 class="text-long">Carlos Arturo Contreras C.</h2>
+        <h3>Abogado<br /><span>Corredor de Bienes Raices</span></h3>
+        <p class="text-long">
+            Con más de una década en la región, ofrecemos asesoría legal
+        </p>
+        <p>
+            y servicios basados en la ética, la credibilidad y la confiabilidad
+            jurídica que tu patrimonio merece.
+        </p>
         <BotonContactame />
     </div>
-    
-
 </section>
 
 <style>
-
     img {
         max-height: 250px;
     }
@@ -33,57 +35,56 @@ import BotonContactame from "../BotonContactame.astro";
     }
 
     section {
-    display: flex;
-    flex-direction: column;
-    align-items:center;
-    justify-content: center;
-    text-align:justify;
-    position: relative;
-    z-index: 1;
-    gap: 4px;
-    height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: justify;
+        position: relative;
+        z-index: 1;
+        gap: 4px;
+        height: 100vh;
     }
 
     section::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('https://xog66v6ev27cffhzfqbrfqzu2alkahlhxojo3dlhtgpwwlepkn5a.arweave.ar/u43vV8SuviKU-SwDEsM00BagHWe7ku2NZ5mfayyPU3o');
-    background-size: cover;
-    background-position:center;
-    opacity: 0.8; /* Ajusta este valor para la opacidad */
-    z-index: -1; /* Coloca el fondo detrás del contenido */
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url("https://xog66v6ev27cffhzfqbrfqzu2alkahlhxojo3dlhtgpwwlepkn5a.arweave.net/u43vV8SuviKU-SwDEsM00BagHWe7ku2NZ5mfayyPU3o");
+        background-size: cover;
+        background-position: center;
+        opacity: 0.8; /* Ajusta este valor para la opacidad */
+        z-index: -1; /* Coloca el fondo detrás del contenido */
     }
 
     section p {
-    font-size: 20px;
-    max-width: 800px;
+        font-size: 20px;
+        max-width: 800px;
     }
 
     span {
-       color: #00bbff;
+        color: #00bbff;
     }
 
     @media screen and (max-width: 1270px) {
-
         section {
             flex-direction: column;
             text-align: center;
         }
 
         div p {
-          margin: 0 8px;
+            margin: 0 8px;
         }
 
         h2 {
             font-size: 45px;
         }
-        
+
         img {
-        max-height: 100px;
+            max-height: 100px;
         }
     }
 </style>
