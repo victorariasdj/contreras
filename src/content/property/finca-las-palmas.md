@@ -3,7 +3,7 @@ date: "2025-02-04"
 title: Finca Las Palmas
 img: https://f4ix3ghle4q3op5rwusozvymqypoqb2pk6i6lcwoeqfrcxgdcyvq.arweave.net/LxF9mOsnIbc_sbUk7NcMhh7oB09XkeWKziQLEVzDFis
 ubicacion: Vereda el Caney 
-precio: "460.000.000"
+precio: "360.000.000"
 cercaDe:
 tipoPropiedad: Casa
 estado: Finca
@@ -55,4 +55,3 @@ Una casa principal con 4 habitaciones, 1 baño y parqueadero<br>
 - Rodeada de un vecindario tranquilo y trabajador, ideal para proyectos agrícolas, ganaderos o de descanso <br><br>
 
 **Es perfecta para quienes valoran la conexión con la tierra, el silencio del campo y las oportunidades que solo una buena finca rural puede ofrecer. Su ubicación, acceso y calidad de suelo la hacen ideal para producir o simplemente vivir rodeado de naturaleza.** <br><br>
-
