@@ -46,10 +46,6 @@ galeria:
     alt: Parcelación El Lago
   - src: https://vwx35l23jr35rxv6ycgpzuld2m7no37i42nvf2qxkk3yozbzy2wq.turbo-gateway.com/ra--r1tMd9jevsCM_NFj0z7Xb-jmm1LqF1K3h2Q5xq0?
     alt: Parcelación El Lago
-  - src: https://7rxjas76bz7k53trolosrzrqfnrfxggjizvcdwef6fbxgkjq2hmq.turbo-gateway.com/_G6QS_4Ofq7ucXLdKOYwK2JbmMlGaiHYhfFDcykw0dk?
-    alt: Parcelación El Lago
-  - src: https://2mzql2u6v6nymepjrjpacjcmudybdhnvj6e2a6z2yf6zmseijrca.turbo-gateway.com/0zMF6p6vm4YR6YpeASRMoPARnbVPiaB7OsF9lkiITEQ?
-    alt: Parcelación El Lago
   - src: https://t3nmwhf5veeccyhh5ze2igoaiuw2exrnqipjjtautlfauvu3e5fa.turbo-gateway.com/ntrLHL2pCCFg5-5JpBnARS2iXi2CHpTMFJrKClabJ0o?
     alt: Parcelación El Lago
   - src: https://ts44gbl2wx4xnodpxscidjm7atj6w4pbdwott3g57iplxwtt44wq.turbo-gateway.com/nLnDBXq1-Xa4b7yEgaWfBNPrceEdnTns3foeu9pz5y0?
@@ -59,8 +55,6 @@ galeria:
   - src: https://uphf5gt7roxjxx4sljlic6bw6enszplymugnngqj6eb6lghlfidq.turbo-gateway.com/o85emn-LrpvfklpWgXg28RssvXhlDNaaCfED5ZjrKgc?
     alt: Parcelación El Lago
   - src: https://mz4nhqzjdrrqg7g43wlsjilr4hgp56q7pqjinqo7qkk4h5dvu2ua.turbo-gateway.com/ZnjTwykcYwN83N2XJKFx4cz--h98EobB34KVw_R1pqg?
-    alt: Parcelación El Lago
-  - src: https://lamrcbhsv3fkacznsx57ia3petucshukzlhkadnedrqmsmimcpvq.turbo-gateway.com/WBkRBPKuyqALLZX79ANvJOgpHorKzqANpBxgyTEME-s?
     alt: Parcelación El Lago
   - src: https://g3ihocad3ontw2enrcyc4vskmc4sw2nxmbelpxotbm7u2vtjhhnq.turbo-gateway.com/NtB3CAPbmztojYiwLlZKYLkrabdgSLfd0ws_TVZpOds?
     alt: Parcelación El Lago

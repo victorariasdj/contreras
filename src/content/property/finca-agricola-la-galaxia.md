@@ -97,4 +97,10 @@ galeria:
 
 ---
 
-Sobre carretera, abastecida por dos acueductos rurales, único dueño.<br><br> Está dividida en 6 lotes, los cuales están en producción con 5500 árboles de café; también hay cultivos de plátano, naranjas, aguacates, mandarinas, limones, zapote, guamas, chirimoya, pitahaya y otros árboles frutales. <br><br>
+Sobre carretera, abastecida por dos acueductos rurales, único dueño.<br><br>
+
+Casa principal con 3 habitaciones, sala, conmedor, cocina. <br><br>
+
+Casa casero, 2 habitaciones, cocina, sala comedor. <br><br>
+
+Está dividida en 6 lotes, los cuales están en producción con 5500 árboles de café; también hay cultivos de plátano, naranjas, aguacates, mandarinas, limones, zapote, guamas, chirimoya, pitahaya y otros árboles frutales. <br><br>

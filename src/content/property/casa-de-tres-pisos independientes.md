@@ -7,7 +7,7 @@ precio: "330.000.000"
 cercaDe: A 6 cuadras del parque principal
 tipoPropiedad: Casa
 estado: Venta
-areaPropiedad: 72
+areaPropiedad: 216
 areaConstruida: 216
 descripcion:  En el primer piso, dos habitaciones, dos baños, sala comendor. Sgundo piso con lo mismo del primero. Tercer piso, una habitacion, un baño, sala comedor, muy amplio.
 habitaciones: 5
