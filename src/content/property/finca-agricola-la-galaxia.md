@@ -1,7 +1,7 @@
 ---
 date: "2026-05-06"
 title: Finca Agrícola La Galaxia 
-img: https://rkvgmyvqovjl6pvt3jsdfbduqzqxz2m5hvr2m6g467turc27xpxq.turbo-gateway.com/iqpmYrB1Ur8-s9pkMoR0hmF86Z09Y6Z43PfnSItfu-8?
+img: https://rezbthj2ng6v7522ue6j2vmwa5o2tmqsiecx7uf4tztuj5itirla.turbo-gateway.com/iTIZnTppvV_3WqE8nVWWB12pshJBBX_QvJ5nRPUTRFY?
 ubicacion: Calima Darién
 precio: "500.000.000"
 cercaDe: Calima el Darién
