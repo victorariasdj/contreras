@@ -28,13 +28,7 @@ galeria:
     alt: Finca Agrícola La Galaxia
   - src: https://rdcalli6u5qgwtl5yyd2cp75yan4vivfx3v554mpmnquuxzawoaq.turbo-gateway.com/iMQFrR6nYGtNfcYHoT_9wBvKoqW-697xj2NhSl8gs4E?
     alt: Finca Agrícola La Galaxia
-  - src: https://zpy76uagv45bis4p3ekbfspwi6o5h4l2hg7vhywgmmckikgybela.turbo-gateway.com/y_H_UAavOhRLj9kUEsn2R53T8Xo5v1PixmMEpCjYCRY?
-    alt: Finca Agrícola La Galaxia
-  - src: https://54r2zswh2lnka7sbm7nhodch5323shit32xg3ymmog5lnwpkqisa.turbo-gateway.com/7yOsysfS2qB-QWfadwxH7vW5HRPerm3hjHG6ttnqgiQ?
-    alt: Finca Agrícola La Galaxia
-  - src: https://vtvfu3b7gpdtt3wnjgnnzzzgrs6ojkcyro2dmyqql27rw5sawcfq.turbo-gateway.com/rOpabD8zxznuzUma3OcmjLzkqFiLtDZiEF6_G3ZAsIs?
-    alt: Finca Agrícola La Galaxia
-  - src: https://zulezgq53rhwpynr24f47isvbjkp73tkqvsipqdeir7lk6ofnjja.turbo-gateway.com/zRZMmh3cT2fhsdcLz6JVClT_7mqFZIfAZER-tXnFalI?
+  - src: https://xrcxot77haznazbobjesejqbrdj6aydvc5cp4ilmfca6fci2y56a.turbo-gateway.com/vEV3T_84MtBkLgpJIiYBiNPgYHUXRP4hbCiB4okax3w?
     alt: Finca Agrícola La Galaxia
   - src: https://3spsy2ptd4mpau37dzb2sbh75dg5to72sugsxfvpib3w47wwt6qq.turbo-gateway.com/3J8safMfGPBTfx5DqQT_6M3Zu_qVDSuWr0B3bn7Wn6E?
     alt: Finca Agrícola La Galaxia
@@ -43,8 +37,6 @@ galeria:
   - src: https://dti7ocftyurjsbghemzffkgttvmko5k7kelwwxmtgj6subtrd63a.turbo-gateway.com/HNH3CLPFIpkExyMyUqjTnVindV9RF2tdkzJ9KgZxH7Y?
     alt: Finca Agrícola La Galaxia
   - src: https://5ehcd7n5snhro5t53o76excbk6wwcxbh7atupksytwkzkh4wumtq.turbo-gateway.com/6Q4h_b2TTxd2fdu_4lxBV61hXCf4J0eqWJ2VlR-Woyc?
-    alt: Finca Agrícola La Galaxia
-  - src: https://oyy7hmwtv5sb4q34rfiqlt3tsltynsbpfrmhlqtwfktwffwlxwpa.turbo-gateway.com/djHzstOvZB5DfIlRBc9zkueGyC8sWHXCdiqnYpbLvZ4?
     alt: Finca Agrícola La Galaxia
   - src: https://jmcoffbereint6vipzjzn4bqpiwfgod4doeuee4pmiv2xtphxl7q.turbo-gateway.com/SwTilCSJENn6qH5TlvAweixTOHwbiUITj2Irq83nuv8?
     alt: Finca Agrícola La Galaxia
