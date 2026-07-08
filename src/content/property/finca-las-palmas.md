@@ -1,7 +1,7 @@
 ---
 date: "2025-02-04"
 title: Finca Las Palmas
-img: https://f4ix3ghle4q3op5rwusozvymqypoqb2pk6i6lcwoeqfrcxgdcyvq.arweave.net/LxF9mOsnIbc_sbUk7NcMhh7oB09XkeWKziQLEVzDFis
+img: https://hzobsipdddw7xagja4pf6gwx63v2prcgstimknfhg7jbveps33aq.arweave.net/PlwZIeMY7fuAyQceXxrX9uunxEaU0MU0pzfSGpHy3sE
 ubicacion: Vereda el Caney 
 precio: "360.000.000"
 cercaDe:
