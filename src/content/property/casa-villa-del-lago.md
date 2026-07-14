@@ -75,6 +75,7 @@ Horno.<br>
 Estufa.<br>
 Calentador.<br>
 Nevera.<br>
+Cuarto de servicio San alejo<br>
 Agua/gas/electricidad, Sistema de seguridad, video, Alarma <br><br>
 
 Amenidades del conjunto:<br>
