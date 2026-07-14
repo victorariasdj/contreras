@@ -68,4 +68,17 @@ galeria:
 ---
 
 Propiedad con buena tradición, dentro de la parcelación villas del lago, excelentes acabados, pago de administración 300 mil pesos al mes. propiedad muy iluminada. <br><br>
+Equipamiento.<br>
+Cocina.<br>
+Campana extractora.<br>
+Horno.<br>
+Estufa.<br>
+Calentador.<br>
+Nevera.<br>
 Agua/gas/electricidad, Sistema de seguridad, video, Alarma <br><br>
+
+Amenidades del conjunto:<br>
+PISCINA.<br>
+KIOSCO.<br>
+SENDERO ECOLOGICO.<br>
+CANCHA FUTBOL Y CANCHA BOLEY.<br><br>
