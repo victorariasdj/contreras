@@ -72,8 +72,6 @@ galeria:
     alt: Casa Cra13b Museo
   - src: https://4nouzdykc3z3gsqtjgyrcc7riimobdijlhhc6z56wfakoab6k2wa.turbo-gateway.com/411MjwoW87NKE0mxEQvxQhjgjQlZzi9nvrFApwA-Vqw?
     alt: Casa Cra13b Museo
-  - src: https://pvkn5qittsswtqyvl4mt67ays7d6lxnm65v4i2nbm2yluoi5u2xa.turbo-gateway.com/fVTewROcpWnDFV8ZP3wYl8fl3az3a8RpoWawujkdpq4?
-    alt: Casa Cra13b Museo
   - src: https://qz4hopxdkpsy5ff3v6zoqtkujk6yk5bsk2oupay2ij5jnravzwia.turbo-gateway.com/hnh3PuNT5Y6Uu6-y6E1USr2FdDJWnUeDGkJ6lsQVzZA?
     alt: Casa Cra13b Museo
   - src: https://wpqkrd2evajvakz77oicrl5ejq5gdxzbc3tjww54wj53ev6h737a.turbo-gateway.com/s-Coj0SoE1ArP_uQKK-kTDph3yEW5ptbvLJ7slfH_v4?
