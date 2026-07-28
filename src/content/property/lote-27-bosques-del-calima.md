@@ -50,11 +50,7 @@ galeria:
     alt: Lote 27 Bosques del Calima
   - src: https://v4ahqgkks3tnrmjmfxccc5i2x6qohrqf3xepcmqbepfxb2tsaxga.turbo-gateway.com/rwB4GUqW5tixLC3EIXUav6DjxgXdyPEyASPLcOpyBcw?
     alt: Lote 27 Bosques del Calima
-  - src: https://5weoc5gwiectdufqglfl42zyzsgu5iii2dknpm2fpexmii32a4lq.turbo-gateway.com/7YjhdNZBBTHQsDLKvms4zI1OoQjQ1NezRXkuxCN6Bxc?
-    alt: Lote 27 Bosques del Calima
   - src: https://wsdvi4jhi4shvswwkq4hptdykhsxcs7vrctbgnxwrz6z2oc5dwba.turbo-gateway.com/tIdUcSdHJHrK1lQ4d8x4UeVxS_WIphM29o59nThdHYI?
-    alt: Lote 27 Bosques del Calima
-  - src: https://sbquymwodllsfmazdgnkl6u3dt7waskigix2lyle6drei5qwif7q.turbo-gateway.com/kGFMMs4a1yKwGRmapfqbHP9gSUgyL6XhZPDiRHYWQX8?
     alt: Lote 27 Bosques del Calima
   - src: https://gny4uhredhdpd7hhlccspbzrjyzozuv6scxlroya6l2cbg47joxq.turbo-gateway.com/M3HKHiQZxvH851iFJ4cxTjLs0r6Qrri7APL0IJufS68?
     alt: Lote 27 Bosques del Calima
@@ -81,8 +77,6 @@ galeria:
   - src: https://hbhijsvo3vu7av6dgwccapq64nrewnw6rwmbvlkcft4a53vhswhq.turbo-gateway.com/OE6Eyq7dafBXwzWEID4e42JLNt6NmBqtQiz4Du6nlY8?
     alt: Lote 27 Bosques del Calima
   - src: https://ia7hnwplnsww6re23hxyopyijy6ywphrpta7vccaeztltr4uehrq.turbo-gateway.com/QD522etsrW9Emtnvhz8ITj2LPPF8wfqIQCZmuceUIeM?
-    alt: Lote 27 Bosques del Calima
-  - src: https://lgqi6ffu67al6f6kiaqrv3uz3gnjhe6tq6bakdceptoo6kggyuiq.turbo-gateway.com/WaCPFLT3wL8XykAhGu6Z2ZqTk9OHggUMRHzc7yjGxRE?
     alt: Lote 27 Bosques del Calima
   - src: https://q6kx3wgmeos2h2itroiulvsyyhq37auedpyyaddxnrufihue2i5a.turbo-gateway.com/h5V92MwjpaPpE4uRRdZYweG_goQb8YAMd2xoVB6E0jo?
     alt: Lote 27 Bosques del Calima
