@@ -3,7 +3,7 @@ date: "2026-07-31"
 title: Cra1e No 8-27 Calima Darien
 img: https://mffnctrtwfkfgqctzigk2fhbbsbd6mlkqjtto2r24pwiculxhgiq.turbo-gateway.com/YUrRTjOxVFNAU8oMrRThDII_MWqCZzdqOuPsgVF3OZE?
 ubicacion: Calima Darién
-precio: "150.000.000"
+precio: "160.000.000"
 cercaDe: Polideportivo cincuentenario.
 tipoPropiedad: Casa
 estado: Venta
