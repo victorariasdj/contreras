@@ -3,7 +3,7 @@ date: "2021-03-13"
 title: Finca El Sésamo
 img: https://72g7bd5f3bqjch6vsr2s3o6dynra7skdnowd6obiuj4yi2qsr7rq.arweave.net/_o3wj6XYYJEf1ZR1LbvDw2IPyUNrrD84KKJ5hGoSj-M
 ubicacion: Calima Darién
-precio: "850.000.000"
+precio: "730.000.000"
 cercaDe: Finca El Sésamo
 tipoPropiedad: Casa Campestre
 estado: Venta
