@@ -3,7 +3,7 @@ date: "2026-09-04"
 title: Lote 4 parcelacion Refugio Villa Betty
 img: https://mnhpnaxekitp2jb7bbswkpas7wv2ll7auyirxsclwrbkak3hdlrq.turbo-gateway.com/Y072guRSJv0kPwhlZTwS_aulr-CmERvIS7RCoCtnGuM?
 ubicacion: Vereda el Vergel camila darien
-precio: "2500.000.000"
+precio: "3000.000.000"
 cercaDe: al lado de Las Mellizas
 tipoPropiedad: Casa Campestre
 estado: Venta
